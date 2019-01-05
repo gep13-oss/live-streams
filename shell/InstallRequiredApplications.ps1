@@ -22,5 +22,9 @@ choco install vscode-icons -y
 choco install vscode-autohotkey -y
 choco install googlechrome -y
 choco install git -y
+choco install gitextensions -y
+choco install poshgit -y
+choco install kdiff3 -y
 
-Update-Help
+Update-SessionEnvironment
+choco install gep13.gitConfig -y --source="https://www.myget.org/F/gep13/api/v2"
