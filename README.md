@@ -22,3 +22,17 @@ In this stream, we talked about how the Moderation Process for the Chocolatey Co
 
 
 [![Monday 7th January 2019 - Live Stream](http://img.youtube.com/vi/bwZBWzABynU/0.jpg)](http://www.youtube.com/watch?v=bwZBWzABynU "Monday 7th January 2019 - Live Stream")
+
+In this live stream, we talked about the end to end process of setting up a complete CI/CD pipeline for a new Cake addin.  The included setting up of:
+
+* Appveyor
+* Cake.Recipe
+* xUnit Tests
+* Code Coverage with OpenCover
+* Publishing Code Coverage metrics to coveralls.io
+* Mergify
+* Dependabot
+* GitVersion
+* GitReleaseManager
+
+At the end of the video, the new Cake addin was successfully submitted to NuGet.org as part of the release, and a tweet and Gitter message were automatically sent out to the community to let them know that the addin is available.
