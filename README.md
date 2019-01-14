@@ -15,6 +15,8 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ### Monday 14th January 2019
 
+[![Monday 14th January 2019 - Live Stream](http://img.youtube.com/vi/jFozwL8qizU/0.jpg)](http://www.youtube.com/watch?v=jFozwL8qizU "Monday 14th January 2019 - Live Stream")
+
 In this stream, we talked about how to get started with the Chocolatey Source Code, highlighting a couple of known stumbling blocks that people run into.
 
 * Missing SolutionVersion.cs file
