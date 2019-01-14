@@ -28,3 +28,5 @@ choco install kdiff3 -y
 
 Update-SessionEnvironment
 choco install gep13.gitConfig -y --source="https://www.myget.org/F/gep13/api/v2"
+
+choco install visualstudio2017-powershelltools -y
