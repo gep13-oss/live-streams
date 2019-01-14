@@ -13,6 +13,16 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Past streams
 
+### Monday 14th January 2019
+
+In this stream, we talked about how to get started with the Chocolatey Source Code, highlighting a couple of known stumbling blocks that people run into.
+
+* Missing SolutionVersion.cs file
+* Requirement to install dotnet 3.5
+* Running with a second instance of Chocolatey
+
+From there, we started implementing a new Export command, that can be used to export the current list of packages into a packages.config, which could then be passed into the `choco install` command on another machine, or when re-building current machine.
+
 ### Monday 7th January 2019
 
 [![Monday 7th January 2019 - Live Stream](http://img.youtube.com/vi/bwZBWzABynU/0.jpg)](http://www.youtube.com/watch?v=bwZBWzABynU "Monday 7th January 2019 - Live Stream")
