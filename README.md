@@ -2,6 +2,15 @@
 
 I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topcis.  I intend this to be a weekly stream, on a Monday evening at 8pm (GMT), but this may be subject to change.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
 
+## Upcoming streams
+
+| Date                         | Topic                                            |
+|------------------------------|--------------------------------------------------|
+| 21 January 2019 - 8PM GMT    | Finish new Chocolatey Export Command             |
+| 28th January 2019            | No Stream - away for Speaking Tour               |
+| 4th February 2019 - 8PM GMT  | Converting GitReleaseManager to use Spectre.Cli  |
+| 11th February 2019 - 8PM GMT | Hacking on Visual Studio Code Extension for Cake |
+
 ## Past streams
 
 ### Monday 10th December 2018
