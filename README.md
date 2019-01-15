@@ -25,6 +25,13 @@ In this stream, we talked about how to get started with the Chocolatey Source Co
 
 From there, we started implementing a new Export command, that can be used to export the current list of packages into a packages.config, which could then be passed into the `choco install` command on another machine, or when re-building current machine.
 
+The output from this live-stream can be seen in this commit here:
+
+https://github.com/gep13/choco/commit/9ca6f01b6f7619a438833e3c01107ad0e7bd6a3a
+
+There is still some work that needs to be done here to finish off this work, but it is at least functional for this first pass.
+
+
 ### Monday 7th January 2019
 
 [![Monday 7th January 2019 - Live Stream](http://img.youtube.com/vi/bwZBWzABynU/0.jpg)](http://www.youtube.com/watch?v=bwZBWzABynU "Monday 7th January 2019 - Live Stream")
