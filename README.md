@@ -14,7 +14,7 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ### Monday 21st January 2019
 
-[![Monday 21st January 2019 - Live Stream](http://img.youtube.com/vi/ppc3eZtILVM/0.jpg)](http://www.youtube.com/watch?v=ppc3eZtILVM "Monday 21st January 2019 - Live Stream")
+[![Monday 21st January 2019 - Live Stream](http://img.youtube.com/vi/ppc3eZtILVM/2.jpg)](http://www.youtube.com/watch?v=ppc3eZtILVM "Monday 21st January 2019 - Live Stream")
 
 In this stream, we continued talking about how to extend the Chocolatey CLI with a new command, `choco export`.
 
