@@ -14,6 +14,8 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ### Monday 21st January 2019
 
+[![Monday 21st January 2019 - Live Stream](http://img.youtube.com/vi/ppc3eZtILVM/0.jpg)](http://www.youtube.com/watch?v=ppc3eZtILVM "Monday 21st January 2019 - Live Stream")
+
 In this stream, we continued talking about how to extend the Chocolatey CLI with a new command, `choco export`.
 
 This included a brief discussion about how Unit Testing is done on the Chocolatey code base, and the need to install the NUnit 2 Test Adapter so that the Test Explorer reports success/failure correctly.
