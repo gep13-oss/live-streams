@@ -6,12 +6,25 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                         | Topic                                            |
 |------------------------------|--------------------------------------------------|
-| 21 January 2019 - 8PM GMT    | Finish new Chocolatey Export Command             |
 | 28th January 2019            | No Stream - away for Speaking Tour               |
 | 4th February 2019 - 8PM GMT  | Converting GitReleaseManager to use Spectre.Cli  |
 | 11th February 2019 - 8PM GMT | Hacking on Visual Studio Code Extension for Cake |
 
 ## Past streams
+
+### Monday 21st January 2019
+
+In this stream, we continued talking about how to extend the Chocolatey CLI with a new command, `choco export`.
+
+This included a brief discussion about how Unit Testing is done on the Chocolatey code base, and the need to install the NUnit 2 Test Adapter so that the Test Explorer reports success/failure correctly.
+
+There was a little bit of a side line discussion about the correct encoding to apply to a file, which we eventually got figured out.
+
+The output from this live-stream can be seen in this commit here:
+
+https://github.com/gep13/choco/commit/b5fa2f079700dab1f6e347df57ba93b1b64cc44a
+
+There is still some work that needs to be done here to finish off this work, but the additional arguments that have been added make it much more functional.
 
 ### Monday 14th January 2019
 
@@ -30,7 +43,6 @@ The output from this live-stream can be seen in this commit here:
 https://github.com/gep13/choco/commit/9ca6f01b6f7619a438833e3c01107ad0e7bd6a3a
 
 There is still some work that needs to be done here to finish off this work, but it is at least functional for this first pass.
-
 
 ### Monday 7th January 2019
 
