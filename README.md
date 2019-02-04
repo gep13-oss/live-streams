@@ -4,13 +4,33 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Upcoming streams
 
-| Date                         | Topic                                            |
-|------------------------------|--------------------------------------------------|
-| 28th January 2019            | No Stream - away for Speaking Tour               |
-| 4th February 2019 - 8PM GMT  | Converting GitReleaseManager to use Spectre.Cli  |
-| 11th February 2019 - 8PM GMT | Hacking on Visual Studio Code Extension for Cake |
+| Date                         | Topic                                                  |
+|------------------------------|--------------------------------------------------------|
+| 11th February 2019 - 8PM GMT | Hacking on Visual Studio Code Extension for Chocolatey |
+| 18th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 1   |
+| 25th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 2   |
 
 ## Past streams
+
+### Monday 4th February 2019
+
+[![Monday 4th February 2019 - Live Stream](http://img.youtube.com/vi/6roxDdoRZ_I/0.jpg)](http://www.youtube.com/watch?v=6roxDdoRZ_I "Monday 4th February 2019 - Live Stream")
+
+In this stream, we delved into the Spectre.Cli (https://www.nuget.org/packages/Spectre.Cli/) library, and how it can be applied to an existing command line application, in the form of GitReleaseManager (https://github.com/gittools/gitreleasemanager).
+
+This was my first stream with a guest on the show.  This was Patrik Svensson (https://twitter.com/firstdrafthell), the creator of the Spectre.Cli library.
+
+This stream consisted of showing how to go about setting up Spectre.Cli, and showing how to begin creating the command structure that a CLI application will use.
+
+The output from this live-stream can be seen in this commit here:
+
+// TODO: Add link to commit
+
+There is still some work that needs to be done here to finish off this work, including creation of additional commands as well as the settings for each command, however, the framework for all of this has been laid, so it should be reasonably simple to implement.  As mentioned on the stream, a good example of everything that can be done with Spectre.Cli can be seen in this PR:
+
+https://github.com/cake-build/cake/pull/2334
+
+Which is re-writing the Cake command line parsing to use Spectre.Cli.
 
 ### Monday 21st January 2019
 
