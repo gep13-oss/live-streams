@@ -33,6 +33,7 @@ Vagrant.configure("2") do |config|
     livestreams.vm.provision :shell, :path => "shell/SetWindowsPreferences.ps1", privileged: false
     livestreams.vm.provision :shell, :path => "shell/InstallChocolatey.ps1", privileged: false
     livestreams.vm.provision :shell, :path => "shell/InstallRequiredApplications.ps1", privileged: false
+    livestreams.vm.provision :shell, :path => "shell/ConfigureGit.ps1", privileged: false
     livestreams.vm.provision :shell, :path => "shell/NotifyGuiAppsOfEnvironmentChanges.ps1", privileged: false
   end
 end
