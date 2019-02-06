@@ -24,7 +24,7 @@ This stream consisted of showing how to go about setting up Spectre.Cli, and sho
 
 The output from this live-stream can be seen in this commit here:
 
-// TODO: Add link to commit
+https://github.com/GitTools/GitReleaseManager/commit/4d1e3ae53bdcb2481fc588ae9348ab72a535757e
 
 There is still some work that needs to be done here to finish off this work, including creation of additional commands as well as the settings for each command, however, the framework for all of this has been laid, so it should be reasonably simple to implement.  As mentioned on the stream, a good example of everything that can be done with Spectre.Cli can be seen in this PR:
 
