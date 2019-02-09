@@ -16,9 +16,9 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 [![Monday 4th February 2019 - Live Stream](http://img.youtube.com/vi/6roxDdoRZ_I/0.jpg)](http://www.youtube.com/watch?v=6roxDdoRZ_I "Monday 4th February 2019 - Live Stream")
 
-In this stream, we delved into the Spectre.Cli (https://www.nuget.org/packages/Spectre.Cli/) library, and how it can be applied to an existing command line application, in the form of GitReleaseManager (https://github.com/gittools/gitreleasemanager).
+In this stream, we delved into the [Spectre.Cli](https://www.nuget.org/packages/Spectre.Cli/) library, and how it can be applied to an existing command line application, in the form of [GitReleaseManager](https://github.com/gittools/gitreleasemanager).
 
-This was my first stream with a guest on the show.  This was Patrik Svensson (https://twitter.com/firstdrafthell), the creator of the Spectre.Cli library.
+This was my first stream with a guest on the show.  This was [Patrik Svensson](https://twitter.com/firstdrafthell), the creator of the Spectre.Cli library.
 
 This stream consisted of showing how to go about setting up Spectre.Cli, and showing how to begin creating the command structure that a CLI application will use.
 
