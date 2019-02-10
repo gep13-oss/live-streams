@@ -9,7 +9,7 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 | 11th February 2019 - 8PM GMT | Hacking on Visual Studio Code Extension for Chocolatey |
 | 18th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 1   |
 | 25th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 2   |
-
+| 4th March 2019 - 8PM GMT     | Getting started with PoshBot - Create Plugin           |
 ## Past streams
 
 ### Monday 4th February 2019
