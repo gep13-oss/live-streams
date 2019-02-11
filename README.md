@@ -12,6 +12,11 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 | 4th March 2019 - 8PM GMT     | Getting started with PoshBot - Create Plugin           |
 ## Past streams
 
+### Monday 11th February 2019
+
+Resources:
+https://microsoft.github.io/language-server-protocol/
+
 ### Monday 4th February 2019
 
 [![Monday 4th February 2019 - Live Stream](http://img.youtube.com/vi/6roxDdoRZ_I/0.jpg)](http://www.youtube.com/watch?v=6roxDdoRZ_I "Monday 4th February 2019 - Live Stream")
