@@ -15,7 +15,10 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 ### Monday 11th February 2019
 
 Resources:
-https://microsoft.github.io/language-server-protocol/
+
+* https://microsoft.github.io/language-server-protocol/
+* https://microsoft.github.io/language-server-protocol/inspector/
+* https://martinbjorkstrom.com/posts/2018-11-29-creating-a-language-server
 
 ### Monday 4th February 2019
 
