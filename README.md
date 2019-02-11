@@ -6,19 +6,28 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                         | Topic                                                  |
 |------------------------------|--------------------------------------------------------|
-| 11th February 2019 - 8PM GMT | Hacking on Visual Studio Code Extension for Chocolatey |
 | 18th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 1   |
 | 25th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 2   |
 | 4th March 2019 - 8PM GMT     | Getting started with PoshBot - Create Plugin           |
+
 ## Past streams
 
 ### Monday 11th February 2019
 
-Resources:
+[![Monday 11th February 2019 - Live Stream](http://img.youtube.com/vi/rucgfNjxzog/0.jpg)](http://www.youtube.com/watch?v=rucgfNjxzog "Monday 11th February 2019 - Live Stream")
 
-* https://microsoft.github.io/language-server-protocol/
-* https://microsoft.github.io/language-server-protocol/inspector/
-* https://martinbjorkstrom.com/posts/2018-11-29-creating-a-language-server
+In this stream, I was joined by [Martin Björkström](https://twitter.com/mholo65), and we started looking at implementing a C# Language Server for validating a Chocolatey nuspec file which is opened within Visual Studio Code.  This used two nuget packages:
+
+* https://www.nuget.org/packages/OmniSharp.Extensions.LanguageProtocol/
+  * for creating/instantiating the Language Server
+* https://www.nuget.org/packages/GuiLabs.Language.Xml/
+  * for parsing the XML of the nuspec file
+
+The code that was discussed in this stream can be found in this [repository](https://github.com/mholo65/nuspec-lsp), which Martin created.  This show the complete prototype of the C# Language Server running within Visual Studio Code, and validating the nuspec using the Schema and also a custom rule for templated attributes.
+
+More information about the official Language Server Protocol can be found [here](https://microsoft.github.io/language-server-protocol/).
+
+And the blog post that Martin mentioned in the stream about creating a Language Server can be found [here](https://martinbjorkstrom.com/posts/2018-11-29-creating-a-language-server)
 
 ### Monday 4th February 2019
 
