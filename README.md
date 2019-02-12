@@ -1,6 +1,6 @@
 # Gary Ewan Park - Twitch
 
-I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topcis.  I intend this to be a weekly stream, on a Monday evening at 8pm (GMT), but this may be subject to change.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
+I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topics.  I intend this to be a weekly stream, on a Monday evening at 8pm (GMT), but this may be subject to change.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
 
 ## Upcoming streams
 
@@ -23,7 +23,7 @@ In this stream, I was joined by [Martin Björkström](https://twitter.com/mholo6
 * https://www.nuget.org/packages/GuiLabs.Language.Xml/
   * for parsing the XML of the nuspec file
 
-The code that was discussed in this stream can be found in this [repository](https://github.com/mholo65/nuspec-lsp), which Martin created.  This show the complete prototype of the C# Language Server running within Visual Studio Code, and validating the nuspec using the Schema and also a custom rule for templated attributes.
+The code that was discussed in this stream can be found in this [repository](https://github.com/mholo65/nuspec-lsp), which Martin created.  This shows the complete prototype of the C# Language Server running within Visual Studio Code, and validating the nuspec using the Schema and also a custom rule for templated attributes.
 
 More information about the official Language Server Protocol can be found [here](https://microsoft.github.io/language-server-protocol/).
 
@@ -111,4 +111,4 @@ In this stream, we talked about how the Moderation Process for the Chocolatey Co
 
 [![Monday 10th December 2018 - Live Stream](http://img.youtube.com/vi/_AVfJsVmf9g/0.jpg)](http://www.youtube.com/watch?v=_AVfJsVmf9g "Monday 10th December 2018 - Live Stream")
 
-In this stream, we talked about how to use Sonatypes Nexus Repository to cache packages from the Chocolatey Community Package Repository locally on your machine/environment, so that they don't need to be downloaded each time they are required.  This can help if you are running into tne newly implemented [Rate Limiting](https://chocolatey.org/docs/community-packages-disclaimer#rate-limiting) feature on chocolatey.org.
+In this stream, we talked about how to use Sonatypes Nexus Repository to cache packages from the Chocolatey Community Package Repository locally on your machine/environment, so that they don't need to be downloaded each time they are required.  This can help if you are running into the newly implemented [Rate Limiting](https://chocolatey.org/docs/community-packages-disclaimer#rate-limiting) feature on chocolatey.org.
