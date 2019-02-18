@@ -6,11 +6,31 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                         | Topic                                                  |
 |------------------------------|--------------------------------------------------------|
-| 18th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 1   |
 | 25th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 2   |
 | 4th March 2019 - 8PM GMT     | Getting started with PoshBot - Create Plugin           |
 
 ## Past streams
+
+### Monday 18th February 2019
+
+[![Monday 18th February 2019 - Live Stream](http://img.youtube.com/vi/-RzIhqOloic/0.jpg)](http://www.youtube.com/watch?v=-RzIhqOloic "Monday 18th February 2019 - Live Stream")
+
+In this stream, I started building a new VSCode Extension.  The function of this extension is to take the contents of the clipboard, and upload it to Azure Storage, and then output a markdown snippet to the current open markdown file.  This will dramatically improve the workflow that I use for writing blog posts, documentation, etc.
+
+The stream started with using the yeoman generator to scaffold out a new VSCode extension, and then make use of the Cake.VsCode.Recipe package for Cake to run a build of the extension, and generate the vsix file.  This was then connected to AppVeyor, so that every commit to the GitHub repository results in a build being executed.
+
+The commits that were completed in this stream can be found here:
+
+https://github.com/gep13/clipimg-vscode/commit/a8ce60f9c4b75d2505917460d911249f6e97a6f7
+https://github.com/gep13/clipimg-vscode/commit/7f1db4cd7188ab14a92f4f71cbdc9fd286eac518
+https://github.com/gep13/clipimg-vscode/commit/13e9ab0814d8116b9604425fa9a2d8c130907161
+https://github.com/gep13/clipimg-vscode/commit/4c80e8a06bab0e87983037f059ede232987d11cd
+
+Setting up of the AppVeyor build results in some failures, which were as a result of a bug in the Cake.VsCode.Recipe package.  An issue was created here:
+
+https://github.com/cake-contrib/Cake.VsCode.Recipe/issues/2
+
+to cover this.
 
 ### Monday 11th February 2019
 
