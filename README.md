@@ -4,10 +4,11 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Upcoming streams
 
-| Date                         | Topic                                                  |
-|------------------------------|--------------------------------------------------------|
-| 25th February 2019 - 8PM GMT | Creating a new Visual Studio Code Extension - Part 2   |
-| 4th March 2019 - 8PM GMT     | Getting started with PoshBot - Create Plugin           |
+| Date                          | Topic                                                  |
+|-------------------------------|--------------------------------------------------------|
+| 1st March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 3   |
+| 4th March 2019 - 8PM GMT      | Getting started with PoshBot - Create Plugin           |
+| 8th March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 4   |
 
 ## Past streams
 
