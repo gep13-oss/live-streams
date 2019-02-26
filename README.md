@@ -11,6 +11,28 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Past streams
 
+### 9 - Monday 25th February 2019
+
+[![Monday 25th February 2019 - Live Stream](http://img.youtube.com/vi/6NlJDWrteqM/0.jpg)](http://www.youtube.com/watch?v=6NlJDWrteqM "Monday 25th February 2019 - Live Stream")
+
+In this stream, we continued working on a new VSCode Extension for working with the contents of the clipboard, and allowing this to be uploaded to Azure blob storage, ready for pasting into a markdown file, for creating blog posts, documentation, etc.
+
+We started by reviewing a [PR](https://github.com/gep13/clipimg-vscode/pull/3) from [Kim Nordmo](https://github.com/AdmiringWorm) which implements the usage of InversifyJS within the extension:
+
+https://github.com/inversify/InversifyJS
+
+This was a great PR, which I have since implemented in two of my other VSCode extensions.  With this merged, we then started looking at implementing dependabot on the repository, as well as creating a default set of labels for the repository.
+
+Then, we starting looking into how to grab the clipboard contents on each operating system.  This was done by using the same functions that are used in this extension:
+
+https://github.com/mushanshitiancai/vscode-paste-image
+
+Which makes use of PowerShell, ActionScript and bash, to grab the contents of the clipboard, depending on which operating system is being used.
+
+The last commit that was created during this stream can be found here:
+
+https://github.com/gep13/clipimg-vscode/commit/299e3cfe22d0440f731e2af150e4731f076bdb65
+
 ### 8 - Monday 18th February 2019
 
 [![Monday 18th February 2019 - Live Stream](http://img.youtube.com/vi/-RzIhqOloic/0.jpg)](http://www.youtube.com/watch?v=-RzIhqOloic "Monday 18th February 2019 - Live Stream")
