@@ -11,7 +11,7 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Past streams
 
-### Monday 18th February 2019
+### 8 - Monday 18th February 2019
 
 [![Monday 18th February 2019 - Live Stream](http://img.youtube.com/vi/-RzIhqOloic/0.jpg)](http://www.youtube.com/watch?v=-RzIhqOloic "Monday 18th February 2019 - Live Stream")
 
@@ -32,7 +32,7 @@ https://github.com/cake-contrib/Cake.VsCode.Recipe/issues/2
 
 to cover this.
 
-### Monday 11th February 2019
+### 7 - Monday 11th February 2019
 
 [![Monday 11th February 2019 - Live Stream](http://img.youtube.com/vi/rucgfNjxzog/0.jpg)](http://www.youtube.com/watch?v=rucgfNjxzog "Monday 11th February 2019 - Live Stream")
 
@@ -49,7 +49,7 @@ More information about the official Language Server Protocol can be found [here]
 
 And the blog post that Martin mentioned in the stream about creating a Language Server can be found [here](https://martinbjorkstrom.com/posts/2018-11-29-creating-a-language-server)
 
-### Monday 4th February 2019
+### 6 - Monday 4th February 2019
 
 [![Monday 4th February 2019 - Live Stream](http://img.youtube.com/vi/6roxDdoRZ_I/0.jpg)](http://www.youtube.com/watch?v=6roxDdoRZ_I "Monday 4th February 2019 - Live Stream")
 
@@ -69,7 +69,7 @@ https://github.com/cake-build/cake/pull/2334
 
 Which is re-writing the Cake command line parsing to use Spectre.Cli.
 
-### Monday 21st January 2019
+### 5 - Monday 21st January 2019
 
 [![Monday 21st January 2019 - Live Stream](http://img.youtube.com/vi/ppc3eZtILVM/0.jpg)](http://www.youtube.com/watch?v=ppc3eZtILVM "Monday 21st January 2019 - Live Stream")
 
@@ -85,7 +85,7 @@ https://github.com/gep13/choco/commit/b5fa2f079700dab1f6e347df57ba93b1b64cc44a
 
 There is still some work that needs to be done here to finish off this work, but the additional arguments that have been added make it much more functional.
 
-### Monday 14th January 2019
+### 4 - Monday 14th January 2019
 
 [![Monday 14th January 2019 - Live Stream](http://img.youtube.com/vi/jFozwL8qizU/0.jpg)](http://www.youtube.com/watch?v=jFozwL8qizU "Monday 14th January 2019 - Live Stream")
 
@@ -103,7 +103,7 @@ https://github.com/gep13/choco/commit/9ca6f01b6f7619a438833e3c01107ad0e7bd6a3a
 
 There is still some work that needs to be done here to finish off this work, but it is at least functional for this first pass.
 
-### Monday 7th January 2019
+### 3 - Monday 7th January 2019
 
 [![Monday 7th January 2019 - Live Stream](http://img.youtube.com/vi/bwZBWzABynU/0.jpg)](http://www.youtube.com/watch?v=bwZBWzABynU "Monday 7th January 2019 - Live Stream")
 
@@ -121,13 +121,13 @@ In this live stream, we talked about the end to end process of setting up a comp
 
 At the end of the video, the new Cake addin was successfully submitted to NuGet.org as part of the release, and a tweet and Gitter message were automatically sent out to the community to let them know that the addin is available.
 
-### Monday 17th December 2018
+### 2 - Monday 17th December 2018
 
 [![Monday 17th December 2018 - Live Stream](http://img.youtube.com/vi/35JiK0AdGqM/0.jpg)](http://www.youtube.com/watch?v=35JiK0AdGqM "Monday 17th December 2018 - Live Stream")
 
 In this stream, we talked about how the Moderation Process for the Chocolatey Community Repository works.  This included the automated services that occur, including package_verifier, package_validator, package_scanner and package_cacher.  Following that, we discussed the manual review process that happens by one of the moderators of the Community Repository.  Finally, we addressed the usage of the package_cleanup service for tidying up unmaintained packages, and finally, using the Chocolatey Test Environment when creating/maintaining packages.
 
-### Monday 10th December 2018
+### 1 - Monday 10th December 2018
 
 [![Monday 10th December 2018 - Live Stream](http://img.youtube.com/vi/_AVfJsVmf9g/0.jpg)](http://www.youtube.com/watch?v=_AVfJsVmf9g "Monday 10th December 2018 - Live Stream")
 
