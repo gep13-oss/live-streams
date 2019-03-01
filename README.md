@@ -6,11 +6,20 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                          | Topic                                                  |
 |-------------------------------|--------------------------------------------------------|
-| 1st March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 3   |
 | 4th March 2019 - 8PM GMT      | Getting started with PoshBot - Create Plugin           |
 | 8th March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 4   |
 
 ## Past streams
+
+### 10 - Friday 1st March 2019
+
+[![Friday 1st March 2019 - Live Stream](http://img.youtube.com/vi/v4PW8vNcjBA/0.jpg)](http://www.youtube.com/watch?v=v4PW8vNcjBA "Friday 1st March 2019 - Live Stream")
+
+This was the first of a new time slot for streaming, which is going to be during my lunch hour every Friday.  This is going to be a shorter stream, as it is sandboxed to only a maximum of 1 hour.
+
+In this stream, we successfully broke the build for the new VSCode Extension that we are creating, and tried (to no avail) to figure out what was causing it to fail.  We also looked at adding some additional build related files to help with the overall build process, and spoke about what needs to happen in the final part of the extension, i.e. uploading the files to Azure Storage.
+
+**Update:** Turns out it was some sort of transient error.  Builds are now working correctly.
 
 ### 9 - Monday 25th February 2019
 
