@@ -11,6 +11,24 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Past streams
 
+### 11 - Monday 4th March 2019
+
+[![Monday 4th March 2019 - Live Stream](http://img.youtube.com/vi/fAbtG-At2Io/0.jpg)](http://www.youtube.com/watch?v=fAbtG-At2Io "Monday 4th March 2019 - Live Stream")
+
+In a change from the last few streams, this stream focused on a new topic.  In this stream, we delved into running PoshBot:
+
+https://github.com/poshbotio/PoshBot
+
+and how to go about creating a new Plugin for it.  We got a new "soon" plugin up and running, and the source code is published here:
+
+https://github.com/gep13/poshbot.soon
+
+We also showed off the new Backend for PoshBot to be able to use the [Gitter](https://gitter.im) messaging system.  The source code for that can be found here:
+
+https://github.com/gep13/PoshBot.Gitter.Backend
+
+Really, all that is left is to publish these modules to the PowerShell Gallery.  This was discussed in the stream, and Brandon Olin, the creator of PoshBot, explained how this can be done.
+
 ### 10 - Friday 1st March 2019
 
 [![Friday 1st March 2019 - Live Stream](http://img.youtube.com/vi/v4PW8vNcjBA/0.jpg)](http://www.youtube.com/watch?v=v4PW8vNcjBA "Friday 1st March 2019 - Live Stream")
