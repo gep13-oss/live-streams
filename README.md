@@ -6,7 +6,6 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                          | Topic                                                  |
 |-------------------------------|--------------------------------------------------------|
-| 4th March 2019 - 8PM GMT      | Getting started with PoshBot - Create Plugin           |
 | 8th March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 4   |
 
 ## Past streams
