@@ -4,9 +4,16 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Upcoming streams
 
-| Date                          | Topic                                                  |
-|-------------------------------|--------------------------------------------------------|
-| 8th March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 4   |
+| Date                                 | Topic                                                  |
+|--------------------------------------|--------------------------------------------------------|
+| Friday 8th March 2019 - 12PM GMT     | Creating a new Visual Studio Code Extension - Part 4   |
+| Monday 11th March 2019 - 8PM GMT     | TBD                                                    |
+| Friday 15th March 2019 - 12PM GMT    | TBD                                                    |
+| Monday 18th March 2019 - 8PM GMT     | TBD - Although unlikely as travelling to MVP Summit    |
+| Friday 22nd March 2019 - 12PM GMT    | TBD - Although unlikely as travelling to MVP Summit    |
+| Monday 25th March 2019 - 8PM GMT     | TBD - Although unlikley as travelling to MVP Summit    |
+| Friday 29th March 2019 - 12PM GMT    | TBD                                                    |
+| Monday 1st April 2019 - 8PM GMT      | TBD                                                    |
 
 ## Past streams
 
