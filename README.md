@@ -16,6 +16,16 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Past streams
 
+### 12 - Friday 8th March 2019
+
+[![Friday 8th March 2019 - Live Stream](http://img.youtube.com/vi/Vp05x6EUxJc/0.jpg)](http://www.youtube.com/watch?v=Vp05x6EUxJc "Friday 8th March 2019 - Live Stream")
+
+This was the second of my lunch time streams, where we were once again focusing on the new VSCode Extension that we are creating.
+
+This time, we set up mergify.io on the repository, as well as merged a PR that was created by dependabot.  This PR required some manual intervention, since the new type definitions for node meant that some additional guard's were required in the code base.
+
+With those things done, we started looking at the uploading of the files into Azure Storage.  We started looking at how the Azure Storage extension is doing this, and tested out it's functionality using a newly created Azure Storage Account.  This all worked, and we should be able to lift the code in quite easily into the extension.  There will be some work on my Azure account required, as right now, the storage account I am using is a classic account, which isn't really supported any longer.
+
 ### 11 - Monday 4th March 2019
 
 [![Monday 4th March 2019 - Live Stream](http://img.youtube.com/vi/fAbtG-At2Io/0.jpg)](http://www.youtube.com/watch?v=fAbtG-At2Io "Monday 4th March 2019 - Live Stream")
