@@ -6,7 +6,6 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                                 | Topic                                                               |
 |--------------------------------------|---------------------------------------------------------------------|
-| Monday 11th March 2019 - 8PM GMT     | Let's use AU to create an automatically updating Chocolatey Package |
 | Friday 15th March 2019 - 12PM GMT    | TBD                                                                 |
 | Monday 18th March 2019 - 8PM GMT     | TBD - Although unlikely as travelling to MVP Summit                 |
 | Friday 22nd March 2019 - 12PM GMT    | TBD - Although unlikely as travelling to MVP Summit                 |
@@ -15,6 +14,27 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 | Monday 1st April 2019 - 8PM GMT      | TBD                                                                 |
 
 ## Past streams
+
+### 13 - Monday 11th March 2019
+
+[![Monday 11th March 2019 - Live Stream](http://img.youtube.com/vi/afXnIu7bcEw/0.jpg)](http://www.youtube.com/watch?v=afXnIu7bcEw "Monday 11th March 2019 - Live Stream")
+
+In this stream, we looked into the process of converting a manually updated Chocolatey Package into one which is automatically automated.  This was done using the AU PowerShell Module:
+
+https://github.com/majkinetor/au
+
+I was joined on this stream by [Maurice Kevenaar](https://twitter.com/mkevenaar) who is a Community Chocolatey Package Maintainer, with 81 packages to his name.  He currently uses the AU system, and helped walk through what is required to convert to using AU for this package.
+
+This entailed creating a update.ps1 file, with the specific functions that are required to make AU work.  The end result of this stream can be seen here:
+
+https://github.com/gep13/inedo-chocolatey-packages/commit/dfe8716c9e51bbe457125756b789b498d808699c
+
+Some examples repositories that are using AU can be found here:
+
+* https://github.com/chocolatey/chocolatey-coreteampackages
+* https://github.com/mkevenaar/chocolatey-packages
+* https://github.com/AdmiringWorm/chocolatey-packages
+* https://github.com/pauby/ChocoPackages
 
 ### 12 - Friday 8th March 2019
 
