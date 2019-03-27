@@ -15,6 +15,10 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 [![Friday 15th March 2019 - Live Stream](http://img.youtube.com/vi/aecDukZETUE/0.jpg)](http://www.youtube.com/watch?v=aecDukZETUE "Friday 15th March 2019 - Live Stream")
 
+In this stream, we looked at what process should be followed when you find a package on Chocolatey.org that is in need to maintenance.  This included a discussion about how to reach out to the current maintainer(s) of a package, how to request help on a package, and also what you as an individual can do to try to help fix/update a package.   This video ended up with trying to create a PR to fix the Octave [package](https://chocolatey.org/packages/octave), which currently doesn't work correctly.  We were able to successfully walkthrough the process of updating the package, however, when it came to testing the package, we found that there was an issue.  This looks like an upstream issue, which is preventing the Chocolatey package from working correctly.
+
+Even though this wasn't successful, we were able to show the entire process that should be followed when attempting to get a package on Chocolatey.org updated.
+
 ### 13 - Monday 11th March 2019
 
 [![Monday 11th March 2019 - Live Stream](http://img.youtube.com/vi/afXnIu7bcEw/0.jpg)](http://www.youtube.com/watch?v=afXnIu7bcEw "Monday 11th March 2019 - Live Stream")
