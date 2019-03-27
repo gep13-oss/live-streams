@@ -6,14 +6,14 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 | Date                                 | Topic                                                               |
 |--------------------------------------|---------------------------------------------------------------------|
-| Friday 15th March 2019 - 12PM GMT    | TBD                                                                 |
-| Monday 18th March 2019 - 8PM GMT     | TBD - Although unlikely as travelling to MVP Summit                 |
-| Friday 22nd March 2019 - 12PM GMT    | TBD - Although unlikely as travelling to MVP Summit                 |
-| Monday 25th March 2019 - 8PM GMT     | TBD - Although unlikley as travelling to MVP Summit                 |
-| Friday 29th March 2019 - 12PM GMT    | TBD                                                                 |
-| Monday 1st April 2019 - 8PM GMT      | TBD                                                                 |
+| Friday 29th March 2019 - 12PM GMT    | No stream today - still catching up from being away last week       |
+| Monday 1st April 2019 - 8PM GMT      | Doing the Cake 0.33.0 release                                       |
 
 ## Past streams
+
+### 14 - Friday 15th March 2019
+
+[![Friday 15th March 2019 - Live Stream](http://img.youtube.com/vi/aecDukZETUE/0.jpg)](http://www.youtube.com/watch?v=aecDukZETUE "Friday 15th March 2019 - Live Stream")
 
 ### 13 - Monday 11th March 2019
 
