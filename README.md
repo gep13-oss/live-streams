@@ -1,15 +1,15 @@
 # Gary Ewan Park - Twitch
 
-I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topics.  I intend this to be a weekly stream, on a Monday evening at 8pm (GMT), but this may be subject to change.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
+I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topics.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
 
 ## Upcoming streams
 
 | Date                                          | Topic                                                               |
 |-----------------------------------------------|---------------------------------------------------------------------|
-| Monday 1st April 2019 - 8PM BST (UTC +1)      | Doing the Cake 0.33.0 release                                       |
-| Friday 5th April 2019 - 12PM BST (UTC +1)     | No Stream - Kids on School Holidays                                 |
-| Monday 8th April 2019 - 8PM BST (UTC +1)      | No Stream - Kids on School Holidays                                 |
-| Friday 12th April 2019 - 12PM BST (UTC +1)    | No Topic Defined Yet                                                |
+| Monday 1st April 2019 - 8PM BST (7PM GMT)     | Doing the Cake 0.33.0 release                                       |
+| Friday 5th April 2019 - 12PM BST (7PM GMT)    | No Stream - Kids on School Holidays                                 |
+| Monday 8th April 2019 - 8PM BST (7PM GMT)     | No Stream - Kids on School Holidays                                 |
+| Friday 12th April 2019 - 12PM BST (7PM GMT)   | No Topic Defined Yet                                                |
 
 
 ## Past streams
