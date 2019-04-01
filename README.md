@@ -4,10 +4,13 @@ I have recently started streaming on [Twitch](https://www.twitch.tv/gep13), on t
 
 ## Upcoming streams
 
-| Date                                 | Topic                                                               |
-|--------------------------------------|---------------------------------------------------------------------|
-| Friday 29th March 2019 - 12PM GMT    | No stream today - still catching up from being away last week       |
-| Monday 1st April 2019 - 8PM GMT      | Doing the Cake 0.33.0 release                                       |
+| Date                                          | Topic                                                               |
+|-----------------------------------------------|---------------------------------------------------------------------|
+| Monday 1st April 2019 - 8PM BST (UTC +1)      | Doing the Cake 0.33.0 release                                       |
+| Friday 5th April 2019 - 12PM BST (UTC +1)     | No Stream - Kids on School Holidays                                 |
+| Monday 8th April 2019 - 8PM BST (UTC +1)      | No Stream - Kids on School Holidays                                 |
+| Friday 12th April 2019 - 12PM BST (UTC +1)    | No Topic Defined Yet                                                |
+
 
 ## Past streams
 
