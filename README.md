@@ -6,13 +6,20 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                               |
 |-----------------------------------------------|---------------------------------------------------------------------|
-| Monday 1st April 2019 - 8PM BST (7PM GMT)     | Doing the Cake 0.33.0 release                                       |
 | Friday 5th April 2019 - 12PM BST (7PM GMT)    | No Stream - Kids on School Holidays                                 |
 | Monday 8th April 2019 - 8PM BST (7PM GMT)     | No Stream - Kids on School Holidays                                 |
 | Friday 12th April 2019 - 12PM BST (7PM GMT)   | No Topic Defined Yet                                                |
 
 
 ## Past streams
+
+### 15 - Monday 1st April 2019
+
+[![Monday 1st April 2019 - Live Stream](http://img.youtube.com/vi/cHtrJAc7sAQ/0.jpg)](http://www.youtube.com/watch?v=cHtrJAc7sAQ "Monday 1st April 2019 - Live Stream")
+
+In this stream, we walked through the process of doing a release of the Cake Open Source Project.  This resulted in version 0.33.0 of Cake being released to NuGet, Chocolatey and Homebrew.  The only thing that was left unfinished was a release blog post detailing what was included in the release.
+
+This was very much a behind the scenes look at how the Cake Team does the release process, showing the tools and techniques that are included.  We know that this isn't perfect, and likely some additional things can be automated, but at the very least, all the steps are documented, and can be followed by anyone on the team.
 
 ### 14 - Friday 15th March 2019
 
