@@ -6,10 +6,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                               |
 |-----------------------------------------------|---------------------------------------------------------------------|
-| Friday 5th April 2019 - 12PM BST (7PM GMT)    | No Stream - Kids on School Holidays                                 |
-| Monday 8th April 2019 - 8PM BST (7PM GMT)     | No Stream - Kids on School Holidays                                 |
-| Friday 12th April 2019 - 12PM BST (7PM GMT)   | No Topic Defined Yet                                                |
-
+| Friday 12th April 2019 - 12PM BST (7PM GMT)   | Continuing our ClipImg VSCode Extension                             |
+| Monday 8th April 2019 - 8PM BST (7PM GMT)     | Improving the Cake Website deployment infrastructure with @devlead  |
 
 ## Past streams
 
