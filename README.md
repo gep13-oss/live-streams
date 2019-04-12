@@ -11,6 +11,21 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 16 - Friday 12th April 2019
+
+[![Friday 12th April 2019 - Live Stream](http://img.youtube.com/vi/1fHq-DicEsA/0.jpg)](http://www.youtube.com/watch?v=1fHq-DicEsA "Friday 12th April 2019 - Live Stream")
+
+
+In this lunch time stream, we looked at an outstanding issue in the Cake Build Visual Studio Code Extension:
+
+https://github.com/cake-build/cake-vscode/issues/93
+
+Which causes the file that is being added to, to be reformatted, stripping all whitespace.  This is far from ideal.
+
+Stepping through the code, it was refactored to remove the usage of a file stream which reads and writes all lines in the file being edited, and changed it to simply add/update the current file that is open.
+
+Decisions had to be made regarding removing some functionality, as the way that things were implemented, meant that some functionality would be lost.
+
 ### 15 - Monday 1st April 2019
 
 [![Monday 1st April 2019 - Live Stream](http://img.youtube.com/vi/cHtrJAc7sAQ/0.jpg)](http://www.youtube.com/watch?v=cHtrJAc7sAQ "Monday 1st April 2019 - Live Stream")
