@@ -4,11 +4,28 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Upcoming streams
 
-| Date                                          | Topic                                                               |
-|-----------------------------------------------|---------------------------------------------------------------------|
-| Monday 15th April 2019 - 8PM BST (7PM GMT)    | Improving the Cake Website deployment infrastructure with @devlead  |
+| Date                                          | Topic                                                                        |
+|-----------------------------------------------|------------------------------------------------------------------------------|
+| Frinday 19th April 2019 - 12PM BST (11AM GMT) | More hacking on the Cake Extension for Visual Studio Code                    |
+| Monday 22nd April 2019 - 8PM BST (7PM GMT)    | Improving the Cake Website deployment infrastructure with @devlead - Part 2  |
 
 ## Past streams
+
+### 17 - Monday 15th April 2019
+
+[![Monday 15th April 2019 - Live Stream](http://img.youtube.com/vi/6OtNIpIOfRU/0.jpg)](http://www.youtube.com/watch?v=6OtNIpIOfRU
+ "Monday 15th April 2019 - Live Stream")
+
+
+In tonights stream, I was joined by [Mattias Karlsson](https://twitter.com/devlead) and we spoke about the current Cake Build Website Infrastructure, and how we are going to be changing it.
+
+The idea in this stream was to move to a Zip Deployment of the website, which is generated using [Wyam](https://wyam.io/), instead of deploying the files directly.  The intention was to shave many minutes off the overall deployment time of the website.  However, the stream was plagued with a number of issues...
+
+* Mattias's Skype connection kept dropping out
+* My Live Streaming VM's kept rebooting due to not having a valid product key
+* Azure and Azure DevOps permissions were fighting our ability to carry out some actions
+
+The end result was that we didn't quite get to a point where we were successfully deploying the site via Azure Pipelines, but I think we have all the component parts in place, we just need to work through a few remaining issues.
 
 ### 16 - Friday 12th April 2019
 
