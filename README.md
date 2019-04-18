@@ -6,7 +6,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Frinday 19th April 2019 - 12PM BST (11AM GMT) | More hacking on the Cake Extension for Visual Studio Code                    |
+| Friday 19th April 2019 - 12PM BST (11AM GMT)  | Let's update some Cake Addins to the latest version of Cake                  |
 | Monday 22nd April 2019 - 8PM BST (7PM GMT)    | Improving the Cake Website deployment infrastructure with @devlead - Part 2  |
 
 ## Past streams
