@@ -6,10 +6,27 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Friday 19th April 2019 - 12PM BST (11AM GMT)  | Let's update some Cake Addins to the latest version of Cake                  |
 | Monday 22nd April 2019 - 8PM BST (7PM GMT)    | Improving the Cake Website deployment infrastructure with @devlead - Part 2  |
 
 ## Past streams
+
+### 18 - Friday 19th April 2019
+
+[![Friday 19th April 2019 - Live Stream](http://img.youtube.com/vi/Nb9Nrj0WC94/0.jpg)](http://www.youtube.com/watch?v=Nb9Nrj0WC94
+ "Friday 19th April 2019 - Live Stream")
+
+In this lunch time stream, we looked at updating a Cake Addin ([Cake.Ember](https://github.com/cake-contrib/Cake.Ember)) to use the latest released version of Cake, 0.33.0.  This is required because there were potentially breaking changes made in Cake in this release, and as such, it is preferred that Cake Addin Maintainers update their references.
+
+There were a couple of hiccups along the way:
+
+* Live Stream VM is still rebooting due to license expiration
+* JetBrains DupFinder was failing to run due to lack of Visual Studio installation
+* Intermittent AppVeyor build failure
+
+But we got there in the end and a new 0.4.0 release of Cake.Ember was released here:
+
+https://www.nuget.org/packages/Cake.Ember/0.4.0
+
 
 ### 17 - Monday 15th April 2019
 
