@@ -6,7 +6,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Monday 22nd April 2019 - 8PM BST (7PM GMT)    | Improving the Cake Website deployment infrastructure with @devlead - Part 2  |
+| Monday 22nd April 2019 - 8PM BST (7PM GMT)    | Working on Cake.Recipe trying to get ready for a stable release              |
+| Friday 26th April 2019 - 12PM BST (11AM GMT)  | Updating Cake Addins that I created to use Cake 0.33.0                       |
 
 ## Past streams
 
