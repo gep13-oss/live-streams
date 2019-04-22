@@ -30,4 +30,13 @@ choco install ChocolateyGUI -y --no-progress
 #Update-SessionEnvironment
 #choco install gep13.gitConfig -y  --no-progress --source="https://www.myget.org/F/gep13/api/v2"
 
-#choco install visualstudio2017-powershelltools -y --no-progress
+# Additional things that should be automated
+# - Remove desktop icons (Edge, Code, Chrome, Git Extensions)
+# - Configure Task bar (Remove Task View, Remove People, Remove Cortana) (Remove pinned Edge, Store, Mail)
+# - Added pinned taskbar item for Administrative PowerShell
+# - Pin Visual Studio to Taskbar
+# - Pin VSCode to Taskbar
+# - Pin Chrome to Taskbar
+# - choco install visualstudio2017-powershelltools -y --no-progress (this needs a 2019 package)
+# - clone cake/secrets repository
+# - Setup PowerShell Profile and Posh-Git
