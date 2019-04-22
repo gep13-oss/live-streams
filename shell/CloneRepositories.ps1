@@ -35,6 +35,11 @@ cd ..
 git clone https://github.com/gep13/Cake.Ember.git
 cd Cake.Ember
 git remote add upstream https://github.com/cake-contrib/Cake.Ember.git
+cd ..
+
+git clone https://github.com/gep13/Cake.Recipe.git
+cd Cake.Recipe
+git remote add upstream https://github.com/cake-contrib/Cake.Recipe.git
 
 cd c:/github/organisations/cake-build
 git clone https://github.com/gep13/cake.git
