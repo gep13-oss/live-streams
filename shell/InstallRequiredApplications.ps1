@@ -41,3 +41,5 @@ choco install ChocolateyGUI -y --no-progress
 # - clone cake/secrets repository
 # - Setup PowerShell Profile and Posh-Git
 # - Increase font size in PowerShell
+# - Change to light theme in VSCode
+# - Increase font size in VSCode
