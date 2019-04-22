@@ -40,3 +40,4 @@ choco install ChocolateyGUI -y --no-progress
 # - choco install visualstudio2017-powershelltools -y --no-progress (this needs a 2019 package)
 # - clone cake/secrets repository
 # - Setup PowerShell Profile and Posh-Git
+# - Increase font size in PowerShell
