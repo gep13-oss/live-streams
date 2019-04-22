@@ -68,7 +68,7 @@ git remote add upstream https://github.com/Homebrew/homebrew-core.git
 
 cd c:/github/organisations/Microsoft
 git clone https://github.com/gep13/vscode-azurestorage.git
-cd homebrew-core
+cd vscode-azurestorage
 git remote add upstream https://github.com/Microsoft/vscode-azurestorage.git
 
 cd c:/github/organisations/poshbotio
