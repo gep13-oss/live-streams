@@ -11,6 +11,26 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 20 - Friday 26th April 2019
+
+[![Friday 26th April 2019 - Live Stream](http://img.youtube.com/vi/ijRjJlYfGPM/0.jpg)](http://www.youtube.com/watch?v=ijRjJlYfGPM
+ "Friday 26th April 2019 - Live Stream")
+
+In this lunch time stream, we looked at updating some Cake Addins ([Cake.Gitter](https://github.com/cake-contrib/Cake.Gitter) and [Cake.VsCode](https://github.com/cake-contrib/Cake.VsCode)  to use the latest released version of Cake, 0.33.0.  This is required because there were potentially breaking changes made in Cake in this release, and as such, it is preferred that Cake Addin Maintainers update their references.
+
+In the end new releases, both 0.11.0, Cake.Gitter and Cake.VsCode were released:
+
+https://www.nuget.org/packages/Cake.Gitter/0.11.0
+https://www.nuget.org/packages/Cake.VsCode/0.11.0
+
+### 19 - Monday 22nd April 2019
+
+[![Monday 22nd April 2019 - Live Stream](http://img.youtube.com/vi/_n9sJ_Vk9gM/0.jpg)](http://www.youtube.com/watch?v=_n9sJ_Vk9gM
+ "Monday 22nd April 2019 - Live Stream")
+
+The focus of tonights stream was to try to get [Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe) to a point where a stable release could be published.  Cake.Recipe has been in beta for a LONG time now, and going forward, it will require a number of breaking changes.  While it has been in beta for a long time, it is actually relatively stable, as such, the decision was taken to get to a 1.0.0 release, and then break things going forward.  In this stream, we triaged the issues that were associated with the next stream, and either bumped them to the next release, or completed the work necessary to get it to work.
+
+
 ### 18 - Friday 19th April 2019
 
 [![Friday 19th April 2019 - Live Stream](http://img.youtube.com/vi/Nb9Nrj0WC94/0.jpg)](http://www.youtube.com/watch?v=Nb9Nrj0WC94
