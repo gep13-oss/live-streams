@@ -6,10 +6,28 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Monday 22nd April 2019 - 8PM BST (7PM GMT)    | Working on Cake.Recipe trying to get ready for a stable release              |
-| Friday 26th April 2019 - 12PM BST (11AM GMT)  | Updating Cake Addins that I created to use Cake 0.33.0                       |
+| Friday 3rd May 2019 - 12PM BST (11AM GMT)     | Updating Cake Addins that I created to use Cake 0.33.0                       |
 
 ## Past streams
+
+### 21 - Monday 29th April 2019
+
+[![Monday 29th April 2019 - Live Stream](http://img.youtube.com/vi/cYXy04fhess/0.jpg)](http://www.youtube.com/watch?v=cYXy04fhess
+ "Monday 29th April 2019 - Live Stream")
+
+In tonights stream, I was joined again by [Mattias Karlsson](https://twitter.com/devlead) and we continued speaking about the current Cake Build Website Infrastructure, and how we are going to be changing it.
+
+We picked up where we left off from the previous stream:
+
+http://www.youtube.com/watch?v=6OtNIpIOfRU
+
+And ended up with a website deployment that has gone from over 30 minutes to complete, to one that takes just over 7 minutes to complete, and that includes deployment to 3 Azure App Services.
+
+All the work was done in the open, and can be seen in these commits:
+
+https://github.com/cake-build/website/commit/13311f124033744010ea66f3ebef488de68ea240
+https://github.com/cake-build/website/commit/83862e07ab31fed03d004a0bbdd09d194b0b611a
+https://github.com/cake-build/website/commit/4b371cf7f91c354f2164b9236df755ecc437f9ed
 
 ### 20 - Friday 26th April 2019
 
