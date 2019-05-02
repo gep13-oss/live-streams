@@ -12,7 +12,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ### 21 - Monday 29th April 2019
 
-[![Monday 29th April 2019 - Live Stream](http://img.youtube.com/vi/cYXy04fhess/0.jpg)](http://www.youtube.com/watch?v=cYXy04fhess
+[![Monday 29th April 2019 - Live Stream](http://img.youtube.com/vi/0axnfLID5x0/0.jpg)](http://www.youtube.com/watch?v=0axnfLID5x0
  "Monday 29th April 2019 - Live Stream")
 
 In tonights stream, I was joined again by [Mattias Karlsson](https://twitter.com/devlead) and we continued speaking about the current Cake Build Website Infrastructure, and how we are going to be changing it.
