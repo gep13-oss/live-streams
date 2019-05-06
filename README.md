@@ -6,7 +6,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Friday 3rd May 2019 - 12PM BST (11AM GMT)     | Updating Cake Addins that I created to use Cake 0.33.0                       |
+| Friday 10th May 2019 - 12PM BST (11AM GMT)    | Updating Cake Addins that I created to use Cake 0.33.0 - Part 4                     |
 
 ## Past streams
 
@@ -20,7 +20,7 @@ This is required because there were potentially breaking changes made in Cake in
 
 In the end a new release, 0.10.0,  of Cake.Coveralls was released:
 
-https://www.nuget.org/packages/Cake.Coveralls
+https://www.nuget.org/packages/Cake.Coveralls/0.10.0
 
 This video really serves as an example of how to upgrade/pin to the newly released version of Cake.Recipe, 1.0.0, as well.
 
