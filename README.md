@@ -10,10 +10,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 22 - Friday 3rd May 2019
+
+[![Friday 3rd May 2019 - Live Stream](http://img.youtube.com/vi/q0uF_PfEuUk/0.jpg)](http://www.youtube.com/watch?v=q0uF_PfEuUk "Friday 3rd May 2019 - Live Stream")
+
+In this lunch time stream, we looked at updating [Cake.Coveralls](https://github.com/cake-contrib/Cake.Coveralls) to use the latest released version of Cake, 0.33.0.  
+
+This is required because there were potentially breaking changes made in Cake in this release, and as such, it is preferred that Cake Addin Maintainers update their references.
+
+In the end a new release, 0.10.0,  of Cake.Coveralls was released:
+
+https://www.nuget.org/packages/Cake.Coveralls
+
+This video really serves as an example of how to upgrade/pin to the newly released version of Cake.Recipe, 1.0.0, as well.
+
 ### 21 - Monday 29th April 2019
 
-[![Monday 29th April 2019 - Live Stream](http://img.youtube.com/vi/0axnfLID5x0/0.jpg)](http://www.youtube.com/watch?v=0axnfLID5x0
- "Monday 29th April 2019 - Live Stream")
+[![Monday 29th April 2019 - Live Stream](http://img.youtube.com/vi/0axnfLID5x0/0.jpg)](http://www.youtube.com/watch?v=0axnfLID5x0 "Monday 29th April 2019 - Live Stream")
 
 In tonights stream, I was joined again by [Mattias Karlsson](https://twitter.com/devlead) and we continued speaking about the current Cake Build Website Infrastructure, and how we are going to be changing it.
 
