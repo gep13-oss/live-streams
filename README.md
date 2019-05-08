@@ -10,6 +10,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 23 - Monday 6th May 2019
+
+[![Monday 6th May 2019 - Live Stream](http://img.youtube.com/vi/cyORxlL6_c4/0.jpg)](http://www.youtube.com/watch?v=cyORxlL6_c4 "Monday 6th May 2019 - Live Stream")
+
+The stream this evening focused on the concept of Chocolatey Extension and Template packages.  This was a topic that was requested by one of my regular viewers, and in this stream, I walked through what these types of packages are, and how they can be useful to Chocolatey Package Maintainers.
+
+Towards the end of the stream, I attempted to create a template package specifically for creating an extension package, however, we ran into a few issues when trying to do this.  I have collected a number of issues that need to be investigated in Chocolatey to see if this package can be completed.
+
+Documentation about creating Extension Packages can be found [here](https://chocolatey.org/docs/how-to-create-extensions) and for creating Template Packages [here](https://chocolatey.org/docs/how-to-create-custom-package-templates).
+
+
 ### 22 - Friday 3rd May 2019
 
 [![Friday 3rd May 2019 - Live Stream](http://img.youtube.com/vi/q0uF_PfEuUk/0.jpg)](http://www.youtube.com/watch?v=q0uF_PfEuUk "Friday 3rd May 2019 - Live Stream")
