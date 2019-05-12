@@ -11,6 +11,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ## Past streams
 
 ### 23 - Monday 6th May 2019
+#### Talking about Chocolatey Extension and Template Packages
 
 [![Monday 6th May 2019 - Live Stream](http://img.youtube.com/vi/cyORxlL6_c4/0.jpg)](http://www.youtube.com/watch?v=cyORxlL6_c4 "Monday 6th May 2019 - Live Stream")
 
@@ -22,6 +23,7 @@ Documentation about creating Extension Packages can be found [here](https://choc
 
 
 ### 22 - Friday 3rd May 2019
+#### Updating some Cake Addins to use the latest version of Cake - Part 3
 
 [![Friday 3rd May 2019 - Live Stream](http://img.youtube.com/vi/q0uF_PfEuUk/0.jpg)](http://www.youtube.com/watch?v=q0uF_PfEuUk "Friday 3rd May 2019 - Live Stream")
 
@@ -36,6 +38,7 @@ https://www.nuget.org/packages/Cake.Coveralls/0.10.0
 This video really serves as an example of how to upgrade/pin to the newly released version of Cake.Recipe, 1.0.0, as well.
 
 ### 21 - Monday 29th April 2019
+#### Improving the deployment times for the Cake Build website - Part 2
 
 [![Monday 29th April 2019 - Live Stream](http://img.youtube.com/vi/0axnfLID5x0/0.jpg)](http://www.youtube.com/watch?v=0axnfLID5x0 "Monday 29th April 2019 - Live Stream")
 
@@ -54,6 +57,7 @@ https://github.com/cake-build/website/commit/83862e07ab31fed03d004a0bbdd09d194b0
 https://github.com/cake-build/website/commit/4b371cf7f91c354f2164b9236df755ecc437f9ed
 
 ### 20 - Friday 26th April 2019
+#### Updating some Cake Addins to use the latest version of Cake - Part 2
 
 [![Friday 26th April 2019 - Live Stream](http://img.youtube.com/vi/ijRjJlYfGPM/0.jpg)](http://www.youtube.com/watch?v=ijRjJlYfGPM
  "Friday 26th April 2019 - Live Stream")
@@ -66,6 +70,7 @@ https://www.nuget.org/packages/Cake.Gitter/0.11.0
 https://www.nuget.org/packages/Cake.VsCode/0.11.0
 
 ### 19 - Monday 22nd April 2019
+#### Working on a stable release of Cake.Recipe
 
 [![Monday 22nd April 2019 - Live Stream](http://img.youtube.com/vi/_n9sJ_Vk9gM/0.jpg)](http://www.youtube.com/watch?v=_n9sJ_Vk9gM
  "Monday 22nd April 2019 - Live Stream")
@@ -74,6 +79,7 @@ The focus of tonights stream was to try to get [Cake.Recipe](https://github.com/
 
 
 ### 18 - Friday 19th April 2019
+#### Updating some Cake Addins to use the latest version of Cake
 
 [![Friday 19th April 2019 - Live Stream](http://img.youtube.com/vi/Nb9Nrj0WC94/0.jpg)](http://www.youtube.com/watch?v=Nb9Nrj0WC94
  "Friday 19th April 2019 - Live Stream")
@@ -92,6 +98,7 @@ https://www.nuget.org/packages/Cake.Ember/0.4.0
 
 
 ### 17 - Monday 15th April 2019
+#### Improving the deployment times for the Cake Build website
 
 [![Monday 15th April 2019 - Live Stream](http://img.youtube.com/vi/6OtNIpIOfRU/0.jpg)](http://www.youtube.com/watch?v=6OtNIpIOfRU
  "Monday 15th April 2019 - Live Stream")
@@ -108,6 +115,7 @@ The idea in this stream was to move to a Zip Deployment of the website, which is
 The end result was that we didn't quite get to a point where we were successfully deploying the site via Azure Pipelines, but I think we have all the component parts in place, we just need to work through a few remaining issues.
 
 ### 16 - Friday 12th April 2019
+#### Hacking on the Cake Visual Studio Code Extension
 
 [![Friday 12th April 2019 - Live Stream](http://img.youtube.com/vi/1fHq-DicEsA/0.jpg)](http://www.youtube.com/watch?v=1fHq-DicEsA "Friday 12th April 2019 - Live Stream")
 
@@ -123,6 +131,7 @@ Stepping through the code, it was refactored to remove the usage of a file strea
 Decisions had to be made regarding removing some functionality, as the way that things were implemented, meant that some functionality would be lost.
 
 ### 15 - Monday 1st April 2019
+#### Behind the scenes look at the Cake release process
 
 [![Monday 1st April 2019 - Live Stream](http://img.youtube.com/vi/cHtrJAc7sAQ/0.jpg)](http://www.youtube.com/watch?v=cHtrJAc7sAQ "Monday 1st April 2019 - Live Stream")
 
@@ -131,6 +140,7 @@ In this stream, we walked through the process of doing a release of the Cake Ope
 This was very much a behind the scenes look at how the Cake Team does the release process, showing the tools and techniques that are included.  We know that this isn't perfect, and likely some additional things can be automated, but at the very least, all the steps are documented, and can be followed by anyone on the team.
 
 ### 14 - Friday 15th March 2019
+#### How to help when a Chocolatey package hasn't been updated in a while
 
 [![Friday 15th March 2019 - Live Stream](http://img.youtube.com/vi/aecDukZETUE/0.jpg)](http://www.youtube.com/watch?v=aecDukZETUE "Friday 15th March 2019 - Live Stream")
 
@@ -139,6 +149,7 @@ In this stream, we looked at what process should be followed when you find a pac
 Even though this wasn't successful, we were able to show the entire process that should be followed when attempting to get a package on Chocolatey.org updated.
 
 ### 13 - Monday 11th March 2019
+#### Creating an automatically updating Chocolatey Package with AU
 
 [![Monday 11th March 2019 - Live Stream](http://img.youtube.com/vi/afXnIu7bcEw/0.jpg)](http://www.youtube.com/watch?v=afXnIu7bcEw "Monday 11th March 2019 - Live Stream")
 
@@ -160,6 +171,7 @@ Some examples repositories that are using AU can be found here:
 * https://github.com/pauby/ChocoPackages
 
 ### 12 - Friday 8th March 2019
+#### Creating a new Visual Studio Code Extension - Part 4
 
 [![Friday 8th March 2019 - Live Stream](http://img.youtube.com/vi/Vp05x6EUxJc/0.jpg)](http://www.youtube.com/watch?v=Vp05x6EUxJc "Friday 8th March 2019 - Live Stream")
 
@@ -170,6 +182,7 @@ This time, we set up mergify.io on the repository, as well as merged a PR that w
 With those things done, we started looking at the uploading of the files into Azure Storage.  We started looking at how the Azure Storage extension is doing this, and tested out it's functionality using a newly created Azure Storage Account.  This all worked, and we should be able to lift the code in quite easily into the extension.  There will be some work on my Azure account required, as right now, the storage account I am using is a classic account, which isn't really supported any longer.
 
 ### 11 - Monday 4th March 2019
+#### Getting started with PoshBot - Create Plugin
 
 [![Monday 4th March 2019 - Live Stream](http://img.youtube.com/vi/fAbtG-At2Io/0.jpg)](http://www.youtube.com/watch?v=fAbtG-At2Io "Monday 4th March 2019 - Live Stream")
 
@@ -188,6 +201,7 @@ https://github.com/gep13/PoshBot.Gitter.Backend
 Really, all that is left is to publish these modules to the PowerShell Gallery.  This was discussed in the stream, and Brandon Olin, the creator of PoshBot, explained how this can be done.
 
 ### 10 - Friday 1st March 2019
+#### Creating a new Visual Studio Code Extension - Part 3
 
 [![Friday 1st March 2019 - Live Stream](http://img.youtube.com/vi/v4PW8vNcjBA/0.jpg)](http://www.youtube.com/watch?v=v4PW8vNcjBA "Friday 1st March 2019 - Live Stream")
 
@@ -198,6 +212,7 @@ In this stream, we successfully broke the build for the new VSCode Extension tha
 **Update:** Turns out it was some sort of transient error.  Builds are now working correctly.
 
 ### 9 - Monday 25th February 2019
+#### Creating a new Visual Studio Code Extension - Part 2
 
 [![Monday 25th February 2019 - Live Stream](http://img.youtube.com/vi/6NlJDWrteqM/0.jpg)](http://www.youtube.com/watch?v=6NlJDWrteqM "Monday 25th February 2019 - Live Stream")
 
@@ -220,6 +235,7 @@ The last commit that was created during this stream can be found here:
 https://github.com/gep13/clipimg-vscode/commit/299e3cfe22d0440f731e2af150e4731f076bdb65
 
 ### 8 - Monday 18th February 2019
+#### Creating a new Visual Studio Code Extension
 
 [![Monday 18th February 2019 - Live Stream](http://img.youtube.com/vi/-RzIhqOloic/0.jpg)](http://www.youtube.com/watch?v=-RzIhqOloic "Monday 18th February 2019 - Live Stream")
 
@@ -241,6 +257,7 @@ https://github.com/cake-contrib/Cake.VsCode.Recipe/issues/2
 to cover this.
 
 ### 7 - Monday 11th February 2019
+#### Implementing a C# Language Server for Chocolatey
 
 [![Monday 11th February 2019 - Live Stream](http://img.youtube.com/vi/rucgfNjxzog/0.jpg)](http://www.youtube.com/watch?v=rucgfNjxzog "Monday 11th February 2019 - Live Stream")
 
@@ -258,6 +275,7 @@ More information about the official Language Server Protocol can be found [here]
 And the blog post that Martin mentioned in the stream about creating a Language Server can be found [here](https://martinbjorkstrom.com/posts/2018-11-29-creating-a-language-server)
 
 ### 6 - Monday 4th February 2019
+#### Getting started using Spectre.Cli
 
 [![Monday 4th February 2019 - Live Stream](http://img.youtube.com/vi/6roxDdoRZ_I/0.jpg)](http://www.youtube.com/watch?v=6roxDdoRZ_I "Monday 4th February 2019 - Live Stream")
 
@@ -278,6 +296,7 @@ https://github.com/cake-build/cake/pull/2334
 Which is re-writing the Cake command line parsing to use Spectre.Cli.
 
 ### 5 - Monday 21st January 2019
+#### Creating an Export Command for Chocolatey - Part 2
 
 [![Monday 21st January 2019 - Live Stream](http://img.youtube.com/vi/ppc3eZtILVM/0.jpg)](http://www.youtube.com/watch?v=ppc3eZtILVM "Monday 21st January 2019 - Live Stream")
 
@@ -294,6 +313,7 @@ https://github.com/gep13/choco/commit/b5fa2f079700dab1f6e347df57ba93b1b64cc44a
 There is still some work that needs to be done here to finish off this work, but the additional arguments that have been added make it much more functional.
 
 ### 4 - Monday 14th January 2019
+#### Creating an Export Command for Chocolatey
 
 [![Monday 14th January 2019 - Live Stream](http://img.youtube.com/vi/jFozwL8qizU/0.jpg)](http://www.youtube.com/watch?v=jFozwL8qizU "Monday 14th January 2019 - Live Stream")
 
@@ -312,6 +332,7 @@ https://github.com/gep13/choco/commit/9ca6f01b6f7619a438833e3c01107ad0e7bd6a3a
 There is still some work that needs to be done here to finish off this work, but it is at least functional for this first pass.
 
 ### 3 - Monday 7th January 2019
+#### Setting up a CI/CD Pipeline for a Cake Addin
 
 [![Monday 7th January 2019 - Live Stream](http://img.youtube.com/vi/bwZBWzABynU/0.jpg)](http://www.youtube.com/watch?v=bwZBWzABynU "Monday 7th January 2019 - Live Stream")
 
@@ -330,12 +351,14 @@ In this live stream, we talked about the end to end process of setting up a comp
 At the end of the video, the new Cake addin was successfully submitted to NuGet.org as part of the release, and a tweet and Gitter message were automatically sent out to the community to let them know that the addin is available.
 
 ### 2 - Monday 17th December 2018
+#### A closer look at the Chocolatey Community Repository Moderation Process
 
 [![Monday 17th December 2018 - Live Stream](http://img.youtube.com/vi/35JiK0AdGqM/0.jpg)](http://www.youtube.com/watch?v=35JiK0AdGqM "Monday 17th December 2018 - Live Stream")
 
 In this stream, we talked about how the Moderation Process for the Chocolatey Community Repository works.  This included the automated services that occur, including package_verifier, package_validator, package_scanner and package_cacher.  Following that, we discussed the manual review process that happens by one of the moderators of the Community Repository.  Finally, we addressed the usage of the package_cleanup service for tidying up unmaintained packages, and finally, using the Chocolatey Test Environment when creating/maintaining packages.
 
 ### 1 - Monday 10th December 2018
+#### A discussion about rate limiting on Chocolatey Community Repository
 
 [![Monday 10th December 2018 - Live Stream](http://img.youtube.com/vi/_AVfJsVmf9g/0.jpg)](http://www.youtube.com/watch?v=_AVfJsVmf9g "Monday 10th December 2018 - Live Stream")
 
