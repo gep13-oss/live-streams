@@ -10,6 +10,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 24 - Friday 10th May 2019
+#### Updating some Cake Addins to use the latest version of Cake - Part 4
+
+[![Friday 10th May 2019 - Live Stream](http://img.youtube.com/vi/c5aJLqMb--M/0.jpg)](http://www.youtube.com/watch?v=c5aJLqMb--M "Friday 10th May 2019 - Live Stream")
+
+In this lunch time stream (which is going to be the last one on this topic), we looked at updating [Cake.Chocolatey.Module]() to use the latest version of Cake.
+
+In the end a new release, 0.6.0, of Cake.Chocolatey.Module was released:
+
+https://www.nuget.org/packages/Cake.Chocolatey.Module/
+
+During the stream, there was a discussion about Git Flow, and some of the specifics of now it works, as this was discussed offline between myself and Kim.
+
+This stream also saw me use the Co-Authored ability in GitHub on some commits, so that people who helped in the stream can be attributed with their help.  More information on this here:
+
+https://help.github.com/en/articles/creating-a-commit-with-multiple-authors
+
 ### 23 - Monday 6th May 2019
 #### Talking about Chocolatey Extension and Template Packages
 
@@ -30,7 +47,7 @@ In this lunch time stream, we looked at updating [Cake.Coveralls](https://github
 
 This is required because there were potentially breaking changes made in Cake in this release, and as such, it is preferred that Cake Addin Maintainers update their references.
 
-In the end a new release, 0.10.0,  of Cake.Coveralls was released:
+In the end a new release, 0.10.0, of Cake.Coveralls was released:
 
 https://www.nuget.org/packages/Cake.Coveralls/0.10.0
 
