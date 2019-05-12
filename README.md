@@ -21,7 +21,6 @@ Towards the end of the stream, I attempted to create a template package specific
 
 Documentation about creating Extension Packages can be found [here](https://chocolatey.org/docs/how-to-create-extensions) and for creating Template Packages [here](https://chocolatey.org/docs/how-to-create-custom-package-templates).
 
-
 ### 22 - Friday 3rd May 2019
 #### Updating some Cake Addins to use the latest version of Cake - Part 3
 
@@ -77,7 +76,6 @@ https://www.nuget.org/packages/Cake.VsCode/0.11.0
 
 The focus of tonights stream was to try to get [Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe) to a point where a stable release could be published.  Cake.Recipe has been in beta for a LONG time now, and going forward, it will require a number of breaking changes.  While it has been in beta for a long time, it is actually relatively stable, as such, the decision was taken to get to a 1.0.0 release, and then break things going forward.  In this stream, we triaged the issues that were associated with the next stream, and either bumped them to the next release, or completed the work necessary to get it to work.
 
-
 ### 18 - Friday 19th April 2019
 #### Updating some Cake Addins to use the latest version of Cake
 
@@ -96,13 +94,11 @@ But we got there in the end and a new 0.4.0 release of Cake.Ember was released h
 
 https://www.nuget.org/packages/Cake.Ember/0.4.0
 
-
 ### 17 - Monday 15th April 2019
 #### Improving the deployment times for the Cake Build website
 
 [![Monday 15th April 2019 - Live Stream](http://img.youtube.com/vi/6OtNIpIOfRU/0.jpg)](http://www.youtube.com/watch?v=6OtNIpIOfRU
  "Monday 15th April 2019 - Live Stream")
-
 
 In tonights stream, I was joined by [Mattias Karlsson](https://twitter.com/devlead) and we spoke about the current Cake Build Website Infrastructure, and how we are going to be changing it.
 
@@ -118,7 +114,6 @@ The end result was that we didn't quite get to a point where we were successfull
 #### Hacking on the Cake Visual Studio Code Extension
 
 [![Friday 12th April 2019 - Live Stream](http://img.youtube.com/vi/1fHq-DicEsA/0.jpg)](http://www.youtube.com/watch?v=1fHq-DicEsA "Friday 12th April 2019 - Live Stream")
-
 
 In this lunch time stream, we looked at an outstanding issue in the Cake Build Visual Studio Code Extension:
 
