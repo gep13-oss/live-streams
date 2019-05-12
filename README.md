@@ -6,7 +6,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Friday 10th May 2019 - 12PM BST (11AM GMT)    | Updating Cake Addins that I created to use Cake 0.33.0 - Part 4                     |
+| Monday 13th May 2019 - 8PM BST (7PM GMT)      | Discussing Pull Requests for Chocolatey with Rob Reynolds                    |
 
 ## Past streams
 
