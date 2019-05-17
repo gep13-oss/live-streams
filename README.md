@@ -12,6 +12,26 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 25 - Monday 13th May 2019
+#### Chocolatey Pull Requests and Code Review
+
+[![Monday 13th May 2019 - Part 1 - Live Stream](http://img.youtube.com/vi/POe5wuLr6WY/0.jpg)](http://www.youtube.com/watch?v=POe5wuLr6WY "Monday 13th May 2019 - Part 1 - Live Stream")
+[![Monday 13th May 2019 - Part 2 - Live Stream](http://img.youtube.com/vi/jVxc_w8vhKI/0.jpg)](http://www.youtube.com/watch?v=jVxc_w8vhKI "Monday 13th May 2019 - Part 2 - Live Stream")
+
+In tonights stream, I was joined by Chocolatey Founder Rob Reynolds, to discuss the Pull Request and Code Review strategy that is used on the Chocolatey Open Source Project on GitHub.  It focused on discussing two PR's that were sent into the project, one of which was merged, and the other was updated with some feedback.
+
+This live stream was really a continuation of the work that was done in a 2-part stream series.
+
+Part 1:
+https://youtu.be/jFozwL8qizU
+
+Part 2:
+https://youtu.be/ppc3eZtILVM
+
+Where we built a new Chocolatey Export command for exporting a list of the currently installed packages on a machine into a packages.config file.
+
+During this live stream, there was a hard stop due to a network failure on my side.  As a result, the stream is split into two videos.
+
 ### 24 - Friday 10th May 2019
 #### Updating some Cake Addins to use the latest version of Cake - Part 4
 
