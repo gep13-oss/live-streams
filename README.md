@@ -6,7 +6,9 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                          | Topic                                                                        |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| Monday 13th May 2019 - 8PM BST (7PM GMT)      | Discussing Pull Requests for Chocolatey with Rob Reynolds                    |
+| Friday 17th May 2019 - 12PM BST (11AM GMT)    | Working on feedback from Pull Request on Chocolatey Export Command           |
+| Monday 20th May 2019 - 8PM BST (7PM GMT)      | Unlikely to be a stream as attending Chef Conf                               |
+| Friday 24th May 2019 - 12PM BST (11AM GMT)    | Unlikley to be a stream as travelling back from Chef Conf                    |
 
 ## Past streams
 
