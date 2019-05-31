@@ -4,10 +4,10 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Upcoming streams
 
-| Date                                          | Topic                                                                        |
-|-----------------------------------------------|------------------------------------------------------------------------------|
-| Monday 27th May 2019 - 8PM BST (7PM GMT)      | Unlikely to be a stream as catching up with things after Chef Conf           |
-| Friday 31st May 2019 - 12PM BST (11AM GMT)    | Working on feedback from Pull Request on Chocolatey Export Command           |
+| Date                                            | Topic                                                                        |
+|-------------------------------------------------|------------------------------------------------------------------------------|
+| Monday 3rd April 2019 - 8PM BST (7PM GMT)       | Working on a new Pull Request for Chef Client - Ruby programming             |
+| Friday 10th April 2019 - 12PM BST (11AM GMT)    | Undecided                                                                    |
 
 ## Past streams
 
