@@ -11,6 +11,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 26 - Friday 17th May 2019
+#### Implementing changes suggested during review of Chocolatey Pull Request - Part 1
+
+[![Friday 17th May 2019 - Live Stream](http://img.youtube.com/vi/cEYPXLyhN3M/0.jpg)](http://www.youtube.com/watch?v=cEYPXLyhN3M "Friday 17th May 2019 - Live Stream")
+
+Following on from my [stream](https://github.com/gep13-oss/live-streams#25---monday-13th-may-2019) where I paired with Rob Reynolds:
+
+In today's lunch time stream, I started working on the feedback that was received from the Pull Request review.  We were able to get to a point where some feedback was addressed, but there was some work left to figure out how to correctly serialize the list of packages in the required format.
+
+The PR in question is [here](https://github.com/chocolatey/choco/pull/1825).
+
 ### 25 - Monday 13th May 2019
 #### Chocolatey Pull Requests and Code Review
 
