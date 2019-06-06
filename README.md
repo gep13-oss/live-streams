@@ -4,12 +4,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Upcoming streams
 
-| Date                                            | Topic                                                                        |
-|-------------------------------------------------|------------------------------------------------------------------------------|
-| Monday 3rd April 2019 - 8PM BST (7PM GMT)       | Working on a new Pull Request for Chef Client - Ruby programming             |
-| Friday 10th April 2019 - 12PM BST (11AM GMT)    | Undecided                                                                    |
+| Date                                            | Topic                                                                          |
+|-------------------------------------------------|--------------------------------------------------------------------------------|
+| Friday 7th June 2019 - 12PM BST (11AM GMT)      | Checking out the new Yeoman generator for creating Cake Addin Project template |
+| Monday 10th June 2019 - 8PM BST (7PM GMT)       | Undecided                                                                      |
 
 ## Past streams
+
+### 27 - Friday 31st May 2019
+#### Implementing changes suggested during review of Chocolatey Pull Request - Part 2
+
+[![Friday 31st May 2019 - Live Stream](http://img.youtube.com/vi/dvleHYB66d8/0.jpg)](http://www.youtube.com/watch?v=dvleHYB66d8 "Friday 31st May 2019 - Live Stream")
+
+In todays lunch time stream, we continued working on the feedback that was received from the PR that was created for a new Export Command for Chocolatey.
+
+Following a quick Google, I found this [Stack Overflow answer](https://stackoverflow.com/a/8553859/671491), which suggested a convention based way to allow control over whether or not a property in a class is serialized or not.  We put that to the test during this stream, and it worked!
+
+The PR in question is [here](https://github.com/chocolatey/choco/pull/1825).
 
 ### 26 - Friday 17th May 2019
 #### Implementing changes suggested during review of Chocolatey Pull Request - Part 1
