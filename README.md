@@ -11,6 +11,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 28 - Monday 3rd June 2019
+#### Writing some Ruby code to add Chocolatey functionality into Chef Client
+
+[![Monday 3rd June 2019 - Live Stream](http://img.youtube.com/vi/l6MZOYcxTtg/0.jpg)](http://www.youtube.com/watch?v=l6MZOYcxTtg "Monday 3rd June 2019 - Live Stream")
+
+In tonights stream, I took at stab at writing some Ruby code, to try to improve the Chocolatey support in the Chef client.  This came about about creating a previous Pull Request to Chef to add support for enabling/disabling features while I was at Chef Conf in Seattle.
+
+The first part of the stream was spent trying to get a Chef environment up and running so that things could be tested.  There seems to be an issue with the latest Chef Client that was causing problems for my setup.  Installing a previous version of the Chef client resulted in things working.
+
+This all culminated in a Pull Request being submitted to the Chef GitHub repository [here](https://github.com/chef/chef/pull/8635)
+
 ### 27 - Friday 31st May 2019
 #### Implementing changes suggested during review of Chocolatey Pull Request - Part 2
 
