@@ -6,8 +6,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                            | Topic                                                                          |
 |-------------------------------------------------|--------------------------------------------------------------------------------|
-| Friday 7th June 2019 - 12PM BST (11AM GMT)      | Checking out the new Yeoman generator for creating Cake Addin Project template |
-| Monday 10th June 2019 - 8PM BST (7PM GMT)       | Undecided                                                                      |
+| Monday 10th June 2019 - 8PM BST (7PM GMT)       | Starting work on a new ASP.NET MVC Project                                     |
+| Friday 14th June 2019 - 12PM BST (11AM GMT)     | Undecided                                                                      |
 
 ## Past streams
 
