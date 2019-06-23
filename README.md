@@ -29,6 +29,17 @@ We also looked at how we could add StyleCop into the build process, to ensure th
 
 In todays lunchtime stream, we revisited what was required in order to get the Azure Local Storage Persistence of our ASP.NET MVC Users working.  On Monday nights stream, we had been able to get the creation of the database working, but the actual creation of the users wasn't working due to the pages on the site itself not working.  After a [conversation with the creator of the provider](https://github.com/dlmelendez/identityazuretable/issues/45) I was able to figure out what was required by scaffolding out the views/controllers using a tool that is shipped by Microsoft.  With this done, the pages started to work, and we were able to correctly register new users on the site, which were authenticated via GitHub.
 
+### 30 - Monday 10th June 2019
+#### Part 1 - Working on a new project, code name "devgep"
+
+[![Monday 10th June 2019 - Live Stream](https://img.youtube.com/vi/yHrX_UuVuEA/0.jpg)](http://www.youtube.com/watch?v=yHrX_UuVuEA "Monday 10th June 2019 - Live Stream")
+
+In this first stream about a new secret project called "devgep", we started looking at how to create a new ASP.NET MVC website using the dotnet cli.
+
+With the site created, we then added in the ability to authenticate to the site using GitHub, which actually turned out to be really simple.  With that done, we turned our attention to how we can persist the user information into Azure Table Storage, rather than the default Sqlite Database.
+
+This turned out to be harder than expected, as we spent a long time trying to get the Azure Table Storage Emulator installed and working correctly.  Once we finally got it installed, we were able to create the tables that are required to persist the user information, but then the pages on the website itself to register a new user stopped working.  More investigation will be required to get this to work.
+
 ### 29 - Friday 7th June 2019
 #### Checking out the new Yeoman generator for helping to create Cake Addins
 
