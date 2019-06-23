@@ -11,6 +11,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 32 - Monday 17th June 2019
+#### Part 3 - Working on a new project, code name "devgep"
+
+[![Monday 17th June 2019 - Live Stream](http://img.youtube.com/vi/TG5fcRr23uc/0.jpg)](http://www.youtube.com/watch?v=TG5fcRr23uc "Monday 17th June 2019 - Live Stream")
+
+Tonights stream was Part 3 in the series of working on the secret project that is code-named "devgep".  Here we started working on creating a new "Subscriptions" area of the site, and made sure that this section was secure, and only accessible to logged in users of the site.  This was required based on directly trying to access the URL, and also by providing a link to the section (which was only visible when logged in).  This proved to be a little bit harder than expected, as some additional configuration was required in the Startup.cs class, to ensure that the redirect to the login page directed to the correct page.  With using a custom Authentication provider as well as persistence store, the default URL was being used, and we had to figure out how to override it.
+
+With the help of the people in the chat room, we were able to figure this out.
+
+We also looked at how we could add StyleCop into the build process, to ensure that there is some consistency and maintainability of the code base.
+
 ### 29 - Friday 7th June 2019
 #### Checking out the new Yeoman generator for helping to create Cake Addins
 
