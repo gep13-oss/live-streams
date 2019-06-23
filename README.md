@@ -6,10 +6,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                            | Topic                                                                          |
 |-------------------------------------------------|--------------------------------------------------------------------------------|
-| Monday 10th June 2019 - 8PM BST (7PM GMT)       | Starting work on a new ASP.NET MVC Project                                     |
-| Friday 14th June 2019 - 12PM BST (11AM GMT)     | Undecided                                                                      |
+| Monday 24th June 2019 - 8PM BST (7PM GMT)       | Part 5 - Working on a new project, code name "devgep"                          |
+| Friday 28th June 2019 - 12PM BST (11AM GMT)     | Part 6 - Working on a new project, code name "devgep"                          |
 
 ## Past streams
+
+### 33 - Friday 21st June 2019
+#### Part 4 - Working on a new project, code name "devgep"
+
+[![Friday 21st June 2019 - Live Stream](https://img.youtube.com/vi/bL3sXjhsyFQ/0.jpg)](http://www.youtube.com/watch?v=bL3sXjhsyFQ "Friday 21st June 2019 - Live Stream")
+
+In part 4 of the devgep secret project series, we reviewed what has been created in the project to date, and then started looking at creating a Cake build script that could be used to build the project.
+
+We started looking at how we could use the Cake.Recipe project to do the build, as that would mean that a lot of the build process would already be completed.  This seemed to be going well, with things like DupFinder and InspectCode working, however, it then became clear that Cake.Recipe wasn't going to work.
+
+Kim pointed out that there was an existing issue on the Cake.Recipe Issue list to split out into a new recipe specifically to build websites.
+
+Going forward, I think that this would be a good idea, and we may look into doing that.  For now, we will create a build specifically for this project, and look into splitting this into a recipe later.
 
 ### 32 - Monday 17th June 2019
 #### Part 3 - Working on a new project, code name "devgep"
