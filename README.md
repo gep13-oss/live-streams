@@ -11,6 +11,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 29 - Friday 7th June 2019
+#### Checking out the new Yeoman generator for helping to create Cake Addins
+
+[![Friday 7th June 2019 - Live Stream](http://img.youtube.com/vi/72KJ4XOgBK0/0.jpg)](http://www.youtube.com/watch?v=72KJ4XOgBK0 "Friday 7th June 2019 - Live Stream")
+
+In todays lunch time stream, we took a look at the new Yeoman Generator which has been created [by Kim Nordmo](https://github.com/admiringworm), specifically to help with the creation of a new project structure when creating an addin for Cake.  This Yeoman Generator can be found [here](https://github.com/WormieCorp/generator-cake-addin).
+
+During the stream, we started from the very beginning, getting Yeoman installed, installing the generator, and then looking at what the generator creates for us.  There were a couple of hiccups during the walkthrough, but Kim was on hand during the stream to explain what was going on, and also a new version of the generator was released during the stream what corrected some of the issues that were shown.
+
+Huge thanks to Kim for creating this generator, as I think it will be of great help to the Cake Community!
+
 ### 28 - Monday 3rd June 2019
 #### Writing some Ruby code to add Chocolatey functionality into Chef Client
 
