@@ -22,6 +22,13 @@ With the help of the people in the chat room, we were able to figure this out.
 
 We also looked at how we could add StyleCop into the build process, to ensure that there is some consistency and maintainability of the code base.
 
+### 31 - Friday 14th June 2019
+#### Part 2 - Working on a new project, code name "devgep"
+
+[![Friday 14th June 2019 - Live Stream](http://img.youtube.com/vi/gXcczEUeVI4/0.jpg)](http://www.youtube.com/watch?v=gXcczEUeVI4 "Friday 14th June 2019 - Live Stream")
+
+In todays lunchtime stream, we revisited what was required in order to get the Azure Local Storage Persistence of our ASP.NET MVC Users working.  On Monday nights stream, we had been able to get the creation of the database working, but the actual creation of the users wasn't working due to the pages on the site itself not working.  After a [conversation with the creator of the provider](https://github.com/dlmelendez/identityazuretable/issues/45) I was able to figure out what was required by scaffolding out the views/controllers using a tool that is shipped by Microsoft.  With this done, the pages started to work, and we were able to correctly register new users on the site, which were authenticated via GitHub.
+
 ### 29 - Friday 7th June 2019
 #### Checking out the new Yeoman generator for helping to create Cake Addins
 
