@@ -14,8 +14,20 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 35 - Friday 28th June 2019
 #### Part 6 - Working on a new project, code name "devgep"
 
+In today's lunch time stream, I was continuing to work on the secret project called devgep.  I started out the stream thinking that I was going to be creating an ASP.NET WEB API project which was going to be the access point for the Azure Functions and Azure Table Storage that makes up the backend of the service that we are creating.  
+
+However, after a short discussion with Mattias who was on the stream, it was agreed that this wasn't required.  Instead, creating another Azure Function, is all that would be required.  I set about trying to do this, which meant that I had to install the Azure Workload for Visual Studio since I didn't have that installed, but once that was in place, everything was setup ready to start working with it, and I am happy to say that everything just worked.  
+
+It was AMAZING!
+
+https://clips.twitch.tv/BrainyInspiringTurnipUWot
+
 ### 34 - Monday 24th June 2019
 #### Part 5 - Working on a new project, code name "devgep"
+
+In part 5 of the series on the secret project that is known as "devgep" we worked on getting the Cake Build for the project finished off, and then we started working on removing the sections of the website that we decided that weren't required, i.e. the ability to change a password, use 2FA, etc.  
+
+None of these things will be required, since we are using an external authentication provider, in the form of GitHub, so having this ability on our site, isn't required.  With those changes made, we were able to re-enable DupFinder and InspectCode, and got them passing as part of the overall build as well.
 
 ### 33 - Friday 21st June 2019
 #### Part 4 - Working on a new project, code name "devgep"
