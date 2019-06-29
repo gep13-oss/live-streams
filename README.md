@@ -11,6 +11,12 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 35 - Friday 28th June 2019
+#### Part 6 - Working on a new project, code name "devgep"
+
+### 34 - Monday 24th June 2019
+#### Part 5 - Working on a new project, code name "devgep"
+
 ### 33 - Friday 21st June 2019
 #### Part 4 - Working on a new project, code name "devgep"
 
