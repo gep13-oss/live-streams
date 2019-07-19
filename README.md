@@ -6,8 +6,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                            | Topic                                                                          |
 |-------------------------------------------------|--------------------------------------------------------------------------------|
-| Monday 1st July 2019 - 8PM BST (7PM GMT)        | Part 7 - Working on a new project, code name "devgep"                           |
-| Friday 5th June 2019 - 12PM BST (11AM GMT)      | No stream today as will be in London                                            |
+| Monday xxx 2019 - 8PM BST (7PM GMT)        | TBD                           |
+| Friday xxx 2019 - 12PM BST (11AM GMT)      | TBD                                            |
 
 ## Past streams
 
