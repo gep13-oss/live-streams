@@ -11,11 +11,15 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
-### 37 - Friday 8th July
+### 37 - Monday 8th July
 #### Part 8 - Working on a new project, code name "devgep"
 
-### 36 - Friday 1st July
+[![Monday 8th July 2019 - Live Stream](https://img.youtube.com/vi/3t8dnniPOq8/0.jpg)](http://www.youtube.com/watch?v=3t8dnniPOq8 "Monday 8th July 2019 - Live Stream")
+
+### 36 - Monday 1st July
 #### Part 7 - Working on a new project, code name "devgep"
+
+[![Monday 1st July 2019 - Live Stream](https://img.youtube.com/vi/tEDz2ESURgk/0.jpg)](http://www.youtube.com/watch?v=tEDz2ESURgk "Monday 1st July 2019 - Live Stream")
 
 ### 35 - Friday 28th June 2019
 #### Part 6 - Working on a new project, code name "devgep"
