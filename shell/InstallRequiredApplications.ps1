@@ -60,3 +60,4 @@ choco install IIS-ASPNET45 --source windowsfeatures
 # - Increase font size in PowerShell
 # - Change to light theme in VSCode
 # - Increase font size in VSCode
+# - Add Environment Variables - GitHubClientId, GitHubClientSecret
