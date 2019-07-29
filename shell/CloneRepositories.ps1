@@ -74,7 +74,7 @@ git remote add upstream https://github.com/cake-build/cake.git
 cd..
 
 git clone https://github.com/gep13/cake-vscode.git
-cd cake
+cd cake-vscode
 git remote add upstream https://github.com/cake-build/cake-vscode.git
 cd ..
 
