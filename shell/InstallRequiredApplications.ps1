@@ -61,3 +61,4 @@ choco install IIS-ASPNET45 --source windowsfeatures
 # - Change to light theme in VSCode
 # - Increase font size in VSCode
 # - Add Environment Variables - GitHubClientId, GitHubClientSecret
+# - Login to GitHub in browser
