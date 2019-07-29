@@ -41,6 +41,9 @@ choco upgrade zip.template -y --no-progress
 choco upgrade postman -y --no-progress
 choco upgrade nodejs -y --no-progress
 
+choco install IIS-WebServer --source windowsfeatures
+choco install IIS-ASPNET45 --source windowsfeatures
+
 #Update-SessionEnvironment
 #choco install gep13.gitConfig -y  --no-progress --source="https://www.myget.org/F/gep13/api/v2"
 
