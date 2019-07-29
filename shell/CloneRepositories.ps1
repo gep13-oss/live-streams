@@ -37,6 +37,32 @@ cd Cake.Ember
 git remote add upstream https://github.com/cake-contrib/Cake.Ember.git
 cd ..
 
+git clone https://github.com/gep13/Cake.Chocolatey.Module.git
+cd Cake.Chocolatey.Module
+git remote add upstream https://github.com/cake-contrib/Cake.Chocolatey.Module.git
+cd ..
+
+git clone https://github.com/gep13/Cake.Coveralls.git
+cd Cake.Coveralls
+git remote add upstream https://github.com/cake-contrib/Cake.Coveralls.git
+cd ..
+
+git clone https://github.com/gep13/Cake.Gitter.git
+cd Cake.Gitter
+git remote add upstream https://github.com/cake-contrib/Cake.Gitter.git
+cd ..
+
+git clone https://github.com/gep13/Cake.Json.git
+cd Cake.Json
+git remote add upstream https://github.com/cake-contrib/Cake.Json.git
+cd ..
+
+
+git clone https://github.com/gep13/Cake.VsCode.git
+cd Cake.VsCode
+git remote add upstream https://github.com/cake-contrib/Cake.VsCode.git
+cd ..
+
 git clone https://github.com/gep13/Cake.Recipe.git
 cd Cake.Recipe
 git remote add upstream https://github.com/cake-contrib/Cake.Recipe.git
