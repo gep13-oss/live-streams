@@ -6,8 +6,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                            | Topic                                                                          |
 |-------------------------------------------------|--------------------------------------------------------------------------------|
-| Monday xxx 2019 - 8PM BST (7PM GMT)        | TBD                           |
-| Friday xxx 2019 - 12PM BST (11AM GMT)      | TBD                                            |
+| Monday 11th August 2019 - 8PM BST (7PM GMT)     | No stream tonight - on holiday                                                 |
+| Friday 9th August 2019 - 12PM BST (11AM GMT)    | Talking about the Cake Addin Discoverer Tool                                   |
 
 ## Past streams
 
