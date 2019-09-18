@@ -1,3 +1,5 @@
+[![Twitch Status](https://img.shields.io/twitch/status/gep13)](https://www.twitch.tv/gep13)
+
 # Gary Ewan Park - Twitch
 
 I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topics.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
