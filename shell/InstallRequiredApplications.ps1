@@ -40,6 +40,7 @@ choco upgrade postman -y --no-progress
 choco upgrade sql-server-express -y --no-progress
 choco upgrade sql-server-management-studio -y --no-progress
 choco upgrade transifex-client -y --no-progress
+choco upgrade wixtoolset -y --no-progress
 choco upgrade yo -y --no-progress
 choco upgrade zip.template -y --no-progress
 
@@ -71,6 +72,5 @@ Update-SessionEnvironment
 # - Increase font size in VSCode
 # - Add Environment Variables - GitHubClientId, GitHubClientSecret, GITHUB_PASSWORD, GITHUB_USERNAME
 # - Login to GitHub in browser
-# - Install Azure Storage Emulator
 
 # - Clone secret squirrel projects
