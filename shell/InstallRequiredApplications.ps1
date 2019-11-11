@@ -23,6 +23,7 @@ choco upgrade vscode-powershell -y --no-progress
 choco upgrade vscode-icons -y --no-progress
 choco upgrade vscode.template -y --no-progress
 
+choco upgrade 7zip.install -y --no-progress
 choco upgrade baretail -y --no-progress
 choco upgrade ChocolateyGUI -y --no-progress
 choco upgrade dotpeek -y --no-progress
