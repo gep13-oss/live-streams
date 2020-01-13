@@ -60,6 +60,11 @@ cd Cake.DotNetCoreEf
 git remote add upstream https://github.com/cake-contrib/Cake.DotNetCoreEf.git
 cd ..
 
+git clone https://github.com/gep13/Cake.DotNetTool.Module.git
+cd Cake.DotNetTool.Module
+git remote add upstream https://github.com/cake-contrib/Cake.DotNetTool.Module.git
+cd ..
+
 git clone https://github.com/gep13/Cake.DotNetVersionDetector.git
 cd Cake.DotNetVersionDetector
 git remote add upstream https://github.com/cake-contrib/Cake.DotNetVersionDetector.git
@@ -160,6 +165,11 @@ cd c:/github/organisations/GitTools
 git clone https://github.com/gep13/GitReleaseManager.git
 cd GitReleaseManager
 git remote add upstream https://github.com/GitTools/GitReleaseManager.git
+cd ..
+
+git clone https://github.com/gep13/GitVersion.git
+cd GitVersion
+git remote add upstream https://github.com/GitTools/GitVersion.git
 cd ..
 
 # Homebrew
