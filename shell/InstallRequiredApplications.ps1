@@ -4,8 +4,15 @@ choco upgrade visualstudio2019-workload-netweb -y --no-progress
 choco upgrade visualstudio2019-workload-manageddesktop -y --no-progress
 choco upgrade visualstudio2019-workload-azure -y --no-progress
 choco upgrade dotnetcore -y --no-progress
+choco upgrade dotnetcore-sdk --version 2.2.402 -y --no-progress
 choco upgrade dotnetcore-sdk -y --no-progress
+choco upgrade dotnet3.5 -y --no-progress
+choco upgrade dotnet4.5.2 -y --no-progress
+choco upgrade dotnet4.6.1 -y --no-progress
 choco upgrade dotnet4.7.2 -y --no-progress
+choco upgrade netfx-4.5.2-devpack -y --no-progress
+choco upgrade netfx-4.6.1-devpack -y --no-progress
+choco upgrade netfx-4.7.2-devpack -y --no-progress
 
 choco upgrade vscode-autohotkey -y --no-progress
 choco upgrade vscode-csharp -y --no-progress
@@ -34,10 +41,12 @@ choco upgrade googlechrome -y --no-progress
 choco upgrade kdiff3 -y --no-progress
 choco upgrade microsoftazurestorageexplorer -y --no-progress
 choco upgrade msi.template -y --no-progress
-choco upgrade nodejs -y --no-progress
 choco upgrade ngrok -y --no-progress
+choco upgrade nodejs -y --no-progress
+choco upgrade NugetPackageExplorer -y --no-progress
 choco upgrade poshgit -y --no-progress
 choco upgrade postman -y --no-progress
+choco upgrade python -y --no-progress
 choco upgrade sql-server-express -y --no-progress
 choco upgrade sql-server-management-studio -y --no-progress
 choco upgrade transifex-client -y --no-progress
