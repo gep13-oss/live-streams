@@ -168,6 +168,30 @@ cd ChocolateyGUI
 git remote add upstream https://github.com/chocolatey/ChocolateyGUI.git
 cd ..
 
+# chocolatey-community
+
+git clone https://github.com/gep13/chocolatey-azuredevops.git
+cd chocolatey-azuredevops
+git remote add upstream https://github.com/chocolatey-community/chocolatey-azuredevops.git
+cd ..
+
+git clone https://github.com/gep13/chocolatey-language-server.git
+cd chocolatey-language-server
+git remote add upstream https://github.com/chocolatey-community/chocolatey-language-server.git
+cd ..
+
+git clone https://github.com/gep13/chocolatey-vs.git
+cd chocolatey-vs
+git remote add upstream https://github.com/chocolatey-community/chocolatey-vs.git
+cd ..
+
+git clone https://github.com/gep13/chocolatey-vscode.git
+cd chocolatey-vscode
+git remote add upstream https://github.com/chocolatey-community/chocolatey-vscode.git
+cd ..
+
+cd c:/github/organisations/chocolatey-community
+
 # gep13-oss
 
 cd c:/github/organisations/gep13-oss
