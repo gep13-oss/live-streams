@@ -80,7 +80,7 @@ Update-SessionEnvironment
 # - Increase font size in PowerShell
 # - Change to light theme in VSCode
 # - Increase font size in VSCode
-# - Add Environment Variables - GitHubClientId, GitHubClientSecret, GITHUB_PASSWORD, GITHUB_USERNAME
+# - Add Environment Variables - GitHubClientId, GitHubClientSecret, GITHUB_PASSWORD, GITHUB_USERNAME, GITTOOLS_GITHUB_PASSWORD, GITTOOLS_GITHUB_USERNAME
 # - Login to GitHub in browser
 
 # - Clone secret squirrel projects
