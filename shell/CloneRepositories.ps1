@@ -1,7 +1,9 @@
 mkdir c:/temp
+mkdir c:/github/organisations/adnuguk
 mkdir c:/github/organisations/cake-build
 mkdir c:/github/organisations/cake-contrib
 mkdir c:/github/organisations/chocolatey
+mkdir c:/github/organisations/chocolatey-community
 mkdir c:/github/organisations/gep13-oss
 mkdir c:/github/organisations/GitTools
 mkdir c:/github/organisations/Homebrew
@@ -13,6 +15,13 @@ mkdir c:/github/people/mushanshitiancai
 mkdir c:/github/people/vhatsura
 
 # Cake Build
+
+cd c:/github/organisations/adnuguk
+
+git https://github.com/gep13/adnuguk.github.io.git
+cd adnuguk.github.io
+git remote add upstream https://github.com/adnuguk/adnuguk.github.io.git
+cd..
 
 cd c:/github/organisations/cake-build
 
