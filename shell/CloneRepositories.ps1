@@ -54,6 +54,11 @@ cd ..
 
 cd c:/github/organisations/cake-contrib
 
+git clone https://github.com/gep13/Cake.AppleSimulator.git
+cd Cake.AppleSimulator
+git remote add upstream https://github.com/cake-contrib/Cake.AppleSimulator.git
+cd ..
+
 git clone https://github.com/gep13/Cake.Chocolatey.Module.git
 cd Cake.Chocolatey.Module
 git remote add upstream https://github.com/cake-contrib/Cake.Chocolatey.Module.git
@@ -142,6 +147,11 @@ cd ..
 git clone https://github.com/gep13/Cake.VsCode.git
 cd Cake.VsCode
 git remote add upstream https://github.com/cake-contrib/Cake.VsCode.git
+cd ..
+
+git clone https://github.com/gep13/Cake.Wyam.Recipe.git
+cd Cake.Wyam.Recipe
+git remote add upstream https://github.com/cake-contrib/Cake.Wyam.Recipe.git
 cd ..
 
 # Chocolatey
