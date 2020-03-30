@@ -1,7 +1,6 @@
 choco upgrade visualstudio2019community -y --no-progress
 choco upgrade visualstudio2019-workload-manageddesktop -y --no-progress
 choco upgrade visualstudio2019-workload-netweb -y --no-progress
-choco upgrade visualstudio2019-workload-manageddesktop -y --no-progress
 choco upgrade visualstudio2019-workload-azure -y --no-progress
 choco upgrade dotnetcore -y --no-progress
 choco upgrade dotnetcore-sdk --version 2.2.402 -y --no-progress
@@ -53,6 +52,9 @@ choco upgrade transifex-client -y --no-progress
 choco upgrade wixtoolset -y --no-progress
 choco upgrade yo -y --no-progress
 choco upgrade zip.template -y --no-progress
+
+# Required to build Chocolatey GUI
+choco upgrade microsoft-build-tools --version 14.0.25420.1
 
 choco install IIS-WebServer --source windowsfeatures
 choco install IIS-ASPNET45 --source windowsfeatures
