@@ -49,7 +49,6 @@ choco upgrade python -y --no-progress
 choco upgrade sql-server-express -y --no-progress
 choco upgrade sql-server-management-studio -y --no-progress
 choco upgrade transifex-client -y --no-progress
-choco upgrade wixtoolset -y --no-progress
 choco upgrade yo -y --no-progress
 choco upgrade zip.template -y --no-progress
 
@@ -59,11 +58,8 @@ choco upgrade microsoft-build-tools --version 14.0.25420.1
 choco install IIS-WebServer --source windowsfeatures
 choco install IIS-ASPNET45 --source windowsfeatures
 
-Write-Verbose "Install Visual Studio Code Extensions..."
-$env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
-code --force --install-extension slevesque.vscode-zipexplorer
-
-Update-SessionEnvironment
+# This needs a reboot, otherwise it doesn't install correctly, just seems to hang
+# choco upgrade wixtoolset -y --no-progress
 
 # choco install gep13.gitConfig -y  --no-progress --source="https://www.myget.org/F/gep13/api/v2"
 
@@ -73,16 +69,19 @@ Update-SessionEnvironment
 # - Configure Task bar (Remove Task View, Remove People, Remove Cortana) (Remove pinned Edge, Store, Mail)
 # - Added pinned taskbar item for Administrative PowerShell
 # - Pin Visual Studio to Taskbar
+# - Sign into Visual Studio and activate it
 # - Pin VSCode to Taskbar
 # - Pin Chrome to Taskbar
 # - Pin Excel to Taskbar (if installed)
 # - choco install visualstudio2017-powershelltools -y --no-progress (this needs a 2019 package)
 # - clone cake/secrets repository
 # - Setup PowerShell Profile and Posh-Git
-# - Increase font size in PowerShell
+# - Increase font size in PowerShell - 20 seems like a good numger
 # - Change to light theme in VSCode
 # - Increase font size in VSCode
+# - Increase font in Visual Studio - 150%
 # - Add Environment Variables - GitHubClientId, GitHubClientSecret, GITHUB_PASSWORD, GITHUB_USERNAME, GITTOOLS_GITHUB_PASSWORD, GITTOOLS_GITHUB_USERNAME
 # - Login to GitHub in browser
+# - Use DISM command to convert Eval License to actual License, and input valid code
 
 # - Clone secret squirrel projects
