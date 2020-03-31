@@ -18,7 +18,7 @@ mkdir c:/github/people/vhatsura
 
 cd c:/github/organisations/adnuguk
 
-git https://github.com/gep13/adnuguk.github.io.git
+git clone https://github.com/gep13/adnuguk.github.io.git
 cd adnuguk.github.io
 git remote add upstream https://github.com/adnuguk/adnuguk.github.io.git
 cd..
