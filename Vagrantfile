@@ -1,7 +1,7 @@
 Vagrant.configure("2") do |config|
 
   config.vm.define "livestreams" do |livestreams|
-    livestreams.vm.box = "StefanScherer/windows_10"
+    livestreams.vm.box = "StefanScherer/windows_2019"
     livestreams.windows.halt_timeout = 20
     livestreams.winrm.username = "vagrant"
     livestreams.winrm.password = "vagrant"
