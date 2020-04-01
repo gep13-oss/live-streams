@@ -70,18 +70,19 @@ choco install IIS-ASPNET45 --source windowsfeatures
 # - Added pinned taskbar item for Administrative PowerShell
 # - Pin Visual Studio to Taskbar
 # - Sign into Visual Studio and activate it
+# - Install Trailing Whitespace Visualizer
 # - Pin VSCode to Taskbar
 # - Pin Chrome to Taskbar
 # - Pin Excel to Taskbar (if installed)
 # - choco install visualstudio2017-powershelltools -y --no-progress (this needs a 2019 package)
 # - clone cake/secrets repository
 # - Setup PowerShell Profile and Posh-Git
-# - Increase font size in PowerShell - 20 seems like a good numger
+# - Increase font size in PowerShell - 20 seems like a good number
 # - Change to light theme in VSCode
 # - Increase font size in VSCode
 # - Increase font in Visual Studio - 150%
 # - Add Environment Variables - GitHubClientId, GitHubClientSecret, GITHUB_PASSWORD, GITHUB_USERNAME, GITTOOLS_GITHUB_PASSWORD, GITTOOLS_GITHUB_USERNAME
 # - Login to GitHub in browser
-# - Use DISM command to convert Eval License to actual License, and input valid code
+# - Use DISM command to convert Eval License to actual License, and input valid code (http://woshub.com/how-to-upgrade-windows-server-2016-evaluation-to-full-version/)
 
 # - Clone secret squirrel projects
