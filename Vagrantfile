@@ -15,6 +15,12 @@ Vagrant.configure("2") do |config|
     livestreams.vm.network :forwarded_port, guest: 3389, host: 14389, id: "rdp", auto_correct: true
     livestreams.vm.network :forwarded_port, guest: 22, host: 14222, id: "ssh", auto_correct: true
 
+    livestreams.vm.provider :vmware_desktop do |v, override|
+      v.gui = true
+      v.vmx["memsize"] = "8192"
+      v.vmx["numvcpus"] = "2"
+    end
+
     livestreams.vm.provider :virtualbox do |v, override|
       override.vm.network :private_network, ip: "10.10.117.13"
       v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
