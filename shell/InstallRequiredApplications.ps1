@@ -53,7 +53,7 @@ choco upgrade yo -y --no-progress
 choco upgrade zip.template -y --no-progress
 
 # Required to build Chocolatey GUI
-choco upgrade microsoft-build-tools --version 14.0.25420.1
+choco upgrade microsoft-build-tools --version 14.0.25420.1 -y --no-progress
 
 choco install IIS-WebServer --source windowsfeatures
 choco install IIS-ASPNET45 --source windowsfeatures
