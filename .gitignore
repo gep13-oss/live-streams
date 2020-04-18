@@ -331,3 +331,5 @@ ASALocalRun/
 
 # Vagrant
 .vagrant/
+
+.DS_Store
