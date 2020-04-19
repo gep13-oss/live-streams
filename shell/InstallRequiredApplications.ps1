@@ -11,6 +11,7 @@ choco upgrade dotnet4.6.1 -y --no-progress
 choco upgrade dotnet4.7.2 -y --no-progress
 choco upgrade netfx-4.5.2-devpack -y --no-progress
 choco upgrade netfx-4.6.1-devpack -y --no-progress
+choco upgrade netfx-4.7-devpack -y --no-progress
 choco upgrade netfx-4.7.2-devpack -y --no-progress
 
 choco upgrade vscode-autohotkey -y --no-progress
