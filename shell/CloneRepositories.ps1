@@ -7,6 +7,7 @@ mkdir c:/github/organisations/chocolatey-community
 mkdir c:/github/organisations/gep13-oss
 mkdir c:/github/organisations/GitTools
 mkdir c:/github/organisations/Homebrew
+mkdir c:/github/organisations/MahApps
 mkdir c:/github/organisations/Microsoft
 mkdir c:/github/organisations/poshbotio
 mkdir c:/github/people/buthomas
@@ -222,6 +223,15 @@ cd c:/github/organisations/Homebrew
 git clone https://github.com/gep13/homebrew-core.git
 cd homebrew-core
 git remote add upstream https://github.com/Homebrew/homebrew-core.git
+cd ..
+
+# MahApps
+
+cd c:/github/organisations/MahApps
+
+git clone https://github.com/gep13/MahApps.Metro.git
+cd MahApps.Metro
+cd
 cd ..
 
 # Microsoft
