@@ -8,12 +8,105 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 | Date                                            | Topic                                                                          |
 |-------------------------------------------------|--------------------------------------------------------------------------------|
-| Monday 11th August 2019 - 8PM BST (7PM GMT)     | No stream tonight - on holiday                                                 |
-| Friday 9th August 2019 - 12PM BST (11AM GMT)    | Talking about the Cake Addin Discoverer Tool                                   |
+|                                                 |                                                                                |
 
 ## Past streams
 
-### 37 - Monday 8th July
+### 83 - Monday 4th May 2020
+
+### 82 - Monday 27th April 2020
+
+### 81 - Monday 20th April 2020
+
+### 80 - Monday 13th April 2020
+
+### 79 - Monday 6th April 2020
+
+### 78 - Monday 30th March 2020
+
+### 77 - Monday 23rd March 2020
+
+### 76 - Monday 16th March 2020
+
+### 75 - Monday 10th February 2020
+
+### 74 - Monday 3rd February 2020
+
+### 73 - Monday 27th January 2020
+
+### 72 - Friday 24th January 2020
+
+### 71 - Monday 20th January 2020
+
+### 70 - Friday 17th January 2020
+
+### 69 - Monday 13th January 2020
+
+### 68 - Friday 10th January 2020
+
+### 67 - Monday 6th January 2020
+
+### 66 - Friday 20th December 2019
+
+### 65 - Monday 16th December 2019
+
+### 64 - Monday 9th December 2019
+
+### 63 - Monday 2nd December 2019
+
+### 62 - Friday 29th November 2019
+
+### 61 - Monday 25th November 2019
+
+### 60 - Friday 22nd November 2019
+
+### 59 - Monday 18th November 2019
+
+### 58 - Friday 15th November 2019
+
+### 57 - Monday 11th November 2019
+
+### 56 - Friday 1st November 2019
+
+### 55 - Monday 28th October 2019
+
+### 54 - Friday 11th October 2019
+
+### 53 - Monday 7th October 2019
+
+### 52 - Friday 4th October 2019
+
+### 51 - Monday 30th September 2019
+#### Part 1
+#### Part 2
+
+### 50 - Friday 20th September 2019
+
+### 49 - Monday 16th September 2019
+
+### 48 - Friday 13th September 2019
+
+### 47 - Monday 9th September 2019
+
+### 46 - Monday 2nd September 2019
+
+### 45 - Friday 30th August 2019
+
+### 44 - Monday 26th August 2019
+
+### 43 - Friday 23rd August 2019
+
+### 42 - Monday 19th August 2019
+
+### 41 - Friday 9th August 2019
+
+### 40 - Monday 5th August 2019
+
+### 39 - Friday 2nd August 2019
+
+### 38 - Monday 29th July 2019
+
+### 37 - Monday 8th July 2019
 #### Part 8 - Working on a new project, code name "devgep"
 
 [![Monday 8th July 2019 - Live Stream](https://img.youtube.com/vi/3t8dnniPOq8/0.jpg)](http://www.youtube.com/watch?v=3t8dnniPOq8 "Monday 8th July 2019 - Live Stream")
@@ -28,9 +121,9 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 [![Friday 28th June 2019 - Live Stream](https://img.youtube.com/vi/-CYZhNaY_xU/0.jpg)](http://www.youtube.com/watch?v=-CYZhNaY_xU "Friday 28th June 2019 - Live Stream")
 
-In today's lunch time stream, I was continuing to work on the secret project called devgep.  I started out the stream thinking that I was going to be creating an ASP.NET WEB API project which was going to be the access point for the Azure Functions and Azure Table Storage that makes up the backend of the service that we are creating.  
+In today's lunch time stream, I was continuing to work on the secret project called devgep.  I started out the stream thinking that I was going to be creating an ASP.NET WEB API project which was going to be the access point for the Azure Functions and Azure Table Storage that makes up the backend of the service that we are creating.
 
-However, after a short discussion with Mattias who was on the stream, it was agreed that this wasn't required.  Instead, creating another Azure Function, is all that would be required.  I set about trying to do this, which meant that I had to install the Azure Workload for Visual Studio since I didn't have that installed, but once that was in place, everything was setup ready to start working with it, and I am happy to say that everything just worked.  
+However, after a short discussion with Mattias who was on the stream, it was agreed that this wasn't required.  Instead, creating another Azure Function, is all that would be required.  I set about trying to do this, which meant that I had to install the Azure Workload for Visual Studio since I didn't have that installed, but once that was in place, everything was setup ready to start working with it, and I am happy to say that everything just worked.
 
 It was AMAZING!
 
@@ -41,7 +134,7 @@ https://clips.twitch.tv/BrainyInspiringTurnipUWot
 
 [![Monday 24th June 2019 - Live Stream](https://img.youtube.com/vi/jk6pGTE8PNA/0.jpg)](http://www.youtube.com/watch?v=jk6pGTE8PNA "Monday 24th June 2019 - Live Stream")
 
-In part 5 of the series on the secret project that is known as "devgep" we worked on getting the Cake Build for the project finished off, and then we started working on removing the sections of the website that we decided that weren't required, i.e. the ability to change a password, use 2FA, etc.  
+In part 5 of the series on the secret project that is known as "devgep" we worked on getting the Cake Build for the project finished off, and then we started working on removing the sections of the website that we decided that weren't required, i.e. the ability to change a password, use 2FA, etc.
 
 None of these things will be required, since we are using an external authentication provider, in the form of GitHub, so having this ability on our site, isn't required.  With those changes made, we were able to re-enable DupFinder and InspectCode, and got them passing as part of the overall build as well.
 
@@ -184,7 +277,7 @@ Documentation about creating Extension Packages can be found [here](https://choc
 
 [![Friday 3rd May 2019 - Live Stream](https://img.youtube.com/vi/q0uF_PfEuUk/0.jpg)](http://www.youtube.com/watch?v=q0uF_PfEuUk "Friday 3rd May 2019 - Live Stream")
 
-In this lunch time stream, we looked at updating [Cake.Coveralls](https://github.com/cake-contrib/Cake.Coveralls) to use the latest released version of Cake, 0.33.0.  
+In this lunch time stream, we looked at updating [Cake.Coveralls](https://github.com/cake-contrib/Cake.Coveralls) to use the latest released version of Cake, 0.33.0.
 
 This is required because there were potentially breaking changes made in Cake in this release, and as such, it is preferred that Cake Addin Maintainers update their references.
 
