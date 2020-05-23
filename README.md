@@ -21,7 +21,7 @@ Apologies for the quality of the stream on Twitch tonight.  It would appear that
 
 We started tonight reviewing a [PR](https://github.com/chocolatey/ChocolateyGUI/pull/771) from Maurice into Chocolatey GUI.
 
-We got this reviewed and merged into the code base.  We discussed a related change, which resulted in this [issue])https://github.com/chocolatey/ChocolateyGUI/issues/774) being created.
+We got this reviewed and merged into the code base.  We discussed a related change, which resulted in this [issue](https://github.com/chocolatey/ChocolateyGUI/issues/774) being created.
 .
 Then we went on to look at the [rebase GitHub action](https://github.com/cirrus-actions/rebase).
 
