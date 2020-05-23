@@ -12,6 +12,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 84 - Monday 18th May 2020
+#### Reviewing PR's and trying to get rebase GitHub Action working
+
+[![Monday 18th May 2020 - Live Stream](https://img.youtube.com/vi/T-Xum8iu0ik/0.jpg)](http://www.youtube.com/watch?v=T-Xum8iu0ik "Monday 18th May 2020 - Live Stream")
+
+Apologies for the quality of the stream on Twitch tonight.  It would appear that there were some issues with Twitch, and I was seeing a lot of dropped frames in OBS.  This fixed itself after a while, but was still a little annoying during the stream.
+
+We started tonight reviewing a [PR](https://github.com/chocolatey/ChocolateyGUI/pull/771) from Maurice into Chocolatey GUI.
+
+We got this reviewed and merged into the code base.  We discussed a related change, which resulted in this [issue])https://github.com/chocolatey/ChocolateyGUI/issues/774) being created.
+.
+Then we went on to look at the [rebase GitHub action](https://github.com/cirrus-actions/rebase).
+
+This is something which I have been looking to get working on some of my repositories for a long time, but nothing has ever worked the way that I expected it to.  This GitHub Action shows a lot of promise though, and we spent some time trying to get it working on this [repository](https://github.com/gep13-oss/cakerecipe-vscode)
+
+We got a "simple" PR rebased successfully using it.  By simple, we mean a PR from the same base repository.  Then we set our targets on getting a PR that comes from a fork working.  In the end we were able to get this working, but there were some security concerns around it's usage, so we backed out those changes.  Need to come back to look at this again, as this is something that I would love to see working, as it would save so much time and effort!
+
 ### 83 - Monday 4th May 2020
 
 ### 82 - Monday 27th April 2020
