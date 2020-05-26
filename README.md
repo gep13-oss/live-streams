@@ -15,6 +15,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 85 - Monday 25th May 2020
 #### Preview of Chocolatey Central Management Deployments
 
+[![Monday 25th May 2020 - Live Stream](https://img.youtube.com/vi/Wbf6EgZDzzU/0.jpg)](http://www.youtube.com/watch?v=Wbf6EgZDzzU "Monday 25th May 2020 - Live Stream")
+
 On tonights stream I was joined by Chocolatey Founder [Rob Reynolds](https://twitter.com/ferventcoder).
 
 To give a preview of the upcoming release of Chocolatey Central Management Deployments.
