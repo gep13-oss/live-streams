@@ -12,6 +12,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 86 - Monday 1st June 2020
+#### Preview of Chocolatey Central Management Deployments
+
+[![Monday 1st June 2020 - Live Stream](https://img.youtube.com/vi/MvKGNo723F0/0.jpg)](http://www.youtube.com/watch?v=MvKGNo723F0 "Monday 1st June 2020 - Live Stream")
+
+On tonight's stream, we worked on shipping a new version of the Azure DevOps extension for Chocolatey.  Based on some work that was done by [David Gardiner](https://twitter.com/DavidRGardiner), the extension now includes a new task for installing Chocolatey onto a build agent.  This work had already been pulled into the repository, so we worked to actually get it published.
+
+There were a couple of hiccups as we worked to make sure we had the right token to publish the extension, and we finally got it published.
+
+Once published, and after doing some testing, we found that a bug had been introduced, so we worked on getting that fixed, and we ended up publishing another, unplanned, extension version.  After some more testing, things seem to be working, but we will need to follow up with David, and the Chocolatey team, about some remaining questions.  Once those are ironed out, we plan to ship a 1.0.0 version of the extension, so that folks can pin to a specific version of the task.
+
 ### 85 - Monday 25th May 2020
 #### Preview of Chocolatey Central Management Deployments
 
