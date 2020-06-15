@@ -12,8 +12,26 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
-### 86 - Monday 1st June 2020
+### 87 - Monday 15th June 2020
 #### Preview of Chocolatey Central Management Deployments
+
+[![Monday 15th June 2020 - Live Stream](https://img.youtube.com/vi/MvKGNo723F0/0.jpg)](http://www.youtube.com/watch?v=MvKGNo723F0 "Monday 15th June 2020 - Live Stream")
+
+On tonight's stream, we worked on a new feature that is getting added to Chocolatey GUI, the ability to have the concept of global settings, in addition to user settings.
+
+https://github.com/chocolatey/ChocolateyGUI/issues/602
+
+This comes from a problem where when trying to set these settings, which are user by default, using a CM system like Chef, Puppet, etc, that these values are never set properly, and they cause problems.
+
+Having the ability to set them at the machine level means that provisioning these settings will work, and still allow the user to override them, if they choose to.
+
+The work on tonights stream resulted in this PR getting created:
+
+https://github.com/chocolatey/ChocolateyGUI/pull/781
+
+
+### 86 - Monday 1st June 2020
+#### Stream 86 - Working on a new release of the Chocolatey Azure DevOps Extension
 
 [![Monday 1st June 2020 - Live Stream](https://img.youtube.com/vi/MvKGNo723F0/0.jpg)](http://www.youtube.com/watch?v=MvKGNo723F0 "Monday 1st June 2020 - Live Stream")
 
