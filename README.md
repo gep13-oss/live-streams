@@ -13,9 +13,9 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ## Past streams
 
 ### 87 - Monday 15th June 2020
-#### Preview of Chocolatey Central Management Deployments
+#### Stream 87 - Working on global configuration for Chocolatey GUI
 
-[![Monday 15th June 2020 - Live Stream](https://img.youtube.com/vi/MvKGNo723F0/0.jpg)](http://www.youtube.com/watch?v=MvKGNo723F0 "Monday 15th June 2020 - Live Stream")
+[![Monday 15th June 2020 - Live Stream](https://img.youtube.com/vi/XupU9w5tsCc/0.jpg)](http://www.youtube.com/watch?v=XupU9w5tsCc "Monday 15th June 2020 - Live Stream")
 
 On tonight's stream, we worked on a new feature that is getting added to Chocolatey GUI, the ability to have the concept of global settings, in addition to user settings.
 
