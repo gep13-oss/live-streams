@@ -12,6 +12,24 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 88 - Monday 29th June 2020
+#### Stream 88 - Working on Cake and Cake Contrib Addins - adding SourceLink
+
+[![Monday 29th June 2020 - Live Stream](https://img.youtube.com/vi/cpM2vILW0m8/0.jpg)](http://www.youtube.com/watch?v=cpM2vILW0m8 "Monday 29th June 2020 - Live Stream")
+
+Had a lot of fun on this stream, working through what needs to be done to allow debugging into a Cake Addin when debugging a Cake Script in VSCode.
+
+After jumping through a couple of hoops, we were able to get everything working!  We enabled SourceLink on the Cake.FileHelpers addin (which had been contributed via an automated PR) and published a new version of Cake.FileHelpers.  With that done, we created a some test Cake script to try debugging into the code of a method that this addin exposes.  To start with, this wasn't working, but after a suggestion from Martin (@mholo65) we altered the launch.json file we were using to change how OmniSharp was setting up the debugging.  With this done, it all "just" worked!
+
+The end result of this stream was a couple of issues being created to improve the experience even more:
+
+* https://github.com/cake-build/cake/issues/2820
+* https://github.com/cake-build/cake-vscode/issues/376
+
+Also, there will be some work to go through and suggest this addition to all Cake-Contrib Addins, so that everyone can take advantage of this!
+
+Thanks to eveyone who helped getting this to work!
+
 ### 87 - Monday 15th June 2020
 #### Stream 87 - Working on global configuration for Chocolatey GUI
 
