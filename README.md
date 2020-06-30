@@ -28,7 +28,7 @@ The end result of this stream was a couple of issues being created to improve th
 
 Also, there will be some work to go through and suggest this addition to all Cake-Contrib Addins, so that everyone can take advantage of this!
 
-Thanks to eveyone who helped getting this to work!
+Thanks to everyone who helped getting this to work!
 
 ### 87 - Monday 15th June 2020
 #### Stream 87 - Working on global configuration for Chocolatey GUI
