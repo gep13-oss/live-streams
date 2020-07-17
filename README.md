@@ -25,6 +25,17 @@ We spent a little bit of time discussing what Cake.Issues and Cake.Issues.Recipe
 
 We weren't able to get this working completely, but we did make some good steps in the right direction.
 
+### 89 - Monday 6th July 2020
+#### Stream 89 - Working on creating a deterministic build for a Cake-Contrib addin
+
+[![Monday 6th July 2020 - Live Stream](https://img.youtube.com/vi/Wu7RIPuehf0/0.jpg)](http://www.youtube.com/watch?v=Wu7RIPuehf0 "Monday 6th July 2020 - Live Stream")
+
+On tonights stream we looked at what is required to create a fully deterministic build:
+
+https://github.com/clairernovotny/DeterministicBuilds
+
+Ultimately, this is something that I want to support within Cake.Recipe, but I have been running into issues with getting it to work.  Specifically, there have been issues with trying to fully enable SourceLink through Coverlet.  I reached out to the maintainers of Coverlet, and they mentioned a potential fix, which we were able to confirm as a workaround.
+
 ### 88 - Monday 29th June 2020
 #### Stream 88 - Working on Cake and Cake Contrib Addins - adding SourceLink
 
