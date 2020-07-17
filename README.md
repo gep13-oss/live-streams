@@ -12,6 +12,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 90 - Monday 13th July 2020
+#### Stream 90 - Working on Cake.Issues.Recipe
+
+[![Monday 13th July 2020 - Live Stream](https://img.youtube.com/vi/7roa5Q6KcrQ/0.jpg)](http://www.youtube.com/watch?v=7roa5Q6KcrQ "Monday 13th July 2020 - Live Stream")
+
+On tonights stream, I was joined by [Pascal Berger](https://twitter.com/hereispascal) to talk about [Cake.Issues.Recipe](https://github.com/cake-contrib/Cake.Issues.Recipe).  This is being used within Cake.Recipe, and helps to collate and report of different issues which are found during the build.
+
+The reason that we wanted to work on this was due to the fact that one of the Cake.Issues addins, Cake.Issues.Reportin.Generic, currently doesn't support .Net Core.  We are currently working towards .Net Core support for Cake.Recipe, and this addin is one of the last things on the list to get us there.
+
+We spent a little bit of time discussing what Cake.Issues and Cake.Issues.Recipe are, and then discussed what is needed to make it work.  Basically, it is the Razor templating support that is the roadblock.  [Martin Björkström](https://twitter.com/mholo65), is the maintainer of [Gazorator](https://github.com/mholo65/gazorator) which is a Razer templating engine, which does support .Net Core.  We looked at what was required to pull in this library, rather than what is currently being used.
+
+We weren't able to get this working completely, but we did make some good steps in the right direction.
+
 ### 88 - Monday 29th June 2020
 #### Stream 88 - Working on Cake and Cake Contrib Addins - adding SourceLink
 
