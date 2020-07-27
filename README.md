@@ -12,6 +12,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 91 - Monday 20th July 2020
+#### Stream 91 - Working on Cake.Issues.Reporting.Generic and Gazorator
+
+[![Monday 20th July 2020 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 20th July 2020 - Live Stream")
+
+On tonights stream, we picked up where we left off last week, continuing to look into integrating Gazorator into the Cake.Issues.Reporting.Generic addin.  Last week we completed the work of changes required to get things compiling within the addin, but things weren't working, both in terms of the Unit Tests, but also the generated reports.
+
+During the week, Pascal had been able to do some work on the PR that was raised into Cake.Issues.Reporting.Generic, so we continued digging.  We found at least one issue with Gazorator, and we worked to get a PR created which would make things work:
+
+https://github.com/mholo65/gazorator/pull/12
+
+Then we figured out why some reports weren't generating properly, and were able to make some small adjustments to the report templates to get things working.  It basically boiled down to a missing using statement in the template.  Previously, that using statement must have been included by default within RazorEngine, but not in Gazorator.  The decision was made to be more explicit within the report template, and to ensure that the using statement is included.
+
 ### 90 - Monday 13th July 2020
 #### Stream 90 - Working on Cake.Issues.Recipe
 
