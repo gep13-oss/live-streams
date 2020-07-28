@@ -15,7 +15,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 91 - Monday 20th July 2020
 #### Stream 91 - Working on Cake.Issues.Reporting.Generic and Gazorator
 
-[![Monday 20th July 2020 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 20th July 2020 - Live Stream")
+[![Monday 20th July 2020 - Live Stream](https://img.youtube.com/vi/ocacOz3CxME/0.jpg)](http://www.youtube.com/watch?v=ocacOz3CxME "Monday 20th July 2020 - Live Stream")
 
 On tonights stream, we picked up where we left off last week, continuing to look into integrating Gazorator into the Cake.Issues.Reporting.Generic addin.  Last week we completed the work of changes required to get things compiling within the addin, but things weren't working, both in terms of the Unit Tests, but also the generated reports.
 
