@@ -12,6 +12,22 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+
+### 92 - Monday 20th July 2020
+#### Stream 92 - Working on Cake.Issues.Reporting.Generic and Gazorator - Part 2
+
+[![Monday 27th July 2020 - Live Stream](https://img.youtube.com/vi/P0IpkL9gUAE/0.jpg)](http://www.youtube.com/watch?v=P0IpkL9gUAE "Monday 27th July 2020 - Live Stream")
+
+Spent the first part of tonights stream looking at a couple of tools that I have been meaning to play with.  The first being RepoZ and the second being RepositoryCleaner.  Both of these can be installed from Chocolatey.  The first is a really useful little tool for easily finding and navigating repositories on your machine, and when on Windows, adding the git status information to the Windows Explorer shell - amazing!  The repository cleaner tool actually kept crashing when I tried to run it, so I will need to speak to the author about that one.
+
+Later on the stream, we also played with Fusion++, from the same author who created RepoZ, which is another great tool!
+
+Getting down to some coding, we released a new version of Gazorator, which addresses a NRE which was seeing when trying to run tests.  We got this shipped, only to find that there is another NRE later in the code base.  We got a PR up to address this, but didn't release a new package, as we continued with the testing.
+
+Something still isn't right when running Cake.Issues.Reporting.Generic via .Net Framework.  Everything works when running via the .Net Global Tool for Cake, but not via Cake.exe.  I thought it might be an assembly loading error, which is why we installed Fusion++ to see if it could help, but no joy.
+
+Going to have to continue digging into this...
+
 ### 91 - Monday 20th July 2020
 #### Stream 91 - Working on Cake.Issues.Reporting.Generic and Gazorator
 
