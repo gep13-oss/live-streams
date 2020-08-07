@@ -12,8 +12,18 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 93 - Monday 3rd August 2020
+#### Stream 93 - Working on getting Cake.Recipe to run on .Net Core
 
-### 92 - Monday 20th July 2020
+[![Monday 3rd August 2020 - Live Stream](https://img.youtube.com/vi/VilbjpXXOpI/0.jpg)](http://www.youtube.com/watch?v=VilbjpXXOpI "Monday 3rd August 2020 - Live Stream")
+
+On tonights stream, we spend some time trying to get Cake.Recipe to run on .Net Core.  This is now possible due to the fact that Cake.Issues.Recipe has been updated to use the new version of Cake.Issues.Reporting.Generic, which in turn now makes use of a new version of Gazorator, which has been updated to work with .Net Standard.
+
+Now that all of these pieces have been updated, we updated Cake.Recipe to use the new version of Cake.Issues.Recipe, and we were able to get it running under .Net Core :-)  This meant pulling in a new version of Cake itself, namely 0.38.4, which meant there were a few necessary changes to remove some obsoleted usages.  We took this for a spin on the GitReleaseManager project, and happily it all works.
+
+There will likely be some fall out from this, and things that we need to further test, but this was a big step forward!
+
+### 92 - Monday 27th July 2020
 #### Stream 92 - Working on Cake.Issues.Reporting.Generic and Gazorator - Part 2
 
 [![Monday 27th July 2020 - Live Stream](https://img.youtube.com/vi/P0IpkL9gUAE/0.jpg)](http://www.youtube.com/watch?v=P0IpkL9gUAE "Monday 27th July 2020 - Live Stream")
