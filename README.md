@@ -12,6 +12,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 94 - Monday 10th August 2020
+#### Stream 93 - Working on shipping a new release of Cake Extension for Azure DevOps
+
+[![Monday 10th August 2020 - Live Stream](https://img.youtube.com/vi/zt5nl0EjeuM/0.jpg)](http://www.youtube.com/watch?v=zt5nl0EjeuM "Monday 10th August 2020 - Live Stream")
+
+On tonights stream, we worked on publishing a new 1.0.0 release of the Cake Extension for Azure DevOps.  We wanted to do this due to the fact that we know were are going to make a breaking change to the extension, and wanted to ship a 1.0.0 release so that folks can pin to a specific version before the breaking changes.
+
+With that done, we then reviewed the PR from Louis Fischer, which introduces the breaking changes, namely to convert from using PowerShell execution to Node execution.  This will mean that the Cake Extension can be used on any build agent operating system, rather than just Windows.  In addition, the Extension switches to using the .Net Global Tool for Cake, rather than the .Net Framework runner.
+
+We debated about whether we "should" ship version 2.0.0 of the Extension, but in the end, we decided that we should, and happy to say that everything appears to be working :-)
+
 ### 93 - Monday 3rd August 2020
 #### Stream 93 - Working on getting Cake.Recipe to run on .Net Core
 
