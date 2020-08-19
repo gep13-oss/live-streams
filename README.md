@@ -12,8 +12,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 95 - Monday 17th August 2020
+#### Stream 95 - Working in fixing the CI build for BoxStarter
+
+[![Monday 17th August 2020 - Live Stream](https://img.youtube.com/vi/JnSazbkaDeM/0.jpg)](http://www.youtube.com/watch?v=JnSazbkaDeM "Monday 17th August 2020 - Live Stream")
+
+On tonights stream, after a little bit of a false start, we worked on the AppVeyor build for Boxstarter.  For a little while now, this has been failing, for no apparent reason.  Nothing has changed from a build point of view, the psake script is exactly the same, and the *.sln and *.proj files haven't changed.
+
+Testing locally, it appeared that the same problem was happening as on AppVeyor.  That was a good sign in terms of figuring out what was going on.
+
+We started out by trying to address some of the direct build errors with regard to missing WebApplication targets.  Getting past that, we looked at the other errors which spoke about missing platform property for MSBuild.  This was indeed the case, so we addressed those problems.
+
+The final error was related to NuGet targets, which we couldn't find a solution for.  Digging into NuGet, we checked if there had been new releases lately, and turns out there had been, around the time the build started to fail.  Checking, the psake build doesn't pin to a specific version of NuGet, so we pinned to an earlier version, and magically, things started working.  We didn't spend any time digging into why it fails with the newer version of NuGet and instead, moved on.
+
+All changes were checked in, and pushed up to github.com.
+
 ### 94 - Monday 10th August 2020
-#### Stream 93 - Working on shipping a new release of Cake Extension for Azure DevOps
+#### Stream 94 - Working on shipping a new release of Cake Extension for Azure DevOps
 
 [![Monday 10th August 2020 - Live Stream](https://img.youtube.com/vi/zt5nl0EjeuM/0.jpg)](http://www.youtube.com/watch?v=zt5nl0EjeuM "Monday 10th August 2020 - Live Stream")
 
