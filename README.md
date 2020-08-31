@@ -12,6 +12,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 96 - Monday 24th August 2020
+#### Stream 96 - Working on GitReleaseManager
+
+[![Monday 24th August 2020 - Live Stream](https://img.youtube.com/vi/mXncRJVJyro/0.jpg)](http://www.youtube.com/watch?v=mXncRJVJyro "Monday 24th August 2020 - Live Stream")
+
+On tonights stream, we switched focus to work on [GitReleaseManager](https://github.com/gittools/gitreleasemanager).
+
+We reviewed a PR which adds in the ability to use Dependency Injection to control how the internals of the code base works.  This was a PR that came from a community member, and it was great to finally get this merged in.
+
+The same [community member](https://github.com/akordowski) also created an issue raising some other issues about the code base, and during the remainder of the stream, we worked on implementing some of those changes.  There is still some more work to be done for the issue that was raised, but we were able to get through a fair chunk of it.
+
 ### 95 - Monday 17th August 2020
 #### Stream 95 - Working in fixing the CI build for BoxStarter
 
