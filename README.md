@@ -12,6 +12,28 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 98 - Monday 7th September 2020
+#### Stream 98 - Prepping for 2.0.0 release of Cake.Recipe
+
+[![Monday 7th September 2020 - Live Stream](https://img.youtube.com/vi/MfXQxHkBGQE/0.jpg)](http://www.youtube.com/watch?v=MfXQxHkBGQE "Monday 7th September 2020 - Live Stream")
+
+On tonights stream, we looked at the steps that need to be completed in order to move a repository that is using Cake.Recipe 1.x onto Cake.Recipe 2.x.  We used the Cake.DotNetVersionDetector as the example repository, and we worked on converting it over.
+
+The end result of tonights stream was this [PR](https://github.com/cake-contrib/Cake.DotNetVersionDetector/pull/59), and we updated this GitHub [issue](https://github.com/cake-contrib/Cake.Recipe/issues/612).
+
+with the steps that are necessary to do the conversion.  We also started looking into adding some GitHub actions into the repository, based on the work that Kim has been doing lately.  It will be great to start adding in some of these workflows, especially for the triggering of release notes generation, and documentation publishing.
+
+### 97 - Monday 31st August 2020
+#### Stream 97 - Working on GitReleaseManager
+
+[![Monday 31st August 2020 - Live Stream](https://img.youtube.com/vi/QrnwQlTuetk/0.jpg)](http://www.youtube.com/watch?v=QrnwQlTuetk "Monday 31st August 2020 - Live Stream")
+
+On tonights stream, we focused on trying to bring some consistency on the GitReleaseManager code base in the form of adding/updating the EditorConfig and StyleCop settings for the project.  Drawing inspiration from some work that has been done by Patrik Svensson, we become by updating the EditorConfig files for the project, and starting to work through some of the warnings/errors that were being generated.
+
+The culmination of this work went into this [PR](https://github.com/GitTools/GitReleaseManager/pull/286).
+
+There is still some work to do here, but it is a great start!
+
 ### 96 - Monday 24th August 2020
 #### Stream 96 - Working on GitReleaseManager
 
