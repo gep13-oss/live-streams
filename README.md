@@ -15,7 +15,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 101 - Monday 28th September 2020
 #### Stream 101 - Mixed bag of issues, PR's and CI
 
-[![Monday 28th September 2020 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 28th September 2020 - Live Stream")
+[![Monday 28th September 2020 - Live Stream](https://img.youtube.com/vi/RBnHocgoXUw/0.jpg)](http://www.youtube.com/watch?v=RBnHocgoXUw "Monday 28th September 2020 - Live Stream")
 
 Tonights stream was a little bit of a mixed bag of things.  We started looking at some issues that were brought up with when using Cake.Recipe, specifically when using GitVersion.  We figured out one of the issues, and we made a change into Cake.Recipe to fix it.  The second issue we need to follow up with Pascal about.
 
