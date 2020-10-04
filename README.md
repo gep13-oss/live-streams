@@ -12,6 +12,21 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 100 - Monday 21st September 2020
+#### Stream 100 - Showcase of new Chocolatey related tool
+
+[![Monday 21st September 2020 - Live Stream](https://img.youtube.com/vi/6fAn3vysBdk/0.jpg)](http://www.youtube.com/watch?v=6fAn3vysBdk "Monday 21st September 2020 - Live Stream")
+
+On tonights stream, which was stream 100 (quite a milestone) I was joined by [Maurice Kevenaar](https://twitter.com/mkevenaar), who was showing us how to install/setup/use his new chocolatey-diff tool:
+
+https://github.com/chocolatey-community/chocolatey-diff
+
+This is a PowerShell module, which makes it possible to quickly identify the differences between two package versions for a Chocolatey Package. This is especially useful for moderators who are reviewing packages in the moderation queue.
+
+We showed how this can be used on both Windows and Mac.
+
+There were some issues with Twitch this evening which is a little unfortunate, but we made the most of it.  Maurice and I were able to continue chatting even though the connection to Twitch was failing.
+
 ### 99 - Monday 14th September 2020
 #### Stream 99 - Working on Cake.Recipe and other things
 
