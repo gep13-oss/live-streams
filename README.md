@@ -12,6 +12,15 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 99 - Monday 14th September 2020
+#### Stream 99 - Working on Cake.Recipe and other things
+
+[![Monday 14th September 2020 - Live Stream](https://img.youtube.com/vi/_ivWLrvpLOk/0.jpg)](http://www.youtube.com/watch?v=_ivWLrvpLOk "Monday 14th September 2020 - Live Stream")
+
+On tonights stream, we worked on fixing the Cake.Twitter addin, where we (and by that I mean I) inadvertently broke the environment variables used to publish the tweets during the build.  We fixed this on stream, and verified that things were now working.
+
+After this, we worked on some more elements related to getting ready for the Cake.Recipe v2.0.0 release.
+
 ### 98 - Monday 7th September 2020
 #### Stream 98 - Prepping for 2.0.0 release of Cake.Recipe
 
