@@ -33,6 +33,15 @@ On tonights stream we continued with the development of the [Cake extensions for
 
 On tonights stream we continued with the development of the [Cake extension for Visual Studio Code](https://github.com/cake-build/cake-vscode) starting with reviewing a [PR](https://github.com/cake-build/cake-vscode/pull/436) from Nils.  After that, we spent some time digging into the code base to figure out exactly how the execution of the runTask and debugTask work, so that we can figure out how best to integrate these with the .Net Global Tool version of Cake.
 
+### 105 - Monday 9th November 2020
+#### Stream 105 - Working on the Visual Studio Code Extension for Cake - Part 2
+
+[![Monday 2nd November 2020 - Live Stream](https://img.youtube.com/vi/G8yDKPay8co/0.jpg)](http://www.youtube.com/watch?v=G8yDKPay8co "Monday 2nd November 2020 - Live Stream")
+
+The intention of tonights stream had been to continue to develop the [Cake extension for Visual Studio Code](https://github.com/cake-build/cake-vscode) however, the end result was that we merged from dependabot PR's, and then went round the houses a little bit trying to get the extension to work correctly. There is "something" in my environment that is making it not work as expected, and overall the experience was a little frustrating.
+
+Along the way, we made some changes to the [Cake resources](https://github.com/cake-build/resources) repository to allow the downloading of bootstrappers for each Cake runners, however, in deleting the second branch (develop) it had the effect of closing all the open PR's into the repository, which I wasn't expecting.  Apologies to anyone who was impacted by this!
+
 ### 101 - Monday 28th September 2020
 #### Stream 101 - Mixed bag of issues, PR's and CI
 
