@@ -554,34 +554,76 @@ Apologies, I didn't record any notes for this stream.
 Apologies, I didn't record any notes from this stream.
 
 ### 49 - Monday 16th September 2019
-#### Stream 49 - 
+#### Stream 49 - Working on Cake.Recipe
+
+[![Monday 16th September 2019 - Live Stream](https://img.youtube.com/vi/CG129QBgCBE/0.jpg)](http://www.youtube.com/watch?v=CG129QBgCBE "Monday 16th September 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 48 - Friday 13th September 2019
-#### Stream 48 - 
+#### Stream 48 - Working on Cake.Recipe
+
+[![Friday 13th September 2019 - Live Stream](https://img.youtube.com/vi/spSUX6pv0u0/0.jpg)](http://www.youtube.com/watch?v=spSUX6pv0u0 "Friday 13th September 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 47 - Monday 9th September 2019
-#### Stream 47 - 
+#### Stream 47 - Working on Cake.Recipe
+
+[![Monday 9th September 2019 - Live Stream](https://img.youtube.com/vi/kX6z8-wVLVs/0.jpg)](http://www.youtube.com/watch?v=kX6z8-wVLVs "Monday 9th September 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 46 - Monday 2nd September 2019
-#### Stream 46 - 
+#### Stream 46 - Working on addins within the Cake-Contrib Organisation
+
+[![Monday 2nd September 2019 - Live Stream](https://img.youtube.com/vi/R32aDSrg-ig/0.jpg)](http://www.youtube.com/watch?v=R32aDSrg-ig "Monday 2nd September 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 45 - Friday 30th August 2019
-#### Stream 45 - 
+#### Stream 45 - Working on addins within the Cake-Contrib Organisation
+
+[![Friday 30th August 2019 - Live Stream](https://img.youtube.com/vi/bzGZzB9HjJ4/0.jpg)](http://www.youtube.com/watch?v=bzGZzB9HjJ4 "Friday 30th August 2019 - Live Stream")
+
+Working on Cake.SemVer.
+
+Apologies, I didn't record any notes from this stream.
 
 ### 44 - Monday 26th August 2019
-#### Stream 44 - 
+#### Stream 44 - Working on addins within the Cake-Contrib Organisation
+
+[![Monday 26th August 2019 - Live Stream](https://img.youtube.com/vi/ct78ERRRYLc/0.jpg)](http://www.youtube.com/watch?v=ct78ERRRYLc "Monday 26th August 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 43 - Friday 23rd August 2019
-#### Stream 43 - 
+#### Stream 43 - Working on addins within the Cake-Contrib Organisation
+
+[![Friday 23rd August 2019 - Live Stream](https://img.youtube.com/vi/DdbB0nwAe9U/0.jpg)](http://www.youtube.com/watch?v=DdbB0nwAe9U "Friday 23rd August 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 42 - Monday 19th August 2019
-#### Stream 42 - 
+#### Stream 42 - Working on addins within the Cake-Contrib Organisation
+
+[![Monday 19th August 2019 - Live Stream](https://img.youtube.com/vi/hR42SnzQuj4/0.jpg)](http://www.youtube.com/watch?v=hR42SnzQuj4 "Monday 19th August 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 41 - Friday 9th August 2019
-#### Stream 41 - 
+#### Stream 41 - Introducing the Cake.AddinDiscover project
+
+[![Friday 9th August 2019 - Live Stream](https://img.youtube.com/vi/xhghswKUSMY/0.jpg)](http://www.youtube.com/watch?v=xhghswKUSMY "Friday 9th August 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 40 - Monday 5th August 2019
-#### Stream 40 - 
+#### Stream 40 - How to add an application into GitHub Marketplace
+
+[![Monday 5th August 2019 - Live Stream](https://img.youtube.com/vi/LjDMENhWNaM/0.jpg)](http://www.youtube.com/watch?v=LjDMENhWNaM "Monday 5th August 2019 - Live Stream")
+
+On tonights stream, I was joined by [Andrew Nesbitt](https://twitter.com/teabass) talking through the process of setting up an application within GitHub Marketplace.
 
 ### 39 - Friday 2nd August 2019
 #### Stream 39 - 
