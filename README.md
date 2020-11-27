@@ -42,6 +42,19 @@ The intention of tonights stream had been to continue to develop the [Cake exten
 
 Along the way, we made some changes to the [Cake resources](https://github.com/cake-build/resources) repository to allow the downloading of bootstrappers for each Cake runners, however, in deleting the second branch (develop) it had the effect of closing all the open PR's into the repository, which I wasn't expecting.  Apologies to anyone who was impacted by this!
 
+### 104 - Monday 26th October 2020
+#### Stream 104 - Working on the Visual Studio Code Extension for Cake
+
+[![Monday 26th October 2020 - Live Stream](https://img.youtube.com/vi/lqBkrQ-CmT4/0.jpg)](http://www.youtube.com/watch?v=lqBkrQ-CmT4 "Monday 26th October 2020 - Live Stream")
+
+The butterfly episode!
+
+On tonights stream, we started working on the [Cake extension for Visual Studio Code](https://github.com/cake-build/cake-vscode).  The idea is to update this extension to make use of the .Net Global Tool version of Cake, and for all functionality to work out of the box with this runner.  Ideally, it will be possible to configure the functionality to work with the other runners, but the extension should favour the .Net Global Tool.
+
+Throughout this episode, there was a butterfly flying around me, and causing me to get distracted, so apologies for that!
+
+https://twitter.com/gep13/status/1320850188685238274
+
 ### 101 - Monday 28th September 2020
 #### Stream 101 - Mixed bag of issues, PR's and CI
 
