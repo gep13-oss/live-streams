@@ -68,6 +68,19 @@ However, the end result was that things didn't seem to work really well.  Someti
 
 Codespaces has a LOT of potential, and I do think it will be a common workflow that I start using across my OSS development, I just think that there are some teething problems that need to be addressed first.
 
+### 102 - Monday 5th October 2020
+#### Stream 102 - Investigating issues with running Cake.Recipe on GitHub Actions
+
+[![Monday 5th October 2020 - Live Stream](https://img.youtube.com/vi/ATvUkmUju1k/0.jpg)](http://www.youtube.com/watch?v=ATvUkmUju1k "Monday 5th October 2020 - Live Stream")
+
+On tonights stream, we started investigating an issue (https://github.com/cake-contrib/Cake.Recipe/issues/695) that was reported on the Cake.Recipe (https://github.com/cake-contrib/Cake.Recipe) project.
+
+The upshot of this was that the length of the names for files that are being extracted from the NuGet package are too long.  As a result, when the build runs, necessary files can't be found, and therefore can't be run.  We spent the evening debugging into this, and eventually figured out what was going on.
+
+Initially we thought that something had changed with the NuGet package and that the application names had changed, but this wasn't the case.
+
+This will be documented as a known issue on the site.
+
 ### 101 - Monday 28th September 2020
 #### Stream 101 - Mixed bag of issues, PR's and CI
 
