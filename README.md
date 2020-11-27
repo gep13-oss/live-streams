@@ -19,6 +19,13 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 Continuing on the development of the [Cake Extension for Visual Studio Code](https://github.com/cake-build/cake-vscode), on tonights stream we reviewed a [PR from Nils](https://github.com/cake-build/cake-vscode/pull/457) to add some of the remaining required functionality.  We merged this into the code base and then did some deeper dives into executing the extension to make sure that it works as expected.  There were some issues raised out of this testing, but we are getting much closer to a point where we can ship the extension, ready for the 1.0.0 release of Cake.
 
+### 107 - Monday 16th November 2020
+#### Stream 107 - Working on the Visual Studio Code Extension for Cake - Part 5
+
+[![Monday 16th November 2020 - Live Stream](https://img.youtube.com/vi/3MCW0N_HLLQ/0.jpg)](http://www.youtube.com/watch?v=3MCW0N_HLLQ "Monday 16th November 2020 - Live Stream")
+
+On tonights stream we continued with the development of the [Cake extensions for Visual Studio Code](https://github.com/cake-build/cake-vscode).  There were a few changes along the way for other projects, since we took some time to review a [PR](https://github.com/GitTools/GitReleaseManager/pull/292) into [GitReleaseManager](https://github.com/gittools/gitreleasemanager) so that Kim could publish a new package for AHR.  On top of that, we found a [bug in the Cake.VsCode.Recipe](https://github.com/cake-contrib/Cake.VsCode.Recipe/issues/2) which would prevent us from shipping the extension.
+
 ### 101 - Monday 28th September 2020
 #### Stream 101 - Mixed bag of issues, PR's and CI
 
