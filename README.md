@@ -55,6 +55,19 @@ Throughout this episode, there was a butterfly flying around me, and causing me 
 
 https://twitter.com/gep13/status/1320850188685238274
 
+### 103 - Monday 12th October 2020
+#### Stream 103 - Playing with GitHub Codespaces
+
+[![Monday 12th October 2020 - Live Stream](https://img.youtube.com/vi/AJhUT3AKUmg/0.jpg)](http://www.youtube.com/watch?v=AJhUT3AKUmg "Monday 12th October 2020 - Live Stream")
+
+Tonight, we spent the evening playing with [GitHub Codespaces](https://github.com/features/codespaces).  I have been given access to the private beta of this feature, so I thought I would take it for a spin.
+
+The idea would be that I could utilise Codespaces for the various Cake addins that I work on, to allow running some integration tests, with all the tools needed to do the testing already installed, etc.
+
+However, the end result was that things didn't seem to work really well.  Sometimes the Codespace would be created, other times, there was a generic error shown that didn't really help.  It could certainly be that I was holding it wrong, but the upshot was that we didn't get quite as much done as I had hoped.
+
+Codespaces has a LOT of potential, and I do think it will be a common workflow that I start using across my OSS development, I just think that there are some teething problems that need to be addressed first.
+
 ### 101 - Monday 28th September 2020
 #### Stream 101 - Mixed bag of issues, PR's and CI
 
