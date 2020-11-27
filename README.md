@@ -416,34 +416,74 @@ Apologies, I didn't record any notes for this stream.
 To add new aliases for GitReleaseManager
 
 ### 69 - Monday 13th January 2020
-#### Stream 69 - 
+#### Stream 69 - Working for GitReleaseManager
+
+[![Monday 13th January 2020 - Live Stream](https://img.youtube.com/vi/sKPfrtKsgyA/0.jpg)](http://www.youtube.com/watch?v=sKPfrtKsgyA "Monday 13th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 68 - Friday 10th January 2020
-#### Stream 68 - 
+#### Stream 68 - Working for GitReleaseManager
+
+[![Friday 10th January 2020 - Live Stream](https://img.youtube.com/vi/ifo-kx_LD-c/0.jpg)](http://www.youtube.com/watch?v=ifo-kx_LD-c "Friday 10th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 67 - Monday 6th January 2020
-#### Stream 67 - 
+#### Stream 67 - Working for GitReleaseManager
+
+[![Monday 6th January 2020 - Live Stream](https://img.youtube.com/vi/B9tvZcj47WM/0.jpg)](http://www.youtube.com/watch?v=B9tvZcj47WM "Monday 6th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 66 - Friday 20th December 2019
-#### Stream 66 - 
+#### Stream 66 - Working for GitReleaseManager
+
+[![Friday 20th December 2019 - Live Stream](https://img.youtube.com/vi/yFpHlGTXbSE/0.jpg)](http://www.youtube.com/watch?v=yFpHlGTXbSE "Friday 20th December 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 65 - Monday 16th December 2019
-#### Stream 65 - 
+#### Stream 65 - Working for GitReleaseManager
+
+[![Monday 16th December 2019 - Live Stream](https://img.youtube.com/vi/BPFx7X9Bb68/0.jpg)](http://www.youtube.com/watch?v=BPFx7X9Bb68 "Monday 16th December 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 64 - Monday 9th December 2019
-#### Stream 64 - 
+#### Stream 64 - Working for GitReleaseManager
+
+[![Monday 9th December 2019 - Live Stream](https://img.youtube.com/vi/k7Uvl5z7-ts/0.jpg)](http://www.youtube.com/watch?v=k7Uvl5z7-ts "Monday 9th December 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 63 - Monday 2nd December 2019
-#### Stream 63 - 
+#### Stream 63 - Working for GitReleaseManager
+
+[![Monday 2nd December 2019 - Live Stream](https://img.youtube.com/vi/_8SMnMdrRck/0.jpg)](http://www.youtube.com/watch?v=_8SMnMdrRck "Monday 2nd December 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 62 - Friday 29th November 2019
-#### Stream 62 - 
+#### Stream 62 - Working for GitReleaseManager
+
+[![Friday 29th November 2019 - Live Stream](https://img.youtube.com/vi/EJIdQNMdPGo/0.jpg)](http://www.youtube.com/watch?v=EJIdQNMdPGo "Friday 29th November 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 61 - Monday 25th November 2019
-#### Stream 61 - 
+#### Stream 61 - Working on Cake.DotNetTool.Module
+
+[![Monday 25th November 2019 - Live Stream](https://img.youtube.com/vi/xKyRZ3mt3Ik/0.jpg)](http://www.youtube.com/watch?v=xKyRZ3mt3Ik "Monday 25th November 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 60 - Friday 22nd November 2019
-#### Stream 60 - 
+#### Stream 60 - Working on Cake.DotNetTool.Module
+
+[![Friday 22nd November 2019 - Live Stream](https://img.youtube.com/vi/DxZq3UYIquw/0.jpg)](http://www.youtube.com/watch?v=DxZq3UYIquw "Friday 22nd November 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 59 - Monday 18th November 2019
 #### Stream 59 - 
