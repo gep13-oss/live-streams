@@ -4,12 +4,6 @@
 
 I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey, Cake, and general Windows Automation topics.  If you have any ideas for topics that you would like to see covered on one of these streams, then please feel to raise an issue in this repository, and I will do my best to cover them in a future streams.
 
-## Upcoming streams
-
-| Date                                            | Topic                                                                          |
-|-------------------------------------------------|--------------------------------------------------------------------------------|
-|                                                 |                                                                                |
-
 ## Past streams
 
 ### 108 - Monday 23rd November 2020
@@ -486,34 +480,78 @@ Apologies, I didn't record any notes from this stream.
 Apologies, I didn't record any notes from this stream.
 
 ### 59 - Monday 18th November 2019
-#### Stream 59 - 
+#### Stream 59 - Working for GitReleaseManager
+
+[![Monday 18th November 2019 - Live Stream](https://img.youtube.com/vi/NLHa-AEuA3I/0.jpg)](http://www.youtube.com/watch?v=NLHa-AEuA3I "Monday 18th November 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 58 - Friday 15th November 2019
-#### Stream 58 - 
+#### Stream 58 - Working for GitReleaseManager
+
+[![Friday 15th November 2019 - Live Stream](https://img.youtube.com/vi/FL22JTKIR1s/0.jpg)](http://www.youtube.com/watch?v=FL22JTKIR1s "Friday 15th November 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 57 - Monday 11th November 2019
-#### Stream 57 - 
+#### Stream 57 - Working for GitReleaseManager
+
+[![Monday 11th November 2019 - Live Stream](https://img.youtube.com/vi/DH0DFL-7dTA/0.jpg)](http://www.youtube.com/watch?v=DH0DFL-7dTA "Monday 11th November 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 56 - Friday 1st November 2019
-#### Stream 56 - 
+#### Stream 56 - Working on Chocolatey GUI
+
+[![Friday 1st November 2019 - Live Stream](https://img.youtube.com/vi/N88lDWg6tPg/0.jpg)](http://www.youtube.com/watch?v=N88lDWg6tPg "Friday 1st November 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 55 - Monday 28th October 2019
-#### Stream 55 - 
+#### Stream 55 -  Working on Chocolatey GUI
+
+[![Monday 28th October 2019 - Live Stream](https://img.youtube.com/vi/sPI0hls8-II/0.jpg)](http://www.youtube.com/watch?v=sPI0hls8-II "Monday 28th October 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 54 - Friday 11th October 2019
-#### Stream 54 - 
+#### Stream 54 - Working on Cake.Recipe
+
+[![Friday 11th October 2019 - Live Stream](https://img.youtube.com/vi/SY7gAGKaxBA/0.jpg)](http://www.youtube.com/watch?v=SY7gAGKaxBA "Friday 11th October 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 53 - Monday 7th October 2019
-#### Stream 53 - 
+#### Stream 53 - Working on Cake.Recipe
+
+[![Monday 7th October 2019 - Live Stream](https://img.youtube.com/vi/Pfr37VG0ogM/0.jpg)](http://www.youtube.com/watch?v=Pfr37VG0ogM "Monday 7th October 2019 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 52 - Friday 4th October 2019
-#### Stream 52 - 
+#### Stream 52 - Working on Cake.Recipe
+
+[![Friday 4th October 2019 - Live Stream](https://img.youtube.com/vi/q_RLZMLGWSg/0.jpg)](http://www.youtube.com/watch?v=q_RLZMLGWSg "Friday 4th October 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 51 - Monday 30th September 2019
-#### Stream 51 - 
+#### Stream 51 - Working on Cake.Recipe
+
+This stream was broken up into two parts due to a technical problem
+
+[![Monday 30th September 2019 - Live Stream - Part 1](https://img.youtube.com/vi/EMeHbJK_mj8/0.jpg)](http://www.youtube.com/watch?v=EMeHbJK_mj8 "Monday 30th September 2019 - Live Stream - Part 1")
+
+[![Monday 30th September 2019 - Live Stream - Part 2](https://img.youtube.com/vi/2Hh3kcoT9eE/0.jpg)](http://www.youtube.com/watch?v=2Hh3kcoT9eE "Monday 30th September 2019 - Live Stream - Part 2")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 50 - Friday 20th September 2019
-#### Stream 50 - 
+#### Stream 50 - Working on Cake.Recipe
+
+[![Friday 20th September 2019 - Live Stream](https://img.youtube.com/vi/FB-iCHmmdR4/0.jpg)](http://www.youtube.com/watch?v=FB-iCHmmdR4 "Friday 20th September 2019 - Live Stream")
+
+Apologies, I didn't record any notes from this stream.
 
 ### 49 - Monday 16th September 2019
 #### Stream 49 - 
