@@ -286,7 +286,7 @@ There were a couple of hiccups as we worked to make sure we had the right token 
 Once published, and after doing some testing, we found that a bug had been introduced, so we worked on getting that fixed, and we ended up publishing another, unplanned, extension version.  After some more testing, things seem to be working, but we will need to follow up with David, and the Chocolatey team, about some remaining questions.  Once those are ironed out, we plan to ship a 1.0.0 version of the extension, so that folks can pin to a specific version of the task.
 
 ### 85 - Monday 25th May 2020
-#### Preview of Chocolatey Central Management Deployments
+#### Stream 85 - Preview of Chocolatey Central Management Deployments
 
 [![Monday 25th May 2020 - Live Stream](https://img.youtube.com/vi/Wbf6EgZDzzU/0.jpg)](http://www.youtube.com/watch?v=Wbf6EgZDzzU "Monday 25th May 2020 - Live Stream")
 
@@ -299,7 +299,7 @@ This is a new feature in the 0.2.0 version of Chocolatey Central Management whic
 You can find more information about this in the [blog post](https://chocolatey.org/blog/announcing-deployments)
 
 ### 84 - Monday 18th May 2020
-#### Reviewing PR's and trying to get rebase GitHub Action working
+#### Stream 84 - Reviewing PR's and trying to get rebase GitHub Action working
 
 [![Monday 18th May 2020 - Live Stream](https://img.youtube.com/vi/T-Xum8iu0ik/0.jpg)](http://www.youtube.com/watch?v=T-Xum8iu0ik "Monday 18th May 2020 - Live Stream")
 
@@ -316,98 +316,200 @@ This is something which I have been looking to get working on some of my reposit
 We got a "simple" PR rebased successfully using it.  By simple, we mean a PR from the same base repository.  Then we set our targets on getting a PR that comes from a fork working.  In the end we were able to get this working, but there were some security concerns around it's usage, so we backed out those changes.  Need to come back to look at this again, as this is something that I would love to see working, as it would save so much time and effort!
 
 ### 83 - Monday 4th May 2020
+#### Stream 83 - Working on Chocolatey GUI
+
+[![Monday 4th May 2020 - Live Stream](https://img.youtube.com/vi/EwGZeT-9Z0E/0.jpg)](http://www.youtube.com/watch?v=EwGZeT-9Z0E "Monday 4th May 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 82 - Monday 27th April 2020
+#### Stream 82 - Working on Chocolatey GUI
+
+[![Monday 27th April 2020 - Live Stream](https://img.youtube.com/vi/3YsRY5SG-pY/0.jpg)](http://www.youtube.com/watch?v=3YsRY5SG-pY "Monday 27th April 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 81 - Monday 20th April 2020
+#### Stream 81 - Working on Chocolatey GUI
+
+[![Monday 20th April 2020 - Live Stream](https://img.youtube.com/vi/o1nqXW4v5M4/0.jpg)](http://www.youtube.com/watch?v=o1nqXW4v5M4 "Monday 20th April 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 80 - Monday 13th April 2020
+#### Stream 80 - Working on Chocolatey GUI
+
+[![Monday 13th April 2020 - Live Stream](https://img.youtube.com/vi/YjdAviBgZGs/0.jpg)](http://www.youtube.com/watch?v=YjdAviBgZGs "Monday 13th April 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 79 - Monday 6th April 2020
+#### Stream 79 - Working on Chocolatey GUI
+
+[![Monday 6th April 2020 - Live Stream](https://img.youtube.com/vi/EgTGqEzDXgE/0.jpg)](http://www.youtube.com/watch?v=EgTGqEzDXgE "Monday 6th April 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 78 - Monday 30th March 2020
+#### Stream 78 - Working on Chocolatey GUI
+
+[![Monday 30th March 2020 - Live Stream](https://img.youtube.com/vi/G3vEArku43c/0.jpg)](http://www.youtube.com/watch?v=G3vEArku43c "Monday 30th March 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 77 - Monday 23rd March 2020
+#### Stream 77 - Working on Chocolatey GUI
+
+[![Monday 23rd March 2020 - Live Stream](https://img.youtube.com/vi/1GmIFfiLcCo/0.jpg)](http://www.youtube.com/watch?v=1GmIFfiLcCo "Monday 23rd March 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 76 - Monday 16th March 2020
+#### Stream 76 - Working on lots of things, GitReleaseManager and Aberdeen Developers Website
+
+[![Monday 16th March 2020 - Live Stream](https://img.youtube.com/vi/TnAtev8kpKA/0.jpg)](http://www.youtube.com/watch?v=TnAtev8kpKA "Monday 16th March 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 75 - Monday 10th February 2020
+#### Stream 75 - Working on the Chocolatey Extension for Visual Studio Code
+
+[![Monday 10th February 2020 - Live Stream](https://img.youtube.com/vi/Br5Qt_Bhptk/0.jpg)](http://www.youtube.com/watch?v=Br5Qt_Bhptk "Monday 10th February 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 74 - Monday 3rd February 2020
+#### Stream 74 - Working on the Chocolatey Extension for Visual Studio Code
+
+[![Monday 3rd February 2020 - Live Stream](https://img.youtube.com/vi/9pZJFM9ARdE/0.jpg)](http://www.youtube.com/watch?v=9pZJFM9ARdE "Monday 3rd February 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 73 - Monday 27th January 2020
+#### Stream 73 - Working on the Chocolatey Extension for Visual Studio Code
+
+[![Monday 27th January 2020 - Live Stream](https://img.youtube.com/vi/1Eb-0i8S1Uw/0.jpg)](http://www.youtube.com/watch?v=1Eb-0i8S1Uw "Monday 27th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 72 - Friday 24th January 2020
+#### Stream 72 - Working on the Chocolatey Extension for Visual Studio Code
+
+[![Friday 24th January 2020 - Live Stream](https://img.youtube.com/vi/kBb2vq3l8Io/0.jpg)](http://www.youtube.com/watch?v=kBb2vq3l8Io "Friday 24th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 71 - Monday 20th January 2020
+#### Stream 71 - Working on the Chocolatey Extension for Visual Studio Code
+
+[![Monday 20th January 2020 - Live Stream](https://img.youtube.com/vi/UmEYknMdKCg/0.jpg)](http://www.youtube.com/watch?v=UmEYknMdKCg "Monday 20th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
 
 ### 70 - Friday 17th January 2020
+#### Stream 70 - Working on some updates to Cake
+
+[![Friday 17th January 2020 - Live Stream](https://img.youtube.com/vi/bApB_LL9D6A/0.jpg)](http://www.youtube.com/watch?v=bApB_LL9D6A "Friday 17th January 2020 - Live Stream")
+
+Apologies, I didn't record any notes for this stream.
+
+To add new aliases for GitReleaseManager
 
 ### 69 - Monday 13th January 2020
+#### Stream 69 - 
 
 ### 68 - Friday 10th January 2020
+#### Stream 68 - 
 
 ### 67 - Monday 6th January 2020
+#### Stream 67 - 
 
 ### 66 - Friday 20th December 2019
+#### Stream 66 - 
 
 ### 65 - Monday 16th December 2019
+#### Stream 65 - 
 
 ### 64 - Monday 9th December 2019
+#### Stream 64 - 
 
 ### 63 - Monday 2nd December 2019
+#### Stream 63 - 
 
 ### 62 - Friday 29th November 2019
+#### Stream 62 - 
 
 ### 61 - Monday 25th November 2019
+#### Stream 61 - 
 
 ### 60 - Friday 22nd November 2019
+#### Stream 60 - 
 
 ### 59 - Monday 18th November 2019
+#### Stream 59 - 
 
 ### 58 - Friday 15th November 2019
+#### Stream 58 - 
 
 ### 57 - Monday 11th November 2019
+#### Stream 57 - 
 
 ### 56 - Friday 1st November 2019
+#### Stream 56 - 
 
 ### 55 - Monday 28th October 2019
+#### Stream 55 - 
 
 ### 54 - Friday 11th October 2019
+#### Stream 54 - 
 
 ### 53 - Monday 7th October 2019
+#### Stream 53 - 
 
 ### 52 - Friday 4th October 2019
+#### Stream 52 - 
 
 ### 51 - Monday 30th September 2019
-#### Part 1
-#### Part 2
+#### Stream 51 - 
 
 ### 50 - Friday 20th September 2019
+#### Stream 50 - 
 
 ### 49 - Monday 16th September 2019
+#### Stream 49 - 
 
 ### 48 - Friday 13th September 2019
+#### Stream 48 - 
 
 ### 47 - Monday 9th September 2019
+#### Stream 47 - 
 
 ### 46 - Monday 2nd September 2019
+#### Stream 46 - 
 
 ### 45 - Friday 30th August 2019
+#### Stream 45 - 
 
 ### 44 - Monday 26th August 2019
+#### Stream 44 - 
 
 ### 43 - Friday 23rd August 2019
+#### Stream 43 - 
 
 ### 42 - Monday 19th August 2019
+#### Stream 42 - 
 
 ### 41 - Friday 9th August 2019
+#### Stream 41 - 
 
 ### 40 - Monday 5th August 2019
+#### Stream 40 - 
 
 ### 39 - Friday 2nd August 2019
+#### Stream 39 - 
 
 ### 38 - Monday 29th July 2019
+#### Stream 38 - 
 
 ### 37 - Monday 8th July 2019
 #### Part 8 - Working on a new project, code name "devgep"
