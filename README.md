@@ -6,6 +6,25 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 109 - Monday 30th November 2020
+#### Stream 109 - Working on the Visual Studio Code Extension for Cake - Part 6
+
+[![Monday 30th November 2020 - Live Stream](https://img.youtube.com/vi/jOaiTGMrfp8/0.jpg)](http://www.youtube.com/watch?v=jOaiTGMrfp8 "Monday 30th November 2020 - Live Stream")
+
+The Birthday Stream!
+
+On tonights stream, which was the first time streaming on my birthday, we were working on the Cake Extension for Visual Studio Code.  The aim of tonights stream was to ship the extension, as during the week (thanks in no small part to [Nils](https://github.com/nils-a)) all functionality on the 1.0.0 milestone had been completed.
+
+We set about doing some last minute testing, and we noticed one small problem.  As part of checking whether a new version of the Cake .Net Tool is available, we made use of the dotnet tool search command.  This command is only available when using .Net 5, and when testing on an older version (as used on my stream) this command doesn't exist.  The functionality in the Cake Extension itself didn't break though, it just failed to correctly identify that there is a new version available.
+
+On the stream, we decided that this wasn't enough in itself to prevent the release happening, and we went ahead to dry to ship it...
+
+It didn't work :-(
+
+We use the GItReleaseManager tool to manage the GitHub releases, and this tool no longer supports the combination of username/password for accessing GitHub, and instead needs a token in order to work.  The Cake.VsCode.Recipe package hasn't yet been updated to use this token, and as a result, the publishing steps failed, so we weren't able to release the extension.
+
+This will be released later this week, once a new version of Cake.VsCode.Recipe has shipped.
+
 ### 108 - Monday 23rd November 2020
 #### Stream 108 - Working on the Visual Studio Code Extension for Cake - Part 5
 
