@@ -57,6 +57,7 @@ choco upgrade intellijidea-ultimate -y --no-progress
 choco upgrade pwsh -y --no-progress
 choco upgrade microsoft-windows-terminal -y --no-progress
 choco upgrade gsudo -y --no-progress
+choco upgrade windirstat -y --no-progress
 
 # Required to build Chocolatey GUI
 choco upgrade microsoft-build-tools --version 14.0.25420.1 -y --no-progress
