@@ -42,7 +42,7 @@ choco upgrade kdiff3 -y --no-progress
 choco upgrade microsoftazurestorageexplorer -y --no-progress
 choco upgrade msi.template -y --no-progress
 choco upgrade ngrok -y --no-progress
-choco upgrade nodejs -y --no-progress
+choco upgrade nodejs-lts -y --no-progress
 choco upgrade NugetPackageExplorer -y --no-progress
 choco upgrade poshgit -y --no-progress
 choco upgrade postman -y --no-progress
