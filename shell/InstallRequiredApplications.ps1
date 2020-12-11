@@ -50,7 +50,7 @@ choco upgrade python -y --no-progress
 choco upgrade sql-server-express -y --no-progress
 choco upgrade sql-server-management-studio -y --no-progress
 choco upgrade transifex-client -y --no-progress
-choco upgrade yo -y --no-progress
+choco upgrade yo -y --no-progress --ignore-dependencies
 choco upgrade zip.template -y --no-progress
 
 choco upgrade intellijidea-ultimate -y --no-progress
