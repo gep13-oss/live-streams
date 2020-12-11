@@ -54,7 +54,7 @@ choco upgrade yo -y --no-progress --ignore-dependencies
 choco upgrade zip.template -y --no-progress
 
 choco upgrade intellijidea-ultimate -y --no-progress
-
+choco upgrade pwsh -y --no-progress
 choco upgrade microsoft-windows-terminal -y --no-progress
 
 # Required to build Chocolatey GUI
