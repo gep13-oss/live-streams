@@ -31,6 +31,16 @@ cd cake
 git remote add upstream https://github.com/cake-build/cake.git
 cd..
 
+git clone https://github.com/gep13/cake-rider.git
+cd cake-rider
+git remote add upstream https://github.com/cake-build/cake-rider.git
+cd ..
+
+git clone https://github.com/gep13/cake-vs.git
+cd cake-vs
+git remote add upstream https://github.com/cake-build/cake-vs.git
+cd ..
+
 git clone https://github.com/gep13/cake-vscode.git
 cd cake-vscode
 git remote add upstream https://github.com/cake-build/cake-vscode.git
