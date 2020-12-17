@@ -6,6 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 110 - Monday 7th December 2020
+### Stream 110 - Working on the Cake Visual Studio and Rider Extensions
+
+[![Monday 7th December 2020 - Live Stream](https://img.youtube.com/vi/BSCeW4UmwkM/0.jpg)](http://www.youtube.com/watch?v=BSCeW4UmwkM "Monday 7th December 2020 - Live Stream")
+
+Tonight was the first stream which used Streamlabs OBS, rather than OBS.  Over the last week, I have had a few issues with OBS (it crashes every time I try to switch to a scene), so I setup Streamlabs OBS, and it seems to be working fine.  Spent a little bit of time playing with the featured.chat tool, which I have setup.  It will highlight any comment (or custom message) from the Twitch Chat in the centre of the stream.  Will be great for moderators to let me know about something that I might have missed.  Also I have setup alerts for when "something" happens on a stream, i.e. a raid, a cheer, etc.  Been a long time coming, but got there in the end!
+
+With the successful release of the Cake VSCode Extension during last week, it was time to switch gears a little bit, so it is time to start looking at the Visual Studio and Rider Extensions for Cake.
+
+Tonights stream mainly focused on the Rider extension, since Nils has been doing some work on that recently to bring it up to a state that it is working for some of the functionality.  We walked through the process of getting IntelliJ IDEA setup to a point where I was able to debug the extension, and to see it working in Rider.  Nils has done a huge amount of work here, and it was great to see it working.
+
+There was a lot of downloading of "stuff" in this stream, and a lot of waiting around while things got setup and configured, but the end result was that we were able to see the extension running, and being able to trigger a task from our Cake script to actually execute.  Really looking forward to seeing what we can do with this extension, and bringing it up to par with where the Visual Studio Code extension is.
+
 ### 109 - Monday 30th November 2020
 #### Stream 109 - Working on the Visual Studio Code Extension for Cake - Part 6
 
