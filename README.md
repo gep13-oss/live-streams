@@ -6,8 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 111 - Monday 14th Decemeber 2020
+#### Stream 111 - Working on the Cake Extension for Visual Studio
+
+[![Monday 14th December 2020 - Live Stream](https://img.youtube.com/vi/DsfVSsQESBc/0.jpg)](http://www.youtube.com/watch?v=DsfVSsQESBc "Monday 14th December 2020 - Live Stream")
+
+After a quick recap of last weeks stream and what had happened in between, on tonights stream, we focused on the Visual Studio Extension for Cake.  This included testing it out on both Visual Studio 2015 and 2017.  After running into some issues with Visual Studio 2015 we decided to drop support for it.  I feel that this was the right decision.
+
+We then decided to try extending the current menu structure that is in place for downloading of other Cake bootstrappers.  This turned out to be harder than I thought it was going to be, but we were joined on the stream by Matt Lacey (https://twitter.com/mrlacey) who was able to provide join guidance, including the installation of a Visual Studio Extension which helps with the creation of Visual Studio extensions (very meta).
+
+After that didn't work, we spiked out the usage of the .NET Tool version of Cake, and this seems to work, so we should be able to move forward with it's usage, just need to tidy up the code a little bit.
+
 ### 110 - Monday 7th December 2020
-### Stream 110 - Working on the Cake Visual Studio and Rider Extensions
+#### Stream 110 - Working on the Cake Visual Studio and Rider Extensions
 
 [![Monday 7th December 2020 - Live Stream](https://img.youtube.com/vi/BSCeW4UmwkM/0.jpg)](http://www.youtube.com/watch?v=BSCeW4UmwkM "Monday 7th December 2020 - Live Stream")
 
