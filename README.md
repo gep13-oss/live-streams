@@ -6,6 +6,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 112 - Monday 21st Decemeber 2020
+#### Stream 112 - Working on the Cake Visual Studio Extension - Let's ship this thing!
+
+[![Monday 21st December 2020 - Live Stream](https://img.youtube.com/vi/dXotycI7DDY/0.jpg)](http://www.youtube.com/watch?v=dXotycI7DDY "Monday 21st December 2020 - Live Stream")
+
+On tonights stream, we shipped the 0.3.0 Version of the [Cake Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1392591.CakeforVisualStudio).
+
+We went through the process manually, and took notes about the items that could be automated, for example, adding GitReleaseManager into the mix for generating, publishing release notes on GitHub.
+
+We also spoke through potential ideas about what to work on in future streams, and [Adil](https://twitter.com/adilio) volunteered himself to create some custom emotes for the stream :-D
+
 ### 111 - Monday 14th Decemeber 2020
 #### Stream 111 - Working on the Cake Extension for Visual Studio
 
