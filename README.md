@@ -6,6 +6,21 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 113 - Monday 4th January 2021
+#### Stream 113 - First stream of 2021!
+
+[![Monday 4th January 2021 - Live Stream](https://img.youtube.com/vi/66aVhZ70Auw/0.jpg)](http://www.youtube.com/watch?v=66aVhZ70Auw "Monday 4th Janaury 2021 - Live Stream")
+
+On tonights stream, we worked on a [bug which had been raised on Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe/issues/738) where when running on GitHub Actions, no messages are sent to Twitter/Gitter when a release happens.
+
+We spent a little bit of time investigating the different environment variables that are populated when running on GitHub Actions, both for a "normal" build, and then a tagged build.  We confirmed that these variables are different depending on the type of build is being run, and as a result, Cake.Recipe isn't able to establish the branch name associated with the build.
+
+This is important, since the branch name is required in order to assert whether notifications to Twitter/Gitter are sent.
+
+Once establishing that this was the case, we set about executing git directly to retrieve the branch name.  After a few stumbles, we were able to get this to work how we wanted, although there is a requirement that the checkout GitHub Action along with running the unshallow command, to ensure that all branches are pulled into the clone of the repository on the GitHub Actions build runner.
+
+With it confirmed as working, we committed this into the repository, and closed the issue.  All in all, a successful stream!
+
 ### 112 - Monday 21st Decemeber 2020
 #### Stream 112 - Working on the Cake Visual Studio Extension - Let's ship this thing!
 
