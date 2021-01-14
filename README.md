@@ -6,6 +6,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 114 - Monday 11th January 2021
+#### Stream 114 - Working on Magic Chunks
+
+[![Monday 11th January 2021 - Live Stream](https://img.youtube.com/vi/X8a4Y0nC2PY/0.jpg)](http://www.youtube.com/watch?v=X8a4Y0nC2PY "Monday 11th Janaury 2021 - Live Stream")
+
+On tonights stream, we started working on a new project for our Monday evenings.  I have been a long time user of the [Magic Chunks](https://www.nuget.org/packages/MagicChunks/) library, which makes it super easy to update JSON, YAML, and XML files, using a consist API.  There is also a Cake Addin for this library, which is one of the reasons that I started using it.
+
+Over the years, this library has been a little neglected, so I reached out to the maintainer [Sergey](https://github.com/sergeyzwezdin) to see if he wanted some help to maintain it.  He replied to say yes, and as a result, created a new Organisation so that I (as well as [Pascal](https://github.com/pascalberger)) could be added as collaborators.
+
+We started working on some of the issues which had been assigned to the next milestone, which was mostly around updating some of the project files, getting things ready for shipping the release.
+
 ### 113 - Monday 4th January 2021
 #### Stream 113 - First stream of 2021!
 
