@@ -6,6 +6,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 115 - Monday 18th January 2021
+#### Stream 115 - Working on Magic Chunks - Part 2
+
+[![Monday 18th January 2021 - Live Stream](https://img.youtube.com/vi/y6ohTT2gV-k/0.jpg)](http://www.youtube.com/watch?v=y6ohTT2gV-k "Monday 18th Janaury 2021 - Live Stream")
+
+Following on from the work that we did last week, on tonights stream we continued working on the Magic Chunks library.  There was one remaining issue on the 2.1.0 milestone, which was to include XML documentation into the NuGet package.
+
+This sounded like it should be really easy, however, it turned out there was a bit more work than expected.  It turned out that there were some additional changes required to make things work on the different .NetStandard versions in the NuGet package, and to make sure that everything was copied to the correct location, ready for packaging.
+
+We worked our way through this though, and in the end, everything seems to be working as expected.  Going to be reaching out to Sergey this week, to see what the process for shipping a release is, and going to try to ship 2.1.0.
+
 ### 114 - Monday 11th January 2021
 #### Stream 114 - Working on Magic Chunks
 
