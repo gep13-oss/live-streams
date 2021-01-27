@@ -6,6 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 116 - Monday 25th January 2021
+#### Stream 116 - Updating a Cake addin to build/release using GitHub Actions
+
+[![Monday 25th January 2021 - Live Stream](https://img.youtube.com/vi/7Qx__fHD6TQ/0.jpg)](http://www.youtube.com/watch?v=7Qx__fHD6TQ "Monday 25th Janaury 2021 - Live Stream")
+
+On tonights stream, we started the process of updating the [Cake.StrongNameSigner](https://github.com/cake-contrib/Cake.StrongNameSigner) addin.  There isn't anything currently "wrong" with this addin, however it is currently still using Cake.Recipe 1.0.0, and if updated, can taken advantage of things like enabling deterministic builds, etc.
+
+In addition, the thought process is to use this addin as an example of how to fully execute Cake.Recipe on GitHub Actions as the primary CI system, rather than AppVeyor.
+
+We got most things completed, adding issues to track everything that was changed, so that they can be used as a reminder for what needs to be done in other addins, but we didn't quite get to the point of releasing the new version.
+
+Hopefully, this will be completed during this week.
+
 ### 115 - Monday 18th January 2021
 #### Stream 115 - Working on Magic Chunks - Part 2
 
