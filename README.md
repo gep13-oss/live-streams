@@ -6,6 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 117 - Monday 1st February 2021
+#### Stream 117 - Investigating issue with GitVersion when running on GitHub Action
+
+[![Monday 1st February 2021 - Live Stream](https://img.youtube.com/vi/wEeOhqXNosU/0.jpg)](http://www.youtube.com/watch?v=wEeOhqXNosU "Monday 1st Februray 2021 - Live Stream")
+
+On tonights stream we spent some time investigating why GitVersion fails to assert the correct semantic version number when building a tag on GitHub Actions.  We were able to replicate this issue running locally on my machine by cloning the repository in the exact same way as GitHub Actions does, and setting the environment variables that GitHub actions uses.
+
+Using this setup, we were able to run GitVersion whilst debugging in Visual Studio, and to figure out that there was a slight issue in how GitVersion was asserting the version number.
+
+After making a small modification to the code base, we were able to get the correct version number asserted, with all the remaining unit tests passing.  We created a [Pull Request](https://github.com/GitTools/GitVersion/pull/2577) for this change, but we also need to create a unit test for this case, to make sure that there are no regressions.
+
+We didn't have time to create the unit test on the stream, but will attempt to do this during the week, and get the PR updated.
+
 ### 116 - Monday 25th January 2021
 #### Stream 116 - Updating a Cake addin to build/release using GitHub Actions
 
