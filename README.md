@@ -6,6 +6,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 118 - Monday 8th Februart 2021
+#### Stream 118 - Lets ship Cake.StrongNameSigner... again!
+
+[![Monday 8th February 2021 - Live Stream](https://img.youtube.com/vi/wfICdQHUPhg/0.jpg)](http://www.youtube.com/watch?v=wfICdQHUPhg "Monday 8th Februray 2021 - Live Stream")
+
+The intention of tonights stream was to use the newly released version of GitVersion to publish the 0.2.0 release of Cake.StrongNameSigner on GitHub Actions, and to then move onto publishing another Cake Addin on Azure DevOps.  Unfortunately, that didn't quite happen :-(
+
+We found that when we tried to use the latest version of GitVersion to do the publishing of the addin, that it still wasn't working correctly.  It was still asserting the wrong version number.  The rest of the stream was spent trying to figure out why it wasn't working.
+
+We attempted to add additional logging to try to figure out where the GitVersion execution was getting to, but that also didn't seem to work.  The whole stream was a little frustrating.
+
 ### 117 - Monday 1st February 2021
 #### Stream 117 - Investigating issue with GitVersion when running on GitHub Action
 
