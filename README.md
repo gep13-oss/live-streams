@@ -6,7 +6,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
-### 118 - Monday 8th Februart 2021
+### 118 - Monday 8th February 2021
 #### Stream 118 - Lets ship Cake.StrongNameSigner... again!
 
 [![Monday 8th February 2021 - Live Stream](https://img.youtube.com/vi/wfICdQHUPhg/0.jpg)](http://www.youtube.com/watch?v=wfICdQHUPhg "Monday 8th Februray 2021 - Live Stream")
