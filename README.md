@@ -11,6 +11,10 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 [![Monday 22nd February 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 22nd Februray 2021 - Live Stream")
 
+Over the course of the last few streams, we have been focusing on the new [2.2.0 release of Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe/releases/tag/2.2.0).  This consisted of ensuring that Cake.Recipe could be used to do a complete publish of a Cake addin when running on AppVeyor, GitHub Actions and Azure Pipelines.  With that work completed, it is time to start putting this new release into action, and on the stream tonight we made use of it to ship bug fix release of [Cake.DotNetTool.Module](https://github.com/cake-contrib/Cake.DotNetTool.Module/releases/tag/1.0.1) and [Cake.Gitter](https://github.com/cake-contrib/Cake.Gitter/releases/tag/1.0.1), as well as new release of [Cake.Figlet](https://github.com/cake-contrib/Cake.Figlet/releases/tag/2.0.0) and [Cake.AppVeyor](https://github.com/cake-contrib/Cake.AppVeyor/releases/tag/5.0.0) (both of which are now compiled against Cake 1.0.0).
+
+Had a lot of fun on tonights stream, and it feels like it was very productive!
+
 ### 119 - Monday 15th February 2021
 #### Stream 119 - Building/publishing a Cake Addin on Azure DevOps
 
