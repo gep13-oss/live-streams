@@ -6,6 +6,18 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 120 - Monday 22nd February 2021
+#### Stream 120 - Working on some Cake Contrib Addins/Modules
+
+[![Monday 22nd February 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 22nd Februray 2021 - Live Stream")
+
+### 119 - Monday 15th February 2021
+#### Stream 119 - Building/publishing a Cake Addin on Azure DevOps
+
+[![Monday 15th February 2021 - Live Stream](https://img.youtube.com/vi/hYJk3tjDvGI/0.jpg)](http://www.youtube.com/watch?v=hYJk3tjDvGI "Monday 15th Februray 2021 - Live Stream")
+
+Building on the work from the last couple streams, the focus of tonight was to publish a Cake Addin completely, using Azure Pipelines.  The addin in question was [Cake.DotNetVersionDetector](https://github.com/cake-contrib/Cake.DotNetVersionDetector).  We very nearly got to a point where we were able to complete the publishing of the addin.  We ran into a small [bug in Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe/issues/768) in how it names the branches in its Azure Pipelines provider, but that should be a small change, which would allow the publishing of Cake.Recipe, ready for use in other addins.  In addition, we found that there was a need for some [additional documentation on the Cake.Recipe site](https://github.com/cake-contrib/Cake.Recipe/pull/786), in order to make it clear how to use Cake.Recipe on Azure Pipelines.
+
 ### 118 - Monday 8th February 2021
 #### Stream 118 - Lets ship Cake.StrongNameSigner... again!
 
