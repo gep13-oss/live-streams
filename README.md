@@ -6,6 +6,21 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 121 - Monday 8th March 2021
+#### Stream 121 - Working on a few things tonight - getting back into the swing of it
+
+[![Monday 8th March 2021 - Live Stream](https://img.youtube.com/vi/lpuT5ELTyCM/0.jpg)](http://www.youtube.com/watch?v=lpuT5ELTyCM "Monday 8th March 2021 - Live Stream")
+
+After taking a night off last week, we were back to normal streaming tonight. Didn't have anything specifically planned for tonight, so just thought we would see where we end up.
+
+We ended up shipping a new bug fix release of [Cake.Bakery](https://github.com/cake-build/bakery/releases/tag/0.6.2) to try to fix an issue that was reported.
+
+After that, we reviewed and discussed a PR into [GitReleaseManager](https://github.com/GitTools/GitReleaseManager/pull/357) for removing the file header from all code files. We discussed that we might need to go back and review this change to add some form of file header back in, but for now, this change makes sense.
+
+We also worked on some bug fixes for [Cake.Recipe](https://github.com/cake-contrib/cake.recipe) in preparation for a bug fix release to address a number of issues that have popped up while trying to use Cake.Recipe running on GitHub Actions.
+
+Throughout the evening we also discussed topics for upcoming streams, and tried to start prioritising what we will be working on going forward.
+
 ### 120 - Monday 22nd February 2021
 #### Stream 120 - Working on some Cake Contrib Addins/Modules
 
