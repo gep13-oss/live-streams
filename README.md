@@ -6,6 +6,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 122 - Monday 15th March 2021
+#### Stream 122 - Working on Cake.Recipe and shipping a release
+
+[![Monday 15th March 2021 - Live Stream](https://img.youtube.com/vi/UmomtDzp2po/0.jpg)](http://www.youtube.com/watch?v=UmomtDzp2po "Monday 15th March 2021 - Live Stream")
+
+Tonight we picked up where we left off last week, and fixed the remaining issues on the Cake.Recipe 2.2.1 milestone, and we were able to ship a [new release](https://www.nuget.org/packages/Cake.Recipe/2.2.1).
+
+With that done, we set about starting the upgrade process to get Cake.Recipe running with 1.1.0 of Cake. There was an open PR from AddinDiscoverer that updated most of the dependencies to this end, however, there was a breaking change in Cake which meant that part of the Cake.Recipe script had to be re-worked.  This was the part of the script that worked on getting the Cake Arguments that had been passed in.  With the switch to using Spectre.Console, this had changed.
+
+There is an open issue on [Cake](https://github.com/cake-build/cake/issues/2690) which would provide what is required, but for now, we have to work with reflection to get at the information that we want.
+
 ### 121 - Monday 8th March 2021
 #### Stream 121 - Working on a few things tonight - getting back into the swing of it
 
