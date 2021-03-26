@@ -6,6 +6,13 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 123 - Monday 22nd March 2021
+#### Stream 123 - Working on Cake.Recipe and GitReleaseManager
+
+[![Monday 22nd March 2021 - Live Stream](https://img.youtube.com/vi/eTfVPYRdGZo/0.jpg)](http://www.youtube.com/watch?v=eTfVPYRdGZo "Monday 22nd March 2021 - Live Stream")
+
+On tonights stream, we continued where we left off last week and reviewed some remaining PR's into the Cake.Recipe project, and from there, we decided to switch to working on the GitReleaseManager project.  There have been a number of great additions to that project, and it would be great to be able to get to a point where we can ship a new release.  There were lots of dependabot PR's sitting waiting for review/merge, so we worked on doing some of those, and discussing what we need to do going forward.
+
 ### 122 - Monday 15th March 2021
 #### Stream 122 - Working on Cake.Recipe and shipping a release
 
