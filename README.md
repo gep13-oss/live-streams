@@ -6,6 +6,17 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 124 - Monday 5th April 2021
+#### Stream 124 - Working on GitReleaseManager Version 0.12.0
+
+[![Monday 5th April 2021 - Live Stream](https://img.youtube.com/vi/VxVsj4paC6A/0.jpg)](http://www.youtube.com/watch?v=VxVsj4paC6A "Monday 5th April 2021 - Live Stream")
+
+Tonight we worked on GitReleaseManager and got a new GitHub Actions build up and running (Windows only for the minute).  There is an issue running ApprovalTests on Linux and Mac, may need to reach out to Simon Cropp about this.
+
+After that, we switched over to work on an issue to add a new option to the export command to skip the export of pre-release releases when exporting all release notes.
+
+We finished the evening by having a look at the VSCode extension for GitHub Pull Requests and Issues to see what it can do.  It looks like a really [useful extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
 ### 123 - Monday 22nd March 2021
 #### Stream 123 - Working on Cake.Recipe and GitReleaseManager
 
