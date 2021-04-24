@@ -6,8 +6,14 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 126 - Monday 19th April 2021
+#### Stream 126 - Working on GitReleaseManager Version 0.12.0 - Part 3
+
+### 125 - Monday 12th April 2021
+#### Stream 125 - Working on GitReleaseManager Version 0.12.0 - Part 2
+
 ### 124 - Monday 5th April 2021
-#### Stream 124 - Working on GitReleaseManager Version 0.12.0
+#### Stream 124 - Working on GitReleaseManager Version 0.12.0 - Part 1
 
 [![Monday 5th April 2021 - Live Stream](https://img.youtube.com/vi/VxVsj4paC6A/0.jpg)](http://www.youtube.com/watch?v=VxVsj4paC6A "Monday 5th April 2021 - Live Stream")
 
