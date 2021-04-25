@@ -11,10 +11,14 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 [![Monday 19th April 2021 - Live Stream](https://img.youtube.com/vi/eg_NHCscDoM/0.jpg)](http://www.youtube.com/watch?v=eg_NHCscDoM "Monday 19th April 2021 - Live Stream")
 
+On tonights stream, we worked on GitReleaseManager, specifically the last thing that was on the milestone for shipping 0.12.0, which was to include the ability to allow the creation of an empty release.  That means that you no longer have to have a milestone with issues assigned to it, or an input file with release notes contained within it, you can simply create an arbitrary draft release.  We quickly attempted to merge a final dependabot PR in as well, but there are issues with GitVersion when running the build, so we weren&#39;t able to get that pulled in.  
+
 ### 125 - Monday 12th April 2021
 #### Stream 125 - Working on GitReleaseManager Version 0.12.0 - Part 2
 
 [![Monday 12th April 2021 - Live Stream](https://img.youtube.com/vi/pZqwMb_PFD4/0.jpg)](http://www.youtube.com/watch?v=pZqwMb_PFD4 "Monday 12th April 2021 - Live Stream")
+
+On tonights stream, we spent some more time working on GitReleaseManager, trying to close off the last remaining issues in the 0.12.0 milestone. Specifically tonight, we worked on collecting together all the errors that can occur when generating a set of release notes, and output them all at the same time, rather than only the first one.  This makes it much easier to see all the problems, rather than getting one error, fixing it, and then get another error.  This has been a long standing request, so it is great to finally get this added.
 
 ### 124 - Monday 5th April 2021
 #### Stream 124 - Working on GitReleaseManager Version 0.12.0 - Part 1
