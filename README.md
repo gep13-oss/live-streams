@@ -6,6 +6,15 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 127 - Monday 26th April 2021
+#### Stream 127 - Working on GitReleaseManager Version 0.12.0 - Part 4
+
+[![Monday 26th April 2021 - Live Stream](https://img.youtube.com/vi/5h3sn6HpNt8/0.jpg)](http://www.youtube.com/watch?v=5h3sn6HpNt8 "Monday 26th April 2021 - Live Stream")
+
+Tonights stream was dedicated to debugging what is going on with GitReleaseManager. Last week we thought we got to a point where we could ship 0.12.0, however, when I went to release it, I noticed that there were some things that weren't working.  For example, when attempting to create the release notes for 0.12.0 I noticed that it wasn't including the Breaking Changes issues, and also that we were missing mapping in AutoMapper and registrations in the IoC container, all of which meant that things weren't working.
+
+Of the 12 commands that GitReleaseManager has, we were able to at least partially exercise 10 of them, so there is still some work to be done before we can ship things.  The remaining commands that need to be tested are uploadasset (which we found a problem with right at the end of the stream) and the publish command.
+
 ### 126 - Monday 19th April 2021
 #### Stream 126 - Working on GitReleaseManager Version 0.12.0 - Part 3
 
