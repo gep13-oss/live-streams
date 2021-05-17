@@ -6,6 +6,15 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 128 - Monday 10th May 2021
+#### Stream 128 - Working on GitReleaseManager Version 0.12.0 - Part 5
+
+[![Monday 10th May 2021 - Live Stream](https://img.youtube.com/vi/Dtb2b7FUAFE/0.jpg)](http://www.youtube.com/watch?v=Dtb2b7FUAFE "Monday 10th May 2021 - Live Stream")
+
+On tonights stream, we went through and tested all the functionality of GitReleaseManager, to ensure that everything is working as expected. We ran into an issue with how the uploading of assets was working (we put this down to a change in how OctoKit works) and we had to make a minor code change to get this to start working again. We also took steps to document (on paper currently) all the steps that we went through to test GitReleaseManager.  It would be great to get these fully automated, but the slight problem there is that we need to test against a "live" repository, and things have to be set up in a particular way to get some tests to work, so this isn't something that is really simple to do. For now, having things documented is a great first step, and if/when possible, these should be moved to automated tests.
+
+Happy to say that GitReleaseManager is now in a shippable state, and it should be possible to release 0.12.0.
+
 ### 127 - Monday 26th April 2021
 #### Stream 127 - Working on GitReleaseManager Version 0.12.0 - Part 4
 
