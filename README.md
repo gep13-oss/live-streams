@@ -24,6 +24,8 @@ Getting these addins updated is likely to be the focus of the next few streams, 
 ### 129 - Monday 31st May 2021
 #### Stream 129 - Shipping GitReleaseManager 0.12.0
 
+[![Monday 31st May 2021 - Live Stream](https://img.youtube.com/vi/lamBkg3FfXw/0.jpg)](http://www.youtube.com/watch?v=lamBkg3FfXw "Monday 31st May 2021 - Live Stream")
+
 On tonights stream, we FINALLY shipped GitReleaseManager 0.12.0! The last release of GitReleaseManager was in March 2020, so it feels really good to finally ship this.  There are some exciting new features in this release, including the ability to fully control how the release notes are generated vis Scriban templates.  In order to ship this release, there were a few unit tests that we had to fix up, and work through to ensure that they all pass, but once that was done, we were able to push the button to release it!  
 
 Full release notes can be found here:  
