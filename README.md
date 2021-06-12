@@ -9,6 +9,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 130 - Monday 7th June 2021
 #### Stream 130 - Housekeeping of some Cake Addins
 
+[![Monday 7th June 2021 - Live Stream](https://img.youtube.com/vi/tFd6OewDrgg/0.jpg)](http://www.youtube.com/watch?v=tFd6OewDrgg "Monday 17th June 2021 - Live Stream")
+
 On tonights stream, we switched back to working on doing some housekeeping of the Cake Addins that I &#34;own&#34; including:  
 
 *   Cake.Coveralls
