@@ -6,6 +6,30 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 130 - Monday 7th June 2021
+#### Stream 130 - Housekeeping of some Cake Addins
+
+On tonights stream, we switched back to working on doing some housekeeping of the Cake Addins that I &#34;own&#34; including:  
+
+*   Cake.Coveralls
+*   Cake.Gitter
+*   Cake.Twitter
+
+We worked through pulling in some dependabot PR&#39;s for these addins, as well as updating the icons and tags used by the addins, so that we could get some new releases pushed out.  We were able to accomplish this for the first two addins above, but there was a failure on Cake.Twitter, so will need to go back and manually fix this.  
+
+Getting these addins updated is likely to be the focus of the next few streams, as I work through getting all my addins updated to the latest standards.  
+
+### 129 - Monday 31st May 2021
+#### Stream 129 - Shipping GitReleaseManager 0.12.0
+
+On tonights stream, we FINALLY shipped GitReleaseManager 0.12.0! The last release of GitReleaseManager was in March 2020, so it feels really good to finally ship this.  There are some exciting new features in this release, including the ability to fully control how the release notes are generated vis Scriban templates.  In order to ship this release, there were a few unit tests that we had to fix up, and work through to ensure that they all pass, but once that was done, we were able to push the button to release it!  
+
+Full release notes can be found here:  
+
+[https://github.com/GitTools/GitReleaseManager/releases/tag/0.12.0](https://github.com/GitTools/GitReleaseManager/releases/tag/0.12.0)  
+
+Created by GitReleaseManager of course! :-)  
+
 ### 128 - Monday 10th May 2021
 #### Stream 128 - Working on GitReleaseManager Version 0.12.0 - Part 5
 
