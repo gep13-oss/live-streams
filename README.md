@@ -6,6 +6,39 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 136 - Monday 2nd August 2021
+#### Stream 136 - Working on the documentation site for GitVersion
+
+[![Monday 2nd August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 2nd August 2021 - Live Stream")
+
+
+### 135 - Monday 26th July 2021
+#### Stream 135 - Working on the GLAA website - allow editing of album information
+
+[![Monday 26th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 26th July 2021 - Live Stream")
+
+
+### 134 - Monday 19th July 2021
+#### Stream 134 - More working on pet project website - this time JavaScript!
+
+[![Monday 19th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 19th July 2021 - Live Stream")
+
+
+
+### 133 - Monday 12th July 2021
+#### Stream 133 - Doing more work on the new pet project website in Azure
+
+[![Monday 12th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 12th July 2021 - Live Stream")
+
+
+
+### 132 - Monday 5th July 2021
+#### Stream 132 - Back after short break, and starting a new pet project
+
+[![Monday 5th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 5th July 2021 - Live Stream")
+
+
+
 ### 131 - Monday 14th June 2021
 #### Stream 131 - Unboxing some GitHub Stars swag!
 
