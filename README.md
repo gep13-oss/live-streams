@@ -35,7 +35,13 @@ In order to allow this to work, we had to ensure that the markers.json file is u
 
 [![Monday 19th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 19th July 2021 - Live Stream")
 
+Continuing to work on the GLAA website, this time adding in some JavaScript to the page.  This was to allow for the fetching of a markers.json file (populated with the lat/long details for the places that have been visited) to allow these markers to be displayed on a Google Maps widget.
 
+We initially thought that we might be able to embed this information directly into the Razor Page to retrieve from there, but it was actually simpler to fetch this data, enumerate it, and add it to the Google Maps widget.
+
+Now, on load of the main page, the markers.json file is fetched, and after a short animation, the contents of the markers.json file is shown on the map, and when you click on one of them, it takes you through to the album page with the photos.
+
+Real progress being made here!
 
 ### 133 - Monday 12th July 2021
 #### Stream 133 - Doing more work on the new pet project website in Azure
