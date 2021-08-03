@@ -11,6 +11,15 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 [![Monday 2nd August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 2nd August 2021 - Live Stream")
 
+In a change of pace from the last few streams, I decided to work on something different, something that has been on my todo list for a while now... updating the documentation for [GitVersion](https://github.com/gittools/gitversion).
+
+The current documentation site for GitVersion can be found [here](https://gitversion.net/), however, it used to be hosted on https://readthedocs.org/.  When we moved from there, we attempted to add some 301 redirects to the pages to direct folks to the new pages, however, we forgot a few things...
+
+The default branch in the git repository changed from master to main, which meant that the docs build wasn't working anymore.  On top of this, the new Wyam site was recently changed, so that pages were moved, however, the RedirectFrom attribute wasn't added to the frontmatter of the pages to make a soft redirect to new location.  On top of this, Google has some memory of the previous pages in readthedocs site, so we need to add additional redirect to ensure that these links go to the right place.
+
+We tackled all of these problems during the stream, and I believe we got a lot of things sorted out, but there is still some work to be done here.
+
+The end result of this stream was this [pull request](https://github.com/GitTools/GitVersion/pull/2794).
 
 ### 135 - Monday 26th July 2021
 #### Stream 135 - Working on the GLAA website - allow editing of album information
