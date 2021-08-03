@@ -55,7 +55,17 @@ Real progress being made here!
 
 [![Monday 5th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 5th July 2021 - Live Stream")
 
+Well, this was an utter shambles :-)
 
+Tonight I started working on a new pet project to create a photo album website which would be used to collect family trips that have been taken, including lat/long information that can be plotted on a Google Maps widget.  This idea came about, as my eldest child showed an interest in helping getting this up and running.
+
+So to get started, I took a look at this template from [Mads Kristensen](https://github.com/madskristensen/PhotoGallery) and the focus of tonights stream was meant to be around hooking up the bare template to an Azure Website, and to get it publishing there when a new commit is made to repository.  This is where things started to go wrong...
+
+Wasn't able to get deployments working properly using Azure DevOps, so switched to using GitHub Actions.  This got us further, but there seems to be a problem with my Azure Portal, where I don't have my own subscription, but rather am tied to Mattias's one (something that will have to be investigated off stream).  Finally got things deploying, but the site itself isn't working, even though it runs locally.
+
+Tried to set up ApplicationInsights to get some clues as to what is going on, but that was a bit of a dead end as well.  Think we were holding this wrong though!
+
+In the end, ended the stream a little deflated, as we didn't get anything working as I had hoped, but will try again next week!
 
 ### 131 - Monday 14th June 2021
 #### Stream 131 - Unboxing some GitHub Stars swag!
