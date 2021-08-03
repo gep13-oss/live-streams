@@ -26,6 +26,9 @@ The end result of this stream was this [pull request](https://github.com/GitTool
 
 [![Monday 26th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 26th July 2021 - Live Stream")
 
+On tonights stream, we continued working on the GLAA website.  This time, we looked at the ability to edit the metadata for an album (i.e. the name, description, date visited, etc).  This means that we can now go back and edit an album if we find that something isn't quite right about the information.
+
+In order to allow this to work, we had to ensure that the markers.json file is updated with the potentially new long/lat information for an album.  This ended up in a bit of duplicated code, that will need to be refactored, but from a purely functional point of view, the basic functionality of the site is now working, and can be populated with information about visits that have been made.
 
 ### 134 - Monday 19th July 2021
 #### Stream 134 - More working on pet project website - this time JavaScript!
