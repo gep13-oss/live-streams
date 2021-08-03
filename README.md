@@ -6,10 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 131 - Monday 14th June 2021
+#### Stream 131 - Unboxing some GitHub Stars swag!
+
+[![Monday 14th June 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 14th June 2021 - Live Stream")
+
+Well, this didn&#39;t quite go how I wanted it to, but hopefully the essence of what I was trying to achieve still comes across.  I tried to have two cameras at the same time, one to show me, and the other to show the contents of the swag boxes that came in the post from GitHub.  This didn&#39;t work, and ended up in all cameras stopping working, so that got abandoned quite quickly.  
+
+I was able to get through the contents of the swag box though, which was truly amazing, and I am very grateful to the folks at GitHub for sending this through!  
+
 ### 130 - Monday 7th June 2021
 #### Stream 130 - Housekeeping of some Cake Addins
 
-[![Monday 7th June 2021 - Live Stream](https://img.youtube.com/vi/tFd6OewDrgg/0.jpg)](http://www.youtube.com/watch?v=tFd6OewDrgg "Monday 17th June 2021 - Live Stream")
+[![Monday 7th June 2021 - Live Stream](https://img.youtube.com/vi/tFd6OewDrgg/0.jpg)](http://www.youtube.com/watch?v=tFd6OewDrgg "Monday 7th June 2021 - Live Stream")
 
 On tonights stream, we switched back to working on doing some housekeeping of the Cake Addins that I &#34;own&#34; including:  
 
