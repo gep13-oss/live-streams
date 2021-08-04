@@ -46,7 +46,7 @@ Real progress being made here!
 ### 133 - Monday 12th July 2021
 #### Stream 133 - Doing more work on the new pet project website in Azure
 
-[![Monday 12th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 12th July 2021 - Live Stream")
+[![Monday 12th July 2021 - Live Stream](https://img.youtube.com/vi/rq33LlwLeYw/0.jpg)](http://www.youtube.com/watch?v=rq33LlwLeYw "Monday 12th July 2021 - Live Stream")
 
 After last weeks shambles of a stream, we were able to figure out a few of the issues during the week that was preventing the site from working when published to Azure App Service.  Turns out that the version of node on the build machine was wrong, and as a result the TypeScript transpiling (which is included in the template application by default) doesn't work.  However, we don't actually have any TypeScript in the project just now, so removing this portion of the "magic" from the template, made things start to work.
 
