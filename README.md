@@ -33,7 +33,7 @@ In order to allow this to work, we had to ensure that the markers.json file is u
 ### 134 - Monday 19th July 2021
 #### Stream 134 - More working on pet project website - this time JavaScript!
 
-[![Monday 19th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 19th July 2021 - Live Stream")
+[![Monday 19th July 2021 - Live Stream](https://img.youtube.com/vi/XSyxsAQBkTc/0.jpg)](http://www.youtube.com/watch?v=XSyxsAQBkTc "Monday 19th July 2021 - Live Stream")
 
 Continuing to work on the GLAA website, this time adding in some JavaScript to the page.  This was to allow for the fetching of a markers.json file (populated with the lat/long details for the places that have been visited) to allow these markers to be displayed on a Google Maps widget.
 
