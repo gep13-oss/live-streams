@@ -72,7 +72,7 @@ In the end, ended the stream a little deflated, as we didn't get anything workin
 ### 131 - Monday 14th June 2021
 #### Stream 131 - Unboxing some GitHub Stars swag!
 
-[![Monday 14th June 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 14th June 2021 - Live Stream")
+[![Monday 14th June 2021 - Live Stream](https://img.youtube.com/vi/jbrkcYyy34s/0.jpg)](http://www.youtube.com/watch?v=jbrkcYyy34s "Monday 14th June 2021 - Live Stream")
 
 Well, this didn&#39;t quite go how I wanted it to, but hopefully the essence of what I was trying to achieve still comes across.  I tried to have two cameras at the same time, one to show me, and the other to show the contents of the swag boxes that came in the post from GitHub.  This didn&#39;t work, and ended up in all cameras stopping working, so that got abandoned quite quickly.  
 
