@@ -55,7 +55,7 @@ With that part working, we started working on collecting some metadata about the
 ### 132 - Monday 5th July 2021
 #### Stream 132 - Back after short break, and starting a new pet project
 
-[![Monday 5th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 5th July 2021 - Live Stream")
+[![Monday 5th July 2021 - Live Stream](https://img.youtube.com/vi/1vnfMHVBHU0/0.jpg)](http://www.youtube.com/watch?v=1vnfMHVBHU0 "Monday 5th July 2021 - Live Stream")
 
 Well, this was an utter shambles :-)
 
