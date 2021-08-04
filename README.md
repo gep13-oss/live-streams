@@ -24,7 +24,7 @@ The end result of this stream was this [pull request](https://github.com/GitTool
 ### 135 - Monday 26th July 2021
 #### Stream 135 - Working on the GLAA website - allow editing of album information
 
-[![Monday 26th July 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 26th July 2021 - Live Stream")
+[![Monday 26th July 2021 - Live Stream](https://img.youtube.com/vi/v7U6_-PdLsA/0.jpg)](http://www.youtube.com/watch?v=v7U6_-PdLsA "Monday 26th July 2021 - Live Stream")
 
 On tonights stream, we continued working on the GLAA website.  This time, we looked at the ability to edit the metadata for an album (i.e. the name, description, date visited, etc).  This means that we can now go back and edit an album if we find that something isn't quite right about the information.
 
