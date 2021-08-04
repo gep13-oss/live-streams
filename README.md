@@ -9,7 +9,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 136 - Monday 2nd August 2021
 #### Stream 136 - Working on the documentation site for GitVersion
 
-[![Monday 2nd August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 2nd August 2021 - Live Stream")
+[![Monday 2nd August 2021 - Live Stream](https://img.youtube.com/vi/ogDk4A00U0k/0.jpg)](http://www.youtube.com/watch?v=ogDk4A00U0k "Monday 2nd August 2021 - Live Stream")
 
 In a change of pace from the last few streams, I decided to work on something different, something that has been on my todo list for a while now... updating the documentation for [GitVersion](https://github.com/gittools/gitversion).
 
