@@ -7,7 +7,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ## Past streams
 
 ### 144 - Monday 1st November 2021
-#### Stream 144 - 
+#### Stream 144 - Defining a .devcontainer for building Chocolatey docs locally
 
 [![Monday 1st November 2021 - Live Stream](https://img.youtube.com/vi/LdGB9crsblY/0.jpg)](http://www.youtube.com/watch?v=LdGB9crsblY "Monday 1st November 2021 - Live Stream")
 
