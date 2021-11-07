@@ -9,9 +9,23 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 144 - Monday 1st November 2021
 #### Stream 144 - 
 
-[![Monday 1st November 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 1st November 2021 - Live Stream")
+[![Monday 1st November 2021 - Live Stream](https://img.youtube.com/vi/LdGB9crsblY/0.jpg)](http://www.youtube.com/watch?v=LdGB9crsblY "Monday 1st November 2021 - Live Stream")
 
-Fill in...
+On tonights stream, we worked on building the running/previewing of the Chocolatey documentation site on GitHub Codespaces, to also running it locally in a container.
+
+We defined a .devcontainer folder to control how a container is created/run when running the site locally.
+
+This was made possible using the Remote Development extension:
+
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+
+as well as having Docker Desktop installed:
+
+https://www.docker.com/products/docker-desktop
+
+With both of these things in place, we can run the documentation site both on GitHub Codespaces, as well as locally on a machine, without having to installing the specific requirements for the site to build/preview.
+
+Very happy to say that this "just" worked, with very little effort.
 
 ### 143 - Monday 11th October 2021
 #### Stream 143 - 
