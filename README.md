@@ -6,6 +6,62 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 144 - Monday 1st November 2021
+#### Stream 144 - 
+
+[![Monday 1st November 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 1st November 2021 - Live Stream")
+
+Fill in...
+
+### 143 - Monday 11th October 2021
+#### Stream 143 - 
+
+[![Monday 11th October 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 11th October 2021 - Live Stream")
+
+Fill in...
+
+### 142 - Monday 27th September 2021
+#### Stream 142 - 
+
+[![Monday 27th September 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 27th September 2021 - Live Stream")
+
+Fill in...
+
+### 141 - Monday 20th September 2021
+#### Stream 141 - 
+
+[![Monday 20th September 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 20th September 2021 - Live Stream")
+
+Fill in...
+
+### 140 - Monday 30th August 2021
+#### Stream 140 - 
+
+[![Monday 30th August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 30th August 2021 - Live Stream")
+
+Fill in...
+
+### 139 - Monday 23rd August 2021
+#### Stream 139 - 
+
+[![Monday 23rd August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 23rd August 2021 - Live Stream")
+
+Fill in...
+
+### 138 - Monday 16th August 2021
+#### Stream 138 - 
+
+[![Monday 16th August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 16th August 2021 - Live Stream")
+
+Fill in...
+
+### 137 - Monday 9th August 2021
+#### Stream 137 - 
+
+[![Monday 9th August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 9th August 2021 - Live Stream")
+
+Fill in...
+
 ### 136 - Monday 2nd August 2021
 #### Stream 136 - Working on the documentation site for GitVersion
 
