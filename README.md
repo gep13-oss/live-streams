@@ -49,9 +49,9 @@ These were opened earlier, and I had received some feedback on them, so it was t
 
 Tonights stream was dedicated to reviewing various PR's across multiple projects, including:
 
-chocolatey/choco
-chocolatey/docs
-cake-contrib/Cake.AliaSql
+* chocolatey/choco
+* chocolatey/docs
+* cake-contrib/Cake.AliaSql
 
 Lots of work to be done here, as I seem to have missed some notifications :-(
 
