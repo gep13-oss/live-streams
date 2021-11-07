@@ -56,11 +56,19 @@ Tonights stream was dedicated to reviewing various PR's across multiple projects
 Lots of work to be done here, as I seem to have missed some notifications :-(
 
 ### 141 - Monday 20th September 2021
-#### Stream 141 - 
+#### Stream 141 - Let's fix a bug in GitReleaseManager!
 
-[![Monday 20th September 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 20th September 2021 - Live Stream")
+[![Monday 20th September 2021 - Live Stream](https://img.youtube.com/vi/XlG4VjKz4tU/0.jpg)](http://www.youtube.com/watch?v=XlG4VjKz4tU "Monday 20th September 2021 - Live Stream")
 
-Fill in...
+On tonights stream, we worked on fixing a bug which has been reported in GitReleaseManager:
+
+https://github.com/GitTools/GitReleaseManager/issues/399
+
+Once we got this fixed, we shipped a new version, 0.12.1:
+
+https://github.com/GitTools/GitReleaseManager/releases/tag/0.12.1
+
+Which has been pushed out to NuGet, and Chocolatey.
 
 ### 140 - Monday 30th August 2021
 #### Stream 140 - 
