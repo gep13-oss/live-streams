@@ -30,7 +30,7 @@ Very happy to say that this "just" worked, with very little effort.
 ### 143 - Monday 11th October 2021
 #### Stream 143 - Working on PR's in Chocolatey and Chef
 
-[![Monday 11th October 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 11th October 2021 - Live Stream")
+[![Monday 11th October 2021 - Live Stream](https://img.youtube.com/vi/oUqrocPR7Rw/0.jpg)](http://www.youtube.com/watch?v=oUqrocPR7Rw "Monday 11th October 2021 - Live Stream")
 
 On tonights stream, we were working on some PR's that I have recently opened.  This first is a PR into chocolatey/choco:
 
@@ -43,11 +43,17 @@ https://github.com/chef/chef/pull/12159
 These were opened earlier, and I had received some feedback on them, so it was time to action this feedback, and get the PR's updated.
 
 ### 142 - Monday 27th September 2021
-#### Stream 142 - 
+#### Stream 142 - Reviewing PR's
 
-[![Monday 27th September 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 27th September 2021 - Live Stream")
+[![Monday 27th September 2021 - Live Stream](https://img.youtube.com/vi/65FFohdVko0/0.jpg)](http://www.youtube.com/watch?v=65FFohdVko0 "Monday 27th September 2021 - Live Stream")
 
-Fill in...
+Tonights stream was dedicated to reviewing various PR's across multiple projects, including:
+
+chocolatey/choco
+chocolatey/docs
+cake-contrib/Cake.AliaSql
+
+Lots of work to be done here, as I seem to have missed some notifications :-(
 
 ### 141 - Monday 20th September 2021
 #### Stream 141 - 
