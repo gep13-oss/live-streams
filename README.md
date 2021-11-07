@@ -28,11 +28,19 @@ With both of these things in place, we can run the documentation site both on Gi
 Very happy to say that this "just" worked, with very little effort.
 
 ### 143 - Monday 11th October 2021
-#### Stream 143 - 
+#### Stream 143 - Working on PR's in Chocolatey and Chef
 
 [![Monday 11th October 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 11th October 2021 - Live Stream")
 
-Fill in...
+On tonights stream, we were working on some PR's that I have recently opened.  This first is a PR into chocolatey/choco:
+
+https://github.com/chocolatey/choco/pull/2390
+
+and the second is one into chef/chef:
+
+https://github.com/chef/chef/pull/12159
+
+These were opened earlier, and I had received some feedback on them, so it was time to action this feedback, and get the PR's updated.
 
 ### 142 - Monday 27th September 2021
 #### Stream 142 - 
