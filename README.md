@@ -6,6 +6,27 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 145 - Monday 8th November 2021
+#### Stream 145 - Working on, and hopefully shipping, a new version of Cake.Bakery
+
+[![Monday 8th November 2021 - Live Stream](https://img.youtube.com/vi/peHwo69wCXk/0.jpg)](http://www.youtube.com/watch?v=peHwo69wCXk "Monday 8th November 2021 - Live Stream")
+
+On tonights stream, we went through the PR that had been created in the bakery repository here:  
+
+[https://github.com/cake-build/bakery/pull/138](https://github.com/cake-build/bakery/pull/138)  
+
+This was an initial stab at updating bakery to use .NET 6.0.  This PR was pulled down locally, and the feedback from the PR was addresses, and a local build attempted.  This ran into a few problems, but these were worked through, and got to a point where the local build was fully working.  
+
+With the build complete, the Cake.Bakery.exe was tested with the latest 2.0.0-rc0001 release of Cake, and proven to work, and to provide intellisense for the new aliases, etc.  
+
+A new PR was created:  
+
+[https://github.com/cake-build/bakery/pull/143](https://github.com/cake-build/bakery/pull/143)  
+
+since updating the existing PR wasn&#39;t possible, however, there were some issues with the GitHub Actions and AppVeyor build, but we ran out of time to get this completed.  
+
+Very happy with the progress that was made on the stream though!  
+
 ### 144 - Monday 1st November 2021
 #### Stream 144 - Defining a .devcontainer for building Chocolatey docs locally
 
