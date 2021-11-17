@@ -6,6 +6,21 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### Stream 146 - Monday 15th November 2021
+#### Stream 146 - Working on integrating Cake.Bakery into the Cake Extension for Visual Studio Code
+
+[![Monday 15th November 2021 - Live Stream](https://img.youtube.com/vi/giACJOnyJEs/0.jpg)](http://www.youtube.com/watch?v=giACJOnyJEs "Monday 15th November 2021 - Live Stream")
+
+On tonights stream, we were working on more closely integrating Cake.Bakery into the Cake Extension for Visual Studio Code.
+
+Cake.Bakery works with Omnisharp to provide intellisense for Cake Scripts within Visual Studio Code, and currently, there is a specific step that needs to be completed to download and set this up when working within Visual Studio Code.
+
+To make a more seamless integration, the suggestion was made that on initialisation of the extension, that it should automatically download Cake.Bakery and set it up with Omnisharp.
+
+On the stream, we worked on ensuring that it would be possible to update the Omnisharp configuration file with the download Cake.Bakery binary location, and once it was clear that this was possible, we worked on downloading the Cake.Bakery nupkg into the extension folder.  We then tested this to ensure it was all working, and happy to say that it was.
+
+Then we did a bit of investigation into what other code could be removed from the extension.  WIth the release of Cake 2.0.0, the Cake.CoreClr library is now not supported, so it makes sense to remove this from the extension.  Still some work to complete here though.  Will likely be the topic of the next stream.
+
 ### 145 - Monday 8th November 2021
 #### Stream 145 - Working on, and hopefully shipping, a new version of Cake.Bakery
 
