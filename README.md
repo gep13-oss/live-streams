@@ -6,7 +6,7 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
-### Stream 146 - Monday 15th November 2021
+### 146 - Monday 15th November 2021
 #### Stream 146 - Working on integrating Cake.Bakery into the Cake Extension for Visual Studio Code
 
 [![Monday 15th November 2021 - Live Stream](https://img.youtube.com/vi/giACJOnyJEs/0.jpg)](http://www.youtube.com/watch?v=giACJOnyJEs "Monday 15th November 2021 - Live Stream")
