@@ -114,11 +114,13 @@ Which has been pushed out to NuGet, and Chocolatey.
 Fill in...
 
 ### 139 - Monday 23rd August 2021
-#### Stream 139 - 
+#### Stream 139 - More work on the Cake Extension for Visual Studio 2022, we are SO close!
 
-[![Monday 23rd August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 23rd August 2021 - Live Stream")
+[![Monday 23rd August 2021 - Live Stream](https://img.youtube.com/vi/nUYN4DFo-Yw/0.jpg)](http://www.youtube.com/watch?v=nUYN4DFo-Yw "Monday 23rd August 2021 - Live Stream")
 
-Fill in...
+On tonights stream, we continued working on getting the Cake Extension for Visual Studio working on 2022.  We were able to ship a new release of it, and we thought that things were working, but on further testing, we found that there was a slight problem when creating a project from the templates that we ship within the extension.
+
+This problem is due to a coupling that exists between the items with the template and the GUID that the extension itself ships with.  Some further investigation will be required here, as we ran out of time on the stream.
 
 ### 138 - Monday 16th August 2021
 #### Stream 138 - Continuing to work on getting Cake Extension working on Visual Studio 2022
