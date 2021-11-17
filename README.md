@@ -107,11 +107,15 @@ https://github.com/GitTools/GitReleaseManager/releases/tag/0.12.1
 Which has been pushed out to NuGet, and Chocolatey.
 
 ### 140 - Monday 30th August 2021
-#### Stream 140 - 
+#### Stream 140 - Woot! We have a working Cake Extension for Visual Studio 2022
 
-[![Monday 30th August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 30th August 2021 - Live Stream")
+[![Monday 30th August 2021 - Live Stream](https://img.youtube.com/vi/lhwpwXA_4FA/0.jpg)](http://www.youtube.com/watch?v=lhwpwXA_4FA "Monday 30th August 2021 - Live Stream")
 
-Fill in...
+In the last stream, we shipped version 0.4.1 of the Cake Extension for Visual Studio, but we introduced a bug where the creation of new projects using the Project templates wouldn't work.
+
+On tonights stream, we spent some time figuring out exactly what was going on with this, and at the end of the stream we were able to ship version 0.4.2.  On testing, happy to say that this is now working as expected!
+
+There is some follow up work required across all the Cake extension, namely Visual Studio, Visual Studio Code, and Rider, to ensure that the project templates that are in place are consistent across all of them.  This will likely be the focus of another series of streams.
 
 ### 139 - Monday 23rd August 2021
 #### Stream 139 - More work on the Cake Extension for Visual Studio 2022, we are SO close!
