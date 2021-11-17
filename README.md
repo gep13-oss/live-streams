@@ -121,11 +121,15 @@ Fill in...
 Fill in...
 
 ### 138 - Monday 16th August 2021
-#### Stream 138 - 
+#### Stream 138 - Continuing to work on getting Cake Extension working on Visual Studio 2022
 
-[![Monday 16th August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 16th August 2021 - Live Stream")
+[![Monday 16th August 2021 - Live Stream](https://img.youtube.com/vi/lIiczvt2eps/0.jpg)](http://www.youtube.com/watch?v=lIiczvt2eps "Monday 16th August 2021 - Live Stream")
 
-Fill in...
+On tonights stream, we continued from where we left off in the last stream, working on getting the Cake Extension for Visual Studio working in the new Visual Studio 2022.
+
+While we were able to get some things working, there are other parts that flat out not working.  Most of the stream was spent looking into why the Cake menu structure within Visual Studio isn't working as expected.
+
+Still lots of work to be done here, but it does feel like we are getting somewhere :-)
 
 ### 137 - Monday 9th August 2021
 #### Stream 137 - Updating the Cake Extension for Visual Studio to work with 2022 Preview
