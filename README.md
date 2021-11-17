@@ -128,11 +128,15 @@ Fill in...
 Fill in...
 
 ### 137 - Monday 9th August 2021
-#### Stream 137 - 
+#### Stream 137 - Updating the Cake Extension for Visual Studio to work with 2022 Preview
 
-[![Monday 9th August 2021 - Live Stream](https://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "Monday 9th August 2021 - Live Stream")
+[![Monday 9th August 2021 - Live Stream](https://img.youtube.com/vi/r9lZzE6Cx9I/0.jpg)](http://www.youtube.com/watch?v=r9lZzE6Cx9I "Monday 9th August 2021 - Live Stream")
 
-Fill in...
+On tonights stream we were working on updating the Cake Extension for Visual Studio to work in the new Visual Studio 2022.
+
+In order to get this to function, at the minute at least, you need to actually create two projects (so there are actually two extensions), and the recommendation is to use a shared project to contain the code that is shared between the two extension projects.
+
+The end result is that we had "something" working, meaning that things compiled and we were able to run the new extension within the Visual Studio 2022 Preview.  Still lots of work to be done here, but made some solid progress in this stream.
 
 ### 136 - Monday 2nd August 2021
 #### Stream 136 - Working on the documentation site for GitVersion
