@@ -6,6 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 147 - Monday 29th November 2021
+#### Stream 147 - Let's get the VSCode Extension for Cake ready to ship!
+
+[![Monday 29th November 2021 - Live Stream](https://img.youtube.com/vi/5St35_PLadQ/0.jpg)](http://www.youtube.com/watch?v=5St35_PLadQ "Monday 29th November 2021 - Live Stream")
+
+On tonights stream, we picked up where we left off on the last stream (two weeks ago), and continued working on the VSCode Extension for Cake.
+
+We spent some time removing all on the deprecated runners from the extension, as well as updating the docs around what the extension provides.  After finishing up the core work, we spent some time testing all the functionality to ensure that everything is working as expected.  Happy to say that at the end of the stream, everything was working, and we could start getting things ready to create a Pull Request.
+
+The end result was the creation of this Pull Request:
+
+https://github.com/cake-build/cake-vscode/pull/592
+
 ### 146 - Monday 15th November 2021
 #### Stream 146 - Working on integrating Cake.Bakery into the Cake Extension for Visual Studio Code
 
