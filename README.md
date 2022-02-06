@@ -6,6 +6,28 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 149 - Monday 31st January 2022
+#### Stream 149 - Let's actually ship a new version of GitReleaseManager!
+
+[![Monday 31st January 2021 - Live Stream](https://img.youtube.com/vi/2Caf--eRRvs/0.jpg)](http://www.youtube.com/watch?v=2Caf--eRRvs "Monday 31st January 2022 - Live Stream")
+
+Following on from last weeks stream where we attempted to ship a new version of GitReleaseManager, on tonight&#39;s stream we actually did ship it!  Version 0.13.0 is now out, with support for .Net 6.  This didn't go quite as smoothly as we would have liked, as the publishing of the Chocolatey package failed, and we needed to manually push out the nupkgs after that.  
+
+With that done, we spoke about what we would work on in the upcoming streams, and then provided access to the Cake.Sonar project to a community member who is working on updating the Cake.Sonar project.
+
+### 148 - Monday 24th January 2022
+#### Stream 148 - First stream of 2022 - Let's ship a new version of GitRelaeseManager
+
+[![Monday 24th January 2022 - Live Stream](https://img.youtube.com/vi/9zhoBVtIdhk/0.jpg)](http://www.youtube.com/watch?v=9zhoBVtIdhk "Monday 24th January 2022 - Live Stream")
+
+This was my first stream of 2022, after taking some time off over the Christmas period to re-charge.  I had intended on streaming the last couple of weeks, but due to the fact that I hadn't got everything running on my new MacBook Pro, I hadn't been able to.  
+
+Tonights stream was meant to be about getting a couple of things ready and then ship a new version of GitReleaseManager, with support for .Net 6, as this had been reported by a couple of community members.  However...  
+
+Turns out that the build didn't work on my local machine due to a problem with the version of the T4 templating system that we are using not working on .Net 6.  Updating the reference to that tool made things start working again.  
+
+We then moved onto merging in the dependabot updates that have been waiting for a while now.  We started that process, but we actually ended up with more PR's than we started with, as starting the process of merging them in, triggered more updates to be found.  We will need to continue this work another day...
+
 ### 147 - Monday 29th November 2021
 #### Stream 147 - Let's get the VSCode Extension for Cake ready to ship!
 
