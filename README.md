@@ -6,6 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 150 - Monday 7th February 2022
+#### Stream 150 - Let's work on some Cake stuff!
+
+[![Monday 7th Frebruary 2021 - Live Stream](https://img.youtube.com/vi/Ziu8rR1R534/0.jpg)](http://www.youtube.com/watch?v=Ziu8rR1R534 "Monday 7th February 2022 - Live Stream")
+
+On tonights stream, we spent a bit of time updating the following PR:
+
+https://github.com/cake-build/cake/pull/3768
+
+To address some feedback that came up in the review that was done. Tried to get the integration tests running, but think we are holding something wrong, as they don't seem to be running.
+
+Then we spent some time looking at the Cake Visual Studio extension, to try to address some feedback that came in from the Visual Studio team about the new Visual Studio 2022 version of the extension. We can't find anything wrong with it though, so we might need to reach back out to the team to see what needs to be done.
+
 ### 149 - Monday 31st January 2022
 #### Stream 149 - Let's actually ship a new version of GitReleaseManager!
 
