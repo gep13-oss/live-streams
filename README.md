@@ -6,6 +6,22 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 153 - Monday 25th April 2022
+#### Stream 153 - Adding Chocolatey.Cake.Recipe to the Chocolatey CLI Repository
+
+### 152 - Monday 14th March 2022
+#### Stream 152 - Working on adding GitLab support into GitReleaseManager
+
+Added --provider argment
+Started looking at getting milestone information from GitLab project
+Everything is driven by the project id, but not clear on how to get this information without hard coding it.
+
+### 151 - Monday 28th February 2022
+#### Stream 151 - Setting up OBS and integrating with Discord audio
+
+Switching from StreamLabs OBS and getting things setup in OBS
+Working on getting audio from Discord onto the stream
+
 ### 150 - Monday 7th February 2022
 #### Stream 150 - Let's work on some Cake stuff!
 
