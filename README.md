@@ -9,6 +9,8 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ### 155 - Monday 22nd August 2022
 #### Stream 155 - Let's get back into this Open Source Contribution "thing"
 
+[![Monday 22nd August 2022 - Live Stream](https://img.youtube.com/vi/6iRBojr9LVo/0.jpg)](http://www.youtube.com/watch?v=6iRBojr9LVo "Monday 22nd August 2022 - Live Stream")
+
 Tonight was all about easing myself back into doing "stuff" in Open Source on my Twitch channel.  Started out by reviewing and providing feedback on a PR into the Boxstarter repository. Then we switched over to reviewing/merging a PR into the Chocolatey repository which dealt with adding in a specific git file which excludes certain commits from the blame views in GitHub (this makes it much easier to reason about changes that go into a file, especially when a single change touches a lot of lines within a file).
 
 After that, we then jumped over to the Cake repository a reviewed a couple of PR's from Mattias (devlead).  We were able to get one of them merged, but the other needed some changes and we requested those in the PR, and will need to follow up again with another review, as well as taking the code for a spin to ensure that it works as expected.
@@ -19,6 +21,8 @@ Very happy to be back doing "stuff", and excited about some of the upcoming work
 
 ### 154 - Monday 8th August 2022
 #### Stream 154 - Let's ship a new version of Cake.Recipe
+
+[![Monday 8th August 2022 - Live Stream](https://img.youtube.com/vi/cBtoWP8jpaU/0.jpg)](http://www.youtube.com/watch?v=cBtoWP8jpaU "Monday 8th August 2022 - Live Stream")
 
 In the first stream in a LONG time, I took some time to ship a new 3.0.0 release of Cake.Recipe.  This has been on my todo list for a while now, but after being inspired by Pascal who has been doing a lot of work recently on Cake.Issues, I thought it was time to get it out the door.  Pascal has been using the alpha release of Cake.Recipe and hasn't run into any issues with using it, so that made it "easier" to actually get it shipped.  The one thing that was left was testing it out, and Pascal had essentially already done this!
 
@@ -45,7 +49,7 @@ Working on getting audio from Discord onto the stream
 ### 150 - Monday 7th February 2022
 #### Stream 150 - Let's work on some Cake stuff!
 
-[![Monday 7th Frebruary 2021 - Live Stream](https://img.youtube.com/vi/Ziu8rR1R534/0.jpg)](http://www.youtube.com/watch?v=Ziu8rR1R534 "Monday 7th February 2022 - Live Stream")
+[![Monday 7th February 2022 - Live Stream](https://img.youtube.com/vi/Ziu8rR1R534/0.jpg)](http://www.youtube.com/watch?v=Ziu8rR1R534 "Monday 7th February 2022 - Live Stream")
 
 On tonights stream, we spent a bit of time updating the following PR:
 
