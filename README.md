@@ -18,7 +18,13 @@ Then we started looking at using the Cake.Twitter addin repository as a test bed
 Very happy to be back doing "stuff", and excited about some of the upcoming work that I have in mind.
 
 ### 154 - Monday 8th August 2022
-#### Stream 154 - 
+#### Stream 154 - Let's ship a new version of Cake.Recipe
+
+In the first stream in a LONG time, I took some time to ship a new 3.0.0 release of Cake.Recipe.  This has been on my todo list for a while now, but after being inspired by Pascal who has been doing a lot of work recently on Cake.Issues, I thought it was time to get it out the door.  Pascal has been using the alpha release of Cake.Recipe and hasn't run into any issues with using it, so that made it "easier" to actually get it shipped.  The one thing that was left was testing it out, and Pascal had essentially already done this!
+
+After getting 3.0.0 shipped, I almost immediately notied that the documentation within the nuspec file wasn't right, so we opted to quicky ship another 3.0.1 release to get this corrected.
+
+With this work done, we are now in a position to start thinking about shipping a 4.0.0 release, with support for the 2.x version of Cake.  In order for this to happen, there are a couple of addins that will need to be updated, so that will likely be the focus of upcoming streams.
 
 ### 153 - Monday 25th April 2022
 #### Stream 153 - Adding Chocolatey.Cake.Recipe to the Chocolatey CLI Repository
