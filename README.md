@@ -7,7 +7,15 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 ## Past streams
 
 ### 155 - Monday 22nd August 2022
-#### Stream 155 - 
+#### Stream 155 - Let's get back into this Open Source Contribution "thing"
+
+Tonight was all about easing myself back into doing "stuff" in Open Source on my Twitch channel.  Started out by reviewing and providing feedback on a PR into the Boxstarter repository. Then we switched over to reviewing/merging a PR into the Chocolatey repository which dealt with adding in a specific git file which excludes certain commits from the blame views in GitHub (this makes it much easier to reason about changes that go into a file, especially when a single change touches a lot of lines within a file).
+
+After that, we then jumped over to the Cake repository a reviewed a couple of PR's from Mattias (devlead).  We were able to get one of them merged, but the other needed some changes and we requested those in the PR, and will need to follow up again with another review, as well as taking the code for a spin to ensure that it works as expected.
+
+Then we started looking at using the Cake.Twitter addin repository as a test bed for the recent changes that have been going into Cake.Recipe.
+
+Very happy to be back doing "stuff", and excited about some of the upcoming work that I have in mind.
 
 ### 154 - Monday 8th August 2022
 #### Stream 154 - 
