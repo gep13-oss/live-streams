@@ -6,6 +6,12 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 155 - Monday 22nd August 2022
+#### Stream 155 - 
+
+### 154 - Monday 8th August 2022
+#### Stream 154 - 
+
 ### 153 - Monday 25th April 2022
 #### Stream 153 - Adding Chocolatey.Cake.Recipe to the Chocolatey CLI Repository
 
