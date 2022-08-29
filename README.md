@@ -33,10 +33,18 @@ With this work done, we are now in a position to start thinking about shipping a
 ### 153 - Monday 25th April 2022
 #### Stream 153 - Adding Chocolatey.Cake.Recipe to the Chocolatey CLI Repository
 
+[![Monday 25th April 2022 - Live Stream](https://img.youtube.com/vi/LEBGU5iJ0gE/0.jpg)](http://www.youtube.com/watch?v=LEBGU5iJ0gE "Monday 25th April 2022 - Live Stream")
+
+On tonights stream, we worked on a LONG awaited project, well at least long awaited by me! This was the removal of UppercuT from the build process for the chocolatey/choco GitHub repository, replacing it with a Cake equivalent, in the form of the [Chocolatey.Cake.Recipe](https://github.com/chocolatey/chocolatey.cake.recipe) project (why yes, the name of this project is AMAZING!). This project is now being used on a number of internal projects, and now is the time to start looking at bringing it to the Chocolatey build.
+
+For the most part, we got things working, however, we left it with a couple things not quite working.  Specifically, the creation of the Chocolatey packages isn't working since the assertion of the version number using GitVersion is resulting in a version number that is too long.  And also the generated choco.exe isn't ILMerged with all the parts that it needs to be.  This is due to the fact that the other internal projects use a different tool to do the ILMerge'ing, so a change will be needed to Chocolatey.Cake.Recipe to run the ILMerge tool.
+
+So, still work to be done here, but getting very close to having this working!
+
 ### 152 - Monday 14th March 2022
 #### Stream 152 - Working on adding GitLab support into GitReleaseManager
 
-[![Monday 14th Marcg 2022 - Live Stream](https://img.youtube.com/vi/MzYc-IGiRI4/0.jpg)](http://www.youtube.com/watch?v=MzYc-IGiRI4 "Monday 14th March 2022 - Live Stream")
+[![Monday 14th March 2022 - Live Stream](https://img.youtube.com/vi/MzYc-IGiRI4/0.jpg)](http://www.youtube.com/watch?v=MzYc-IGiRI4 "Monday 14th March 2022 - Live Stream")
 
 On tonights stream, we started work on adding a new provider for GitReleaseManager to allow it to work with GitLab.  This is something that I have looked into before, but never got to a point where it was working/ready.  We set out by bringing in the [NGitLab](https://github.com/ubisoft/NGitLab) library, and trying to get it working for the "simple" thing of finding a milestone on the project. This is centre to how all things work in GitReleaseManager, so it made sense to start here.
 
