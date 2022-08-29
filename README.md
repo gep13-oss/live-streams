@@ -41,10 +41,15 @@ Started looking at getting milestone information from GitLab project
 Everything is driven by the project id, but not clear on how to get this information without hard coding it.
 
 ### 151 - Monday 28th February 2022
-#### Stream 151 - Setting up OBS and integrating with Discord audio
+#### Stream 151 - Switching from Steamlabs OBS to OBS as well as integrating with Discord audio
 
-Switching from StreamLabs OBS and getting things setup in OBS
-Working on getting audio from Discord onto the stream
+[![Monday 28th February 2022 - Live Stream](https://img.youtube.com/vi/mBoJ0miPX_4/0.jpg)](http://www.youtube.com/watch?v=mBoJ0miPX_4 "Monday 28th February 2022 - Live Stream")
+
+On tonights stream, we spent some time looking how we can change from StreamLabs OBS and go direct to OBS instead. I used to use OBS directly before, but _something_ stopped working (I don't recall what), so I made the switch to Streamlabs OBS. After giving it a lot of thought, and reading up on some blogs, I decided to switch back.
+
+The main idea of tonight was to try to get everything switched over, i.e. intros and outros, source, scenes, etc. but it quickly became apparent that this wasn't going to happen, so instead, we pivoted...
+
+Since there were some folks on the stream that were also on Discord, we played with what was required to grab the audio output from Discord and bring it into the stream as an input. After a fair bit of playing around, and with some help from Stevie, we were able to get things working using the [Blackhole 16ch](https://github.com/ExistentialAudio/BlackHole) application on my Mac. With this setup in place, we would be in a position to bring community folks from Discord onto our streams that we do as part of Chocolatey.
 
 ### 150 - Monday 7th February 2022
 #### Stream 150 - Let's work on some Cake stuff!
