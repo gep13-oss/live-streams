@@ -36,9 +36,17 @@ With this work done, we are now in a position to start thinking about shipping a
 ### 152 - Monday 14th March 2022
 #### Stream 152 - Working on adding GitLab support into GitReleaseManager
 
-Added --provider argment
-Started looking at getting milestone information from GitLab project
-Everything is driven by the project id, but not clear on how to get this information without hard coding it.
+[![Monday 14th Marcg 2022 - Live Stream](https://img.youtube.com/vi/MzYc-IGiRI4/0.jpg)](http://www.youtube.com/watch?v=MzYc-IGiRI4 "Monday 14th March 2022 - Live Stream")
+
+On tonights stream, we started work on adding a new provider for GitReleaseManager to allow it to work with GitLab.  This is something that I have looked into before, but never got to a point where it was working/ready.  We set out by bringing in the [NGitLab](https://github.com/ubisoft/NGitLab) library, and trying to get it working for the "simple" thing of finding a milestone on the project. This is centre to how all things work in GitReleaseManager, so it made sense to start here.
+
+We were able to get things working, but it all hinged on knowing ahead of time what the Project ID is, and it isn't clear how to get this.
+
+I will need to reach out to the project maintainers to see what can be done here.
+
+As a follow up, I did reach out to them, and this is what was said...
+
+https://github.com/ubisoft/NGitLab/issues/206
 
 ### 151 - Monday 28th February 2022
 #### Stream 151 - Switching from Steamlabs OBS to OBS as well as integrating with Discord audio
