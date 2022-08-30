@@ -6,6 +6,19 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 156 - Monday 29th August 2022
+#### Stream 156 - Working on updating Cake.AppVeyor
+
+[![Monday 29th August 2022 - Live Stream](https://img.youtube.com/vi/D6_t-76ZixQ/0.jpg)](http://www.youtube.com/watch?v=D6_t-76ZixQ "Monday 29th August 2022 - Live Stream")
+
+On tonights stream, we continued working on Cake.AppVeyor, trying to get to a point where we can ship a new version with support for Cake 2.0.0.  During the week, I worked through all the open Dependabot PR's, leaving on the actual work that needed to be completed.
+
+During the stream, we merged a couple of PR's to address some small issues, as well as directly closing off some others issues.
+
+With that done, we started working through a checklist of best practices for Cake Addins. This checklist was provided by Nils and Augusto, and we made sure that as many of those as possible were completed.
+
+In the remaining time, we then went through and applied all of the StyleCop/EditorConfig suggestions to the code base. This will hopefully make the code more maintainable in the long run. We left some StyleCop warnings in place, and these were all to do with missing documentation, and my plan is to address those through the week, so we can ship a new release on the next stream.
+
 ### 155 - Monday 22nd August 2022
 #### Stream 155 - Let's get back into this Open Source Contribution "thing"
 
