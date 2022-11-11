@@ -6,6 +6,52 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 160 - Monday 7th November 2022
+#### Stream 160 - Final part of working on Spectre.Console addition to Cake
+
+[![Monday 7th November 2022 - Live Stream](https://img.youtube.com/vi/IONSVWkAwIM/0.jpg)](http://www.youtube.com/watch?v=IONSVWkAwIM "Monday 7th November 2022 - Live Stream")
+
+On tonights stream we finished up the work on adding in a Spectre.Console alternative report writer for Cake output. This is configurable via a configuration option, and allows for the inclusion of a new summary column in the Cake summary to include the reason that as given task was skipped.
+
+The completion of this work can be found here:
+
+https://github.com/cake-build/cake/pull/4056
+
+And it actually shipped as part of Cake v3.0.0.
+
+We closed out the stream by taking the new Twitch Guest Star feature for a spin. This allows you to easily bring guests onto your stream. This all seemed to be working, however, although we were able to "see" my guest (Stevie), we weren't able to hear him. Going to have to play with this, but looks really useful if we can figure it out!
+
+### 159 - Monday 31st October 2022
+#### Stream 159 - Second part of working on Spectre.Console addition to Cake
+
+[![Monday 31st October 2022 - Live Stream](https://img.youtube.com/vi/YXEHvdPZzp4/0.jpg)](http://www.youtube.com/watch?v=YXEHvdPZzp4 "Monday 31st October 2022 - Live Stream")
+
+On tonights stream, we continued to work on adding an alternative Report Printer for Cake using Spectre.Console. On the last stream, we worked on adding in a new column to the summary output, and on tonights stream, we extended the usage of Spectre.Console to also output the header section for each task, when executed.
+
+There is still a little bit of work to be done in this implementation, but it feels like we are getting close, perhaps one more week, and we should have everything ready to ship.
+
+### 158 - Monday 24th October 2022
+#### Stream 158 - Working on Spectre.Console addition to Cake
+
+[![Monday 24th October 2022 - Live Stream](https://img.youtube.com/vi/5MQ60GSK8WA/0.jpg)](http://www.youtube.com/watch?v=5MQ60GSK8WA "Monday 24th October 2022 - Live Stream")
+
+On tonights stream, we started working on a new addition to Cake where we make use of Spectre.Console to provide an alternative report printer.  The idea behind this is that I want to be able to include information about the reason that a given task has been skipped within the summary output from Cake, rather than having to scroll back up through the build output to find out why a task was skipped.
+
+I have never really played with Spectre.Console before, but fortunately a coupe of folks (Patrik, Nils, and Kim) were on the stream who were able to provide guidance for how to get started.
+
+I think this will make a great addition to Cake, and I am looking forward to getting this new feature shipped in next release of Cake.
+
+### 157 - Monday 10th October 2022
+#### Stream 157 - Working on updating Cake.Transifex
+
+[![Monday 10th October 2022 - Live Stream](https://img.youtube.com/vi/ZrmZXe6-0_s/0.jpg)](http://www.youtube.com/watch?v=ZrmZXe6-0_s "Monday 10th October 2022 - Live Stream")
+
+On tonights stream, we were working on merging some PR's into the Cake.Transifex repository. There were a number of PR's from dependabot for updating the various dependencies that it has.
+
+Getting this addin updated is part of the process for getting a new Cake 2.0.0 compatible release of Cake.Recipe ready.  Still a fair bit of work to do here, but getting there.
+
+Towards the end of the stream, there was a discussion about the different hosting options for Chocolatey packages, and also upcoming support for both NuGet v2 and v3 feeds.
+
 ### 156 - Monday 29th August 2022
 #### Stream 156 - Working on updating Cake.AppVeyor
 
