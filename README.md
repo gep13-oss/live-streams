@@ -6,6 +6,30 @@ I stream on [Twitch](https://www.twitch.tv/gep13), on topics such as Chocolatey,
 
 ## Past streams
 
+### 162 - Monday 28th November 2022
+#### Stream 162 - Working on the Cake.BuildSystems.Module - Part 2
+
+[![Monday 28th November 2022 - Live Stream](https://img.youtube.com/vi/vDJgUm5snGA/0.jpg)](http://www.youtube.com/watch?v=vDJgUm5snGA "Monday 28th November 2022 - Live Stream")
+
+On tonights stream, I was joined by [Nils](https://twitter.com/nils_andresen) via the new [Twitch Guest Star](https://help.twitch.tv/s/article/guest-star) functionality, in order to continue working on the Cake.BuildSystems.Module.
+
+Following on from last weeks stream, I noticed a couple things about the log grouping in GitHub Actions, that I wasn't really happy with.  Digging into this on stream, we think that we need to go back to the ICakeEngine, in order to provide some more information, so that we can expose/use this information in the Module. For example, whether a task is skipped so that we can show, or not, the grouped information.  And also for example whether a task actually has a TaskSetup/TaskTeardown.  Without this information, we end up with empty log grouping in the GitHub Actions interface that we don't want.
+
+With investigation of this area complete, we set about getting the Step Summary work done, so that we can see the Cake Task Summary in the GitHub Actions UI.  After a little bit of tweaking, we were able to get this working, and actually took this for a spin in a test GitHub Actions workflow.  The only thing that is left in this area, and something that I think we need to go back to Cake with again, is that we _always_ want to see the output summary, even if there is a failure.
+
+### 161 - Monday 21st November 2022
+#### Stream 161 - Working on Cake.BuildSystems.Module - Part 1
+
+[![Monday 21st November 2022 - Live Stream](https://img.youtube.com/vi/oHlPGI2iJXU/0.jpg)](http://www.youtube.com/watch?v=oHlPGI2iJXU "Monday 21st November 2022 - Live Stream")
+
+On tonights stream, we started doing some work on the Cake.BuildSystems.Module, which is part of the Cake-Contrib GitHub Organisation:
+
+https://github.com/cake-contrib/Cake.BuildSystems.Module
+
+On the stream, we were able to review a PR into this repository to add support for grouping of log messages in GitHub Actions (which was provided by Nils) and ship version 4.2.0.
+
+Once this was done, we started looking at what is required to update the Module to use the latest version of Cake, since doing this provides the ability to write out to the step summary of a GitHub Actions workflow.  We stubbed out an implementation of the ICakeReportPrinter, to take advantage of this, but this will need some more work, which I am hoping to continue next week.
+
 ### 160 - Monday 7th November 2022
 #### Stream 160 - Final part of working on Spectre.Console addition to Cake
 
